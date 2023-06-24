@@ -17,7 +17,7 @@ Our SentioNova Curriculum is a free, open-source educational program designed to
 * 💸 Free and Open-Source: Offering an affordable and accessible solution, making quality education available to all by leveraging open-source technology.
 
 * 📚 Aligns with All Educational Standards: Designed with compatibility in mind, meeting the requirements of all major educational standards, ensuring students receive a comprehensive and effective education.
-* 
+  
 ---
 
 [Joone 501(c)(3)](https://joone.org) © [CC BY-NC-ND](https://github.com/joone-org/SentioNova/blob/main/LICENSE.md)<br>
