@@ -1,6 +1,5 @@
-##### Joone 501(c)(3) © [CC BY-NC-ND](https://github.com/joone-org/SentioNova/blob/main/LICENSE.md)
-<br>
-# SentioNova Curricula
+##### Joone 501(c)(3) © [CC BY-NC-ND](https://github.com/joone-org/SentioNova/blob/main/LICENSE.md)<br><br>
+## SentioNova Curricula
 
 ✨ **Learning to Redefine Tomorrow**
 
@@ -17,9 +16,7 @@ Assessment and feedback are integral to the learning process, and this platform 
 Accessibility is a cornerstone of this platform. Building upon the principles of Universal Design for Learning, it provides an environment that is both accessible and inclusive, ensuring that students of all abilities, languages, and backgrounds are catered to.
 
 Data privacy is also a priority. Rigorous measures are taken to protect student data, so users can trust in the platform's commitment to their privacy and security. The platform also boasts excellent integration capabilities, syncing seamlessly with a range of other commonly used digital tools in education, further simplifying the learning process.
-
-&nbsp;&nbsp;
-
+<br><br>
 🔑 Key features:
 - 🧠 Intelligent Systems: Advanced AI-driven technology facilitates seamless learning experiences, allowing educators to focus on what matters most - teaching.
 - ⚡ Instant and Customizable Lesson Plans: Save time and effort with instantly generated, customizable lesson plans tailored to every student's diverse needs.
