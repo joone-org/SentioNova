@@ -1,5 +1,5 @@
-##### Joone 501(c)(3) © CC BY-NC-ND
-<br><br>
+##### Joone 501(c)(3) © [CC BY-NC-ND](https://github.com/joone-org/SentioNova/blob/main/LICENSE.md)
+<br>
 # SentioNova Curricula
 
 ✨ **Learning to Redefine Tomorrow**
