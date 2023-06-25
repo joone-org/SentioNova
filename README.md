@@ -1,6 +1,6 @@
 ✨ **Learning to Redefine Tomorrow**
 
-Our SentioNova Curriculum is a free, open-source solution designed to blend [core academics](https://github.com/joone-org/SentioNova/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/SentioNova/wiki/Career-Technical-Education-(CTE)-Pathways). Developed with [community contributions](https://github.com/joone-org/SentioNova/wiki), our content is continuously updated by a global community focused on inclusivity and equity.
+Our SentioNova Curriculum is a free, open-source solution designed to blend [core academics](https://github.com/joone-org/SentioNova/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/SentioNova/wiki/Career-Technical-Education-(CTE)-Pathways) to guide students on their journey towards specific career choices. Developed with [community contributions](https://github.com/joone-org/SentioNova/wiki), our content is continuously updated by a global community focused on inclusivity and equity.  We're reshaping the future of education, making it more relevant, engaging, and accessible for all.
 
 ---
 
