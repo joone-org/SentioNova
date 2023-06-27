@@ -1,7 +1,12 @@
 We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). With an emphasis on college and career readiness, our approach is diverse, inclusive, and equitable. All content, contributed by a [global community](https://github.com/joone-org/curriculum.joone.org/wiki), is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System (LMS)](https://en.wikipedia.org/wiki/Learning_management_system).
+<br><br>
+You're welcome to review the initial iterations of our work and contribute your insights to their ongoing development:
+* [⚙️ Introduction to ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/blob/main/Introduction%20to%20ChatGPT-4.pdf)
+* [💭 Lyra's Journey with OCD](https://github.com/joone-org/curriculum.joone.org/blob/main/Lyra's%20Journey%20with%20OCD.pdf)
+* [🏴‍☠️ Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)
 
+<br><br>
 Our intent is to further contribute high quality K-12 [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources) to the following projects:
-
 * [Commons](https://commons.wikimedia.org/): Commons is a shared media repository that hosts a vast collection of multimedia files. Educators can access images, illustrations, diagrams, and videos from Commons to enhance classroom presentations, create engaging learning materials, and facilitate visual learning experiences for K-12 students.
 
 * [MediaWiki](https://www.mediawiki.org/): MediaWiki is the software platform behind many Wikimedia projects, including Wikipedia. While it is primarily focused on software development, it can be relevant for educators and developers interested in creating their own educational platforms or utilizing wiki-based tools for collaborative learning.
