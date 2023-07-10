@@ -1,108 +1,154 @@
-Attribution-NonCommercial-NoDerivatives 4.0 International
----------------------------------------------------------
+# Intro to MidJourney
+### A Photobook of AI-Generated Imagery
+<br>
 
-Official translations of this license are available:
-[العربية](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ar), [čeština](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.cs), [Dansk](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.da), [Deutsch](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.de), [Ελληνικά](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.el), [Español](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es), [euskara](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.eu), [suomeksi](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fi), [français](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fr), [Frysk](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.fy), [hrvatski](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.hr), [Bahasa Indonesia](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.id), [italiano](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.it), [日本語](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ja), [한국어](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ko), [Lietuvių](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.lt), [latviski](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.lv), [te reo Māori](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.mi), [Nederlands](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.nl), [norsk](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.no), [polski](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pl), [português](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.pt), [română](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ro), [русский](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.ru), [Slovenščina](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.sl), [svenska](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.sv), [Türkçe](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.tr), [українська](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.uk), [中文](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans), [華語](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hant). 
+Midjourney is a Discord-based AI service that turns textual prompts into unique images. It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
 
-Please read the [FAQ](https://creativecommons.org/faq/#officialtranslations) for more information about official translations.
+Prompts follow this formula:  _/imagine [Subject and Setting]. [Style Keywords]. [Parameters]_
+<br><br>
 
-### Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
+#### 📝  Part 1 - Subject and Setting
+* To optimize prompts, start with a clear subject (a 'colossal' elephant differs visually from a 'big' one), and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment ('bathing at sunset in the Serengeti during fall'). Unspecified details are randomized, so be as specific as you can. Use nuanced adjectives ('tranquil', 'melancholic', 'ecstatic', etc.) to add mood. 
+* Example: Instead of just ‘elephant', use "_A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole._"
 
-By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+#### 🔍  Part 2 - Style Keywords
+* Midjourney interprets a nearly infinite range of artistic instructions. Define the medium (e.g., 'photo', '3D sand sculpture', 'linocut print'). Describe your desired lighting (e.g., 'soft ambient', 'neon', 'candle-lit'), and pair it with a color scheme (e.g., 'monochromatic', 'earth tones', 'cyberpunk neon'). Arrange your scene using terms like (e.g., 'low-angle shot', 'bird's eye view', 'rule of thirds composition'). Mention the desired artistic style (e.g., 'Cubism', 'Anime', 'Film Noir', 'Banksy-like street art'), or specify the historical period or specific environment for added context. Include additional descriptors (e.g., 'shallow depth of field', 'vignette', 'splatter effect') to refine your scene. For high realism, specify camera effects, settings, setup (e.g., 'Canon EOS 5D Mark IV, using a 24-70mm lens at f/2.8, with a long exposure of 15 seconds'). 
+* Maintain concise clarity with each keyword, and don't confine yourself to the provided examples. Whether it's the aesthetics of a 'polaroid snapshot', the drama of 'baroque lighting', the composition of a 'kaleidoscope', or the eccentricity of a 'cyberpunk art style', MidJourney can understand and execute it all, so don't hesitate to experiment with unusual mediums, innovative lighting, creative compositions, and unexplored artistic styles.
+* Example: "_A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading._" 
 
-Section 1 -- Definitions.
+#### 🎨 Part 3 - Parameters
+* "**::**" enables separate specification of different image components. 'African elephants::bathing at sunset' tells Midjourney to treat 'African elephants' and 'bathing at sunset' as distinct parts
+* “**--ar <width:height>**” dictates the width-to-height aspect ratio
+* “**--no**” omits specific elements from your image
+* “**--niji 5**” produces anime aesthetic and illustrative styles. Niji adds these options to “--style <cute, expressive, original, scenic>”
+* “**--style <raw>**” in traditional mode creates photorealistic images
+* “**--s <0–1000>**” adjusts the level of Midjourney's trained artistic style in your image, with lower values creating more literal interpretations of your prompt and higher values infusing stronger artistic stylization
+* “**--q <.25, .5, 1 (default)>**" regulates the level of detail in the rendering. Lower quality values produce less detailed images, leading to more painterly or abstract styles, perfect for certain artistic needs
+* “**--chaos <0–100>**” and “**--weird <0–3000>**” enhance image unpredictability. --chaos varies within the AI's standard style, while --weird creates distinctly unconventional images. Use these sparingly as they often result in overly abstract or distorted results.
+* Include only relevant parameters to avoid confusing the AI.
+* Example: "_A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading --ar 16:9 --s 700 --q .5_"
 
-1.  Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this Public License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
-2.  Copyright and Similar Rights means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this Public License, the rights specified in Section [2(b)(1)-(2)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s2b) are not Copyright and Similar Rights.
-3.  Effective Technological Measures means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
-4.  Exceptions and Limitations means fair use, fair dealing, and/or any other exception or limitation to Copyright and Similar Rights that applies to Your use of the Licensed Material.
-5.  Licensed Material means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
-6.  Licensed Rights means the rights granted to You subject to the terms and conditions of this Public License, which are limited to all Copyright and Similar Rights that apply to Your use of the Licensed Material and that the Licensor has authority to license.
-7.  Licensor means the individual(s) or entity(ies) granting rights under this Public License.
-8.  NonCommercial means not primarily intended for or directed towards commercial advantage or monetary compensation. For purposes of this Public License, the exchange of the Licensed Material for other material subject to Copyright and Similar Rights by digital file-sharing or similar means is NonCommercial provided there is no payment of monetary compensation in connection with the exchange.
-9.  Share means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including in ways that members of the public may access the material from a place and at a time individually chosen by them.
-10. Sui Generis Database Rights means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
-11. You means the individual or entity exercising the Licensed Rights under this Public License. Your has a corresponding meaning.
+#### 🏰 Prompt Examples
+* A bustling scene at a futuristic Neo-Tokyo cityscape during the neon-lit night. Cyberpunk art style, vibrant neon colors, rain-soaked streets, high-angle view. --ar 16:9 --s 500 --chaos 20
+* A tranquil moment of a flock of birds taking flight at dawn. Impressionism, soft morning light, pastel color palette, bird's eye view. Birds::in flight at dawn. --ar 1:1 --s 700
+* An abstract representation of a musical performance. Synesthesia, vibrant colors, chaotic composition. Music::expressed as colors and shapes. --s 800 --chaos 50
+* A lush forest path under a canopy of leaves, bathed in dappled sunlight. Ukiyo-e Flat Design, earth tones, soft ambient light. Forest::sunlight filtering through leaves. --ar 9:16 --s 300
+* A 1980s style arcade room filled with neon lit game machines. Pop-Art, vibrant colors, retro atmosphere. Arcade room::neon lit game machines. --ar 16:9 --s 400 --chaos 20
+* A surreal landscape with floating islands and strange, alien flora. Psychedelic, vibrant hues, bird's eye view. Alien flora::shimmering in bioluminescent hues --ar 16:9 --s 600 --chaos 30
+* A portrait of a majestic wolf standing in a snowy forest. Cubism, monochromatic palette, high contrast. Wolf::surrounded by snowfall --ar 1:1 --s 500
+* An intricate mandala design with floral motifs. Watercolor, vibrant colors, detailed patterns. Mandala::with floral motifs. --ar 1:1 --s 800
+* A bustling Harlem Renaissance-era jazz club filled with lively patrons. Art Deco, sepia tones, dynamic composition. Jazz club::Harlem Renaissance era --ar 16:9 --s 500
+* A serene Zen garden with neatly arranged rocks and raked sand. Japanese woodblock print style, muted color palette, minimalist composition. Zen garden::with rocks and raked sand --ar 16:9 --s 300
+* [https://github.com/joone-org/curriculum.joone.org/wiki/MidJourney-Prompt-Examples](https://github.com/joone-org/curriculum.joone.org/wiki/MidJourney-Prompt-Examples)
 
-Section 2 -- Scope.
+Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
-1.  License grant.
-    1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
-        1.  reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and
-        2.  produce and reproduce, but not Share, Adapted Material for NonCommercial purposes only.
-    2.  Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
-    3.  Term. The term of this Public License is specified in Section [6(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6a).
-    4.  Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section [2(a)(4)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s2a4) never produces Adapted Material.
-    5.  Downstream recipients.
+<br>
 
-        1.  Offer from the Licensor -- Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.
-        2.  No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.
+---
 
-    6.  No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1Ai).
-2.  Other rights.
+☝️  To use ChatGPT as a prompt generator, paste all of the above text into it and respond to its question with your desired image or emoji 
 
-    1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
-    2.  Patent and trademark rights are not licensed under this Public License.
-    3.  To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+---
 
-Section 3 -- License Conditions.
+<br>
 
-Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+💬 Join Midjourney's [Discord](https://discord.gg/midjourney) for support, announcements, and discussions; as a subscriber, you can directly interact with the bot through Discord messages or incorporate it into your own server to use these commands:
+* **/imagine** generates low-resolution image grids from your prompts, with options to create variations, upscale, or repeat actions. Use images as prompts by adding a direct image URL (.png, .jpg, .jpeg, .gif, .webp) at the beginning of your prompt. Adjust the impact of an image on the final output using the --iw (image weight) parameter. Values range from 0 to 2, with 1 as the default, and higher values increase the image's influence.
+* **/blend** combines 2-5 images. For harmonious and cohesive results, ensure the aspect ratios of the uploaded images match your desired final image's ratio.
+* **/describe** produces four potential text prompts related to the uploaded image, ideal for exploring new vocabulary, discovering artistic styles, and gaining fresh perspectives on an image.
+* **/fast, /relax, /turbo** allow you to adjust the speed of image generation based on your subscription plan and allocated GPU time
+* **/help** provides basic information and tips
+* **/info** shows your current plan, mode, and jobs
+* **/prefer** commands in Midjourney offer personalized shortcuts and options
+* **/remix** allows variation by editing prompts, parameters, etc
+* **/settings** allows you to view and adjust model version, style and quality values, upscaler version, etc.
+* **/stealth** disables **/public** by hiding your generated images on midjourney.com
+* **/subscribe** to the four subscription plans: Basic, Standard, Pro, Mega
 
-1.  Attribution.
+<br>
 
-    1.  If You Share the Licensed Material, You must:
+⚙️ There are also various parameters that can be added to the end of prompts to customize the image generation process:
+* Aspect ratios can be adjusted by using '--aspect' or '--ar', followed by the desired ratio, in the prompt, affecting the image's composition. The ratio of an existing image can be modified using the Zoom Out buttons, with the bot filling new spaces based on the initial prompt.
+* By using '--chaos' or '--c' followed by a number from 0 to 100, you can control the unpredictability level of image results, with higher values creating more varied and unexpected outcomes, and lower values yielding more reliable and repeatable images.
+* Using '--iw' followed by a value between 0 and 2, you can determine the relative importance of an image prompt versus a text prompt, influencing the final image's significant impact.
+* Multi-prompts help specify distinct parts of an image generation task by separating prompts with a double colon (::), where you can assign different weights to denote their importance, and negative weights can be used to remove certain elements from the image generation.
+* The option '--no' allows users to exclude specific elements from the generated image, such as using '--no plants' to create an image without any plants.
+* By adjusting '--quality' or '--q', you can control the level of detail and render time for generated images, where .25 offers faster, less detailed images, .5 offers a balance, and 1 ensures the highest detail, using more GPU resources.
+* Using '--repeat' allows Standard and Pro subscribers to generate multiple unique images from one prompt, with Standard users able to create up to 10 and Pro users up to 40 images in Fast GPU mode. For consistent output, users can apply the "seed" command to a prompt.
+* The '--seed' option lets you specify a seed number, providing a consistent 'noise' field for the image generation process, which can result in similar outputs when the same prompt and seed are used, aiding in maintaining consistency in a series of images.
+* By applying '--stop', you can terminate the image generation process partway through, resulting in more abstract or less detailed images based on the chosen stop value, providing a way to create more impressionistic outputs.
+* With '--style', different aesthetic options are offered for generated images, including raw, cute, expressive, original, or scenic, helping users tailor the aesthetic appeal of their outputs based on the specific model version in use.
+* The '--stylize' option adjusts the intensity of the platform's default artistic style in generated images, where a lower value results in more literal interpretations and higher values yield more stylized, artistic outputs.
+* The use of '--tile' creates seamless or tileable patterns, which can be replicated in graphic design for backgrounds, textures, or patterns without noticeable breaks.
 
-        1.  retain the following if it is supplied by the Licensor with the Licensed Material:
-            1.  identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
-            2.  a copyright notice;
-            3.  a notice that refers to this Public License;
-            4.  a notice that refers to the disclaimer of warranties;
-            5.  a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
-        2.  indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
-        3.  indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.For the avoidance of doubt, You do not have permission under this Public License to Share Adapted Material.
-    2.  You may satisfy the conditions in Section [3(a)(1)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
-    3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1A) to the extent reasonably practicable.
+<br>
 
-Section 4 -- Sui Generis Database Rights.
+💡 Tips and Tricks
 
-Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
+* The [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contains a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other details.
 
-1.  for the avoidance of doubt, Section [2(a)(1)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;
-2.  if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and
-3.  You must comply with the conditions in Section [3(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a) if You Share all or a substantial portion of the contents of the database.
+* The Pan feature in Midjourney allows for extending the image canvas in a chosen direction without altering the original image content. It's useful for expanding the scene or adding content in a specific direction. However, once a pan direction is chosen (horizontal or vertical), subsequent panning must continue in the same direction. Panning is compatible with the Remix Mode, enabling modifications of the prompt when panning to influence the new content added to the image.
 
-For the avoidance of doubt, this Section [4](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.
+* The Zoom Out option in Midjourney enables expansion of the image beyond its original boundaries, creating an extended version of the initial image. After upscaling an image, "Zoom Out 2X" and "Zoom Out 1.5X" options are available to expand the image canvas by 100% or 50%, respectively. The "Make Square" option adjusts the aspect ratio of a non-square image to make it square. The "Custom Zoom" feature lets users specify a custom zoom out value, offering control over the canvas size and aspect ratio for creative flexibility.
 
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+* Permutation Prompts facilitate the creation of multiple image variations in a single command by including a list of options in curly braces {} in your prompt. It's useful for exploring different versions or combinations of a concept. For instance, the prompt /imagine prompt a {red, green, yellow} bird generates three separate images of birds in red, green, and yellow colors. This feature also allows for parameter variations and can be used with multiple sets of options in a prompt to create permutations of multiple variables. The number of jobs per Permutation Prompt is based on the user's subscription level, and each job generated will consume GPU minutes.
 
-1.  Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
-2.  To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You.
+* When attempting to create an avatar from a selfie using Midjourney, the prompt's accuracy can significantly impact the results. If you're struggling to get satisfactory results, follow these steps to improve the process. First, upload your selfie, preferably with minimal background, to the Midjourney bot on Discord by typing /describe and attaching your image. Then, initiate the prompt box by typing "/imagine". Drag your uploaded image into the box to add its URL. The formula for personal avatars is as follows: /imagine [Image URL], [Description of subject], [Keywords related to scene], [Style], [Parameters]. For the description and style ideas, elaborate on the output provided by the /describe command used in the first step. The keywords should include "Keep the consistency of action, expression, clothing, shape, and appearance of the photos, super detail." Use the parameter “— iw 2” to yield results that look more like the original image. 
+  * Example:  [URL], keep the consistency of action, expression, clothing, shape and appearance of the photos, super detail --iw 2
 
-1.  The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
+<br>
 
-Section 6 -- Term and Termination.
+✨ Emoji Prompts
+* 🐉 A towering, majestic dragon perched atop a craggy mountain peak, its scales shimmering under the moonlight. Traditional Asian ink painting style, nighttime setting, monochromatic color scheme, bird's-eye view, strong contrast. --ar 1:1 --s 800 --q .5
+* 🏞️ A breathtaking view of a pristine alpine valley with a mirror-like lake surrounded by towering, snow-capped mountains under a clear blue sky. Bob Ross-inspired oil painting style, daytime setting, vibrant colors, panoramic view, detailed foliage. --ar 16:9 --s 600 --q .5
+* 🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun. Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. --ar 1:1 --s 500 --q .5
+* 🎭 A dramatic scene on a Baroque-style theatre stage, with a masked performer in the spotlight, set against a backdrop of lush red velvet curtains. Renaissance painting style, chiaroscuro lighting, rich color palette, centered composition, high level of detail. --ar 16:9 --s 600 --q .5
+* 🍄 A whimsical scene in an enchanted forest filled with oversized, luminescent mushrooms and tiny glowing fairy-like creatures. Studio Ghibli anime style, dusk setting, vibrant and surreal colors, low-angle shot, soft ambient light. --ar 16:9 --s 700 --q .5
+* 🌌 A mesmerizing scene of the Milky Way stretching across the night sky, illuminating a tranquil, lonely mountain. Van Gogh's Starry Night-inspired style, dark sky, vibrant and contrasting colors, low-angle view, strong brush strokes. --ar 16:9 --s 800 --q .5
+* 🐠 A vibrant underwater world bustling with life, featuring a colorful clownfish navigating through the vivid corals of a bustling reef. Anime style, deep-sea lighting, saturated color palette, medium shot, detailed marine life. --ar 16:9 --s 700 --q .5
+* 🌺 A single, radiant hibiscus flower, dew-kissed and basking in the morning sunlight against a lush tropical background. Botanical illustration style, morning lighting, vibrant color palette, close-up shot, highly detailed. --ar 1:1 --s 800 --q .5
+* 🗻 A serene scene of Mount Fuji in winter, its snow-capped peak bathed in the soft glow of a rising sun, with cherry blossom trees framing the foreground. Ukiyo-e style, dawn lighting, muted color palette, medium shot, subtle grain effect. --ar 16:9 --s 600 --q .5
+* 🌠 A breathtaking view of a shooting star streaking across the night sky over a tranquil, mirror-like lake surrounded by pine forests. Impressionism style, night setting, cool color palette, panoramic view, star trail effect. --ar 16:9 --s 700 --q .5
+* 🏯 A grand, historic Japanese castle nestled amidst vibrant cherry blossom trees, with Mount Fuji majestically visible in the background. Ukiyo-e woodblock print style, spring setting, vibrant color palette, eye-level view, high detail. --ar 16:9 --s 700 --q .5
+* 🌍 A captivating view of Earth from space, with a radiant sunrise illuminating the continents against the deep blue oceans. Space photography style, sunrise lighting, vibrant colors, high-angle view, realistic detail. --ar 16:9 --s 800 --q .5
+* 🌕 A detailed view of the full moon against a starry night sky, its craters and features vividly visible. Realistic astrophotography style, night setting, monochromatic color palette, centered composition, high contrast. --ar 1:1 --s 800 --q .5
+* 🌈 A pastoral scene after a rain shower, with a vibrant rainbow arching across the sky over a verdant meadow dotted with wildflowers. Watercolor style, soft ambient light, full color spectrum, panoramic view, impressionistic brushstrokes. --ar 16:9 --s 600 --q .5
+* ⚡ A dramatic scene of a powerful lightning bolt splitting the night sky over a lonely lighthouse by the stormy sea. Romanticism style, night setting, dynamic lighting, cool color palette, high contrast. --ar 16:9 --s 700 --q .5
+* 🎠 An enchanting scene of a vintage carousel aglow with fairy lights in a bustling night-time city park. Art Nouveau style, night setting, vibrant colors, medium shot, bokeh effect. --ar 16:9 --s 700 --q .5
+* 🎡 A bustling fairground at dusk, with a towering Ferris wheel brightly lit against the twilight sky. Vintage photography style, soft ambient light, warm color palette, low-angle view, film grain effect. --ar 16:9 --s 600 --q .5
+* 🏜️ A vast, tranquil desert landscape under a blazing sunset, with towering sand dunes casting long, dramatic shadows. Minimalist oil painting style, sunset lighting, warm color palette, wide-angle view, smooth texture. --ar 16:9 --s 700 --q .5
+* 🐋 A giant, serene blue whale gliding gracefully through the deep ocean, surrounded by a myriad of bioluminescent marine life. Anime style, deep-sea lighting, cool color palette, medium shot, exaggerated proportions. --ar 16:9 --s 700 --q .5
+* 🏕️ A cozy campsite nestled among towering pines, a crackling fire casting a warm glow against the starlit wilderness. Digital painting style, night setting, warm and cool color palette, medium shot, detailed environment. --ar 16:9 --s 600 --q .5
+* 🗽 The iconic Statue of Liberty standing tall against a dramatic sunset, with the bustling New York City skyline in the backdrop. Photorealistic style, sunset lighting, warm color palette, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🕌 A grand, intricately designed mosque at dusk, its minarets and domes bathed in the golden light of the setting sun, with a star-speckled evening sky in the background. Islamic geometric art style, dusk setting, warm color palette, eye-level view, high detail. --ar 16:9 --s 700 --q .5
+* 🦚 A magnificent peacock proudly displaying its colorful, iridescent plumage in a lush, sunlit garden. Traditional Indian miniature painting style, midday lighting, vibrant color palette, medium shot, high detail. --ar 1:1 --s 800 --q .5
+* 🐘 A gentle giant of an African elephant roaming the grasslands at sunset, its silhouette framed against the vibrant, orange sky. African folk art style, sunset lighting, warm color palette, low-angle view, high detail. --ar 16:9 --s 600 --q .5
+* 🌵 An arid desert landscape dotted with towering saguaro cacti, under the blazing midday sun. Southwestern art style, daytime lighting, warm color palette, wide-angle view, impressionistic brush strokes. --ar 16:9 --s 700 --q .5
+* 🍁 A close-up of a fiery red maple leaf, wet with morning dew, contrasted against the soft-focus backdrop of a serene autumn forest. Macro photography style, soft morning light, warm autumnal color palette, shallow depth of field, high detail. --ar 1:1 --s 800 --q .5
+* 🏰 🌌 An ancient, towering castle silhouetted against the mesmerizing beauty of a star-studded night sky, with the faint glow of the Milky Way stretching across the horizon. Romanticism style, night setting, cool color palette, low-angle view, star trail effect. --ar 16:9 --s 700 --q .5
+* 🐉 🏞️ A mighty, emerald-green dragon soaring above verdant valleys, cascading waterfalls, and towering mountains under a bright, cloudless sky. Fantasy art style, daytime setting, vibrant color palette, bird's-eye view, high level of detail. --ar 16:9 --s 700 --q .5
+* 🦄 🌈 A magical scene with a white, majestic unicorn standing on a hilltop with a vibrant, arcing rainbow in the sky above. Fairy-tale illustration style, sunny day setting, full color spectrum, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🏝️ 🌅 A tranquil scene of a palm-fringed tropical island at sunset, the sky ablaze with colors, and the calm ocean reflecting the warm hues. Watercolor style, golden hour, warm sunset palette, panoramic eye-level view, impressionistic brushstrokes. --ar 16:9 --s 700 --q .5
+* 🌆 🌸 A bustling cityscape at dusk, framed by blooming cherry blossom trees that lend a burst of color against the modern steel and glass structures. Anime style, twilight setting, vibrant color palette, high-angle view, soft focus. --ar 16:9 --s 700 --q .5
+* 🌲 🦌 A peaceful scene of a graceful deer standing amid a serene forest of towering pine trees, the morning light filtering through the dense foliage. Digital painting style, soft morning light, earth tones, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🌕 🐺 A lone, majestic wolf silhouetted against the backdrop of a radiant full moon, its haunting howl echoing through the quiet wilderness. Gothic style, nighttime setting, monochromatic color palette, medium shot, high contrast. --ar 1:1 --s 700 --q .5
+* 🗽 🎆 A spectacular Fourth of July fireworks display illuminating the night sky behind the iconic Statue of Liberty. Photorealistic style, night setting, vibrant color palette, medium shot, long exposure effect. --ar 16:9 --s 800 --q .5
+* 🏔️ 🦅 A majestic eagle soaring over a rugged mountain range, its wings catching the light of the setting sun. Wildlife illustration style, sunset setting, warm color palette, bird's-eye view, high detail. --ar 16:9 --s 700 --q .5
+* 🍁 🍂 🏞️ A lush forest path carpeted with fallen leaves, the trees displaying vibrant hues of autumn, with a tranquil stream running nearby. Impressionism style, daytime lighting, warm autumn color palette, medium shot, brushstroke texture. --ar 16:9 --s 700 --q .5
+* 🏞️ 🌅 🐎 A graceful horse galloping freely across a vast, grassy meadow, bathed in the warm hues of a spectacular sunset. Western art style, golden hour, warm color palette, panoramic view, high detail. --ar 16:9 --s 700 --q .5
+* 🏰 🌜 🦉 A mysterious scene of an old castle silhouetted under a crescent moon, with a lone owl perched on a high turret, its eyes glowing in the dark. Gothic style, nighttime setting, cool color palette, medium shot, high contrast. --ar 16:9 --s 800 --q .5
+* 🏙️ 🌧️ 🚁 A bustling cityscape on a rainy night, the lights reflected in slick streets, with a helicopter flying low over the glowing skyscrapers. Film Noir style, night setting, cool color palette, high-angle view, rain effect. --ar 16:9 --s 700 --q .5
+* 🏝️ 🌞 🌴 A vibrant scene of a sun-soaked tropical island, with a crystal-clear ocean lapping against the sandy beach, and tall palm trees swaying in the gentle breeze. Tropical mural style, midday setting, bright color palette, wide-angle view, high detail. --ar 16:9 --s 700 --q .5
+* 🗻 🐉 🌠 A celestial dragon majestically coiling around the snowy peak of Mount Fuji, with a brilliant shooting star streaking across the night sky. Traditional Japanese art style, nighttime setting, cool color palette, medium shot, star trail effect. --ar 16:9 --s 700 --q .5
+* 🌵 🏜️ 🦅 A vast, arid desert landscape dotted with towering saguaro cacti, with a majestic eagle soaring high above under the scorching midday sun. Southwestern art style, daytime setting, warm color palette, bird's-eye view, high detail. --ar 16:9 --s 700 --q .5
+* 🕌 🌅 🐪 A grand mosque silhouetted against a radiant desert sunset, with a lone camel standing in the foreground, casting a long shadow on the sandy expanse. Orientalist painting style, sunset lighting, warm color palette, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🌊 🐋 🌈 A gentle blue whale surfacing from the sparkling ocean under a vibrant rainbow arching across the clear sky. Watercolor style, daytime setting, full color spectrum, eye-level view, soft texture. --ar 16:9 --s 700 --q .5
+* 🏕️ 🌲 🐻 A cozy campsite nestled in a dense pine forest, with a curious bear observing from a safe distance, its eyes glowing in the soft light of the campfire. Adventure comic style, nighttime setting, earth tones, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🏯 🌸 🌅 🎎 A grand Japanese castle framed by blooming cherry blossom trees at sunset, with traditional Japanese dolls in the foreground, their vibrant colors standing out against the serene backdrop. Ukiyo-e woodblock print style, golden hour, warm color palette, eye-level view, high detail. --ar 16:9 --s 700 --q .5
+* 🏔️ 🌲 🐺 ❄️ A lone, majestic wolf standing on a snow-covered mountain, surrounded by a dense pine forest under a clear, winter sky. Northern Renaissance style, daytime setting, cool color palette, medium shot, high detail. --ar 16:9 --s 700 --q .5
+* 🏝️ 🌊 🌴 🐠 A vibrant, sun-kissed tropical island, with towering palm trees swaying gently by the azure ocean, and a colorful fish swimming in the clear, shallow waters. Tropical mural style, midday setting, bright color palette, eye-level view, high detail. --ar 16:9 --s 700 --q .5
+* 🌌 🚀 👽 🌠 🌕 A sleek, futuristic rocket navigating the depths of the cosmos, passing by the glowing moon and a streaking shooting star, while a curious alien creature observes from a distant, unknown planet. Retro-futurism style, space setting, cool color palette, wide-angle view, high detail. --ar 16:9 --s 700 --q .5
+* 🏞️ 🌳 🦌 🌤️ 🌻 A serene landscape with a graceful deer grazing under a towering oak tree, surrounded by a field of vibrant sunflowers, all under a sky of partly cloudy weather. Impressionist painting style, daytime setting, warm color palette, medium shot, high detail. --ar 16:9 --s 700 --q .5
 
-1.  This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.
-2.  Where Your right to use the Licensed Material has terminated under Section [6(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6a), it reinstates:
-
-    1.  automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or
-    2.  upon express reinstatement by the Licensor.For the avoidance of doubt, this Section [6(b)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.
-3.  For the avoidance of doubt, the Licensor may also offer the Licensed Material under separate terms or conditions or stop distributing the Licensed Material at any time; however, doing so will not terminate this Public License.
-4.  Sections [1](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s1), [5](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s5), [6](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6), [7](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s7), and [8](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s8) survive termination of this Public License.
-
-Section 7 -- Other Terms and Conditions.
-
-1.  The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
-2.  Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this Public License.
-
-Section 8 -- Interpretation.
-
-1.  For the avoidance of doubt, this Public License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this Public License.
-2.  To the extent possible, if any provision of this Public License is deemed unenforceable, it shall be automatically reformed to the minimum extent necessary to make it enforceable. If the provision cannot be reformed, it shall be severed from this Public License without affecting the enforceability of the remaining terms and conditions.
-3.  No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
-4.  Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
-
-Creative Commons is not a party to its public licenses. Notwithstanding, Creative Commons may elect to apply one of its public licenses to material it publishes and in those instances will be considered the "Licensor." The text of the Creative Commons public licenses is dedicated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Except for the limited purpose of indicating that material is shared under a Creative Commons public license or as otherwise permitted by the Creative Commons policies published at [creativecommons.org/policies](https://creativecommons.org/policies), Creative Commons does not authorize the use of the trademark "Creative Commons" or any other trademark or logo of Creative Commons without its prior written consent including, without limitation, in connection with any unauthorized modifications to any of its public licenses or any other arrangements, understandings, or agreements concerning use of licensed material. For the avoidance of doubt, this paragraph does not form part of the public licenses.
-
-Creative Commons may be contacted at [creativecommons.org](https://creativecommons.org/).
+<br>
