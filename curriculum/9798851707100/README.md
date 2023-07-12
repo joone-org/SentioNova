@@ -1,6 +1,6 @@
 # Beginning Midjourney
 
-* Amazon Kindle
+* Amazon Kindle (pending review)
 * Amazon Paperback
 * [PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)
 * [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/midjourney.md)
@@ -12,5 +12,7 @@ This guide is shared under the Creative Commons Attribution - NonCommercial - No
 
 ![steam_ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/aa2d91df-bf2a-476e-b9fa-4f5d33ec6ed4)
 <div align="center">
-[Full resolution 8K image here](https://media.githubusercontent.com/media/joone-org/glfs/main/steam_ship_8k.png)
+  
+[Full resolution 8K image here](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/steam_ship_8k.png)
+
 </div>
