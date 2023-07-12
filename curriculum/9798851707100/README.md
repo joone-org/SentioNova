@@ -11,4 +11,6 @@ This guide offers an insightful peek into the mesmerizing world of AI-driven cre
 This guide is shared under the Creative Commons Attribution - NonCommercial - NoDerivatives (CC BY-NC-ND) License by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education. As such, you're free to share and use it while giving appropriate credit. Ideal for educators, tech enthusiasts, parents, or anyone interested in the intersection of AI and art, it's part of a broader effort to make AI accessible to all.<br><br>
 
 ![steam_ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/aa2d91df-bf2a-476e-b9fa-4f5d33ec6ed4)
-
+<div align="center">
+[Full resolution 8K image here](https://media.githubusercontent.com/media/joone-org/glfs/main/steam_ship_8k.png)
+</div>
