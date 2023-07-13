@@ -2,17 +2,6 @@
 
 [Joone](https://joone.org) develops free, open-source K-12 [curricula](https://github.com/joone-org/curriculum.joone.org/wiki) that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). With an emphasis on college and career readiness, our approach is diverse, inclusive, and equitable. All content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system). You're welcome to review the initial iterations of our work below. Please contribute your insights to their ongoing development in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
-<br>
-
-* Published:
-  * [🎨  Beginning Midjourney](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/9798851707100)<br><br>
-* In production:
-  * [⚙️  Introduction to ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/blob/main/Introduction%20to%20ChatGPT-4.pdf)
-  * [💭  Lyra's Journey with OCD](https://github.com/joone-org/curriculum.joone.org/blob/main/Lyra's%20Journey%20with%20OCD.pdf)
-  * [🏴‍☠️  Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)
-
-<br>
-
 Our intent is to further contribute high quality K-12 [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources) to the following projects:
 [Commons](https://commons.wikimedia.org/), [MediaWiki](https://www.mediawiki.org/), [Meta-Wiki](https://meta.wikimedia.org/), [Wikibooks](https://www.wikibooks.org/), [Wikidata](https://www.wikidata.org/), [Wikinews](https://www.wikinews.org/), [Wikipedia](https://www.wikipedia.org/), [Wikiquote](https://www.wikiquote.org/), [Wikisource](https://www.wikisource.org/), [Wikiversity](https://en.wikiversity.org/wiki/Open_Educational_Resources), [Wikivoyage](https://www.wikivoyage.org/), [Wiktionary](https://www.wiktionary.org/), and [Wikispecies](https://species.wikimedia.org/).
 
