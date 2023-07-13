@@ -1,20 +1,21 @@
+<div align="center">
+  
 # Beginning Midjourney
 
-* [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)
-* Amazon Paperback (in review with AKDP)
-* [PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)
-* [Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)
-* [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)
-* Canvas (in production)<br><br>
+[Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
+Amazon Paperback (in review with AKDP)<br>
+[PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
+[Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)<br>
+[Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br><br>
 
 This guide offers an insightful peek into the mesmerizing world of AI-driven creativity. Within its compact format, you'll find a straightforward tutorial on maximizing the capabilities of the Midjourney AI service on Discord and creating compelling prompts with ChatGPT. Alongside this guide, there's an array of vibrant, AI-generated visuals created from simple emoji prompts, demonstrating the convergence of technology and imagination in a tangible and inspiring manner.
 
-This guide is shared under the Creative Commons Attribution - NonCommercial - NoDerivatives (CC BY-NC-ND) License by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education. As such, you're free to share and use it while giving appropriate credit. Ideal for educators, tech enthusiasts, parents, or anyone interested in the intersection of AI and art, it's part of a broader effort to make AI accessible to all.<br><br>
+This guide is shared under an open license (CC BY-NC-ND) by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education. As such, you're free to share and use it while giving appropriate credit. Ideal for educators, tech enthusiasts, parents, or anyone interested in the intersection of AI and art, it's part of a broader effort to make AI accessible to all.<br><br>
 
 ![steam_ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/aa2d91df-bf2a-476e-b9fa-4f5d33ec6ed4)
-<div align="center">
-  
-[Full resolution 8K image here](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/steam_ship_8k.png)
+
+
+[Full resolution 8K image here](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/steam_ship_8k.png)<br><br>
 
 </div>
 
@@ -25,12 +26,12 @@ This guide is shared under the Creative Commons Attribution - NonCommercial - No
 <thead>
 <tr class="header">
 <th>
-<p>To use ChatGPT as a prompt generator, copy all of the following text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
+<br><p>To use ChatGPT as a prompt generator, copy all of the following text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
-</table>
+</table><br>
 
 [Midjourney](https://www.midjourney.com/) is a
 [Discord](https://discord.com/)-based AI service that turns textual prompts into unique images. It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
@@ -308,15 +309,21 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
   of this book is to ignite your interest and guide you on your journey;
   however, the pursuit of knowledge in this dynamic field extends far
   beyond its pages.
-
-<br><br>
+  
+<br>
 
 ---
+Let’s embark on an exciting journey into the realm of Emoji Prompts! Next, we will showcase the transformative power of single emojis, such as a lion, as creative seeds for captivating visual narratives. These are not just any images; each was spawned from a mere emoji fed into the ChatGPT prompt covered earlier in this book. This simple interaction sparks ChatGPT into action, generating a nuanced textual prompt that our Midjourney AI morphs into visually stunning art. The eclectic mix of styles, moods, and settings you'll discover in the following pages underscores the incredible range of creativity ignited by single emojis or chains of them. Remember, though: AI interpretation is more of an art than a science. Even with specific prompts, the AI's artistic interpretation may meander into unexpected territories, producing results that diverge from your initial envisioning. This divergence is not a flaw but a feature, highlighting the whimsical unpredictability and inherent creativity of AI. As you delve into the visuals, take a moment to juxtapose them with their originating prompts, observing the intriguing differences and marveling at the imaginative leaps the AI takes.
 
+<br>
 
-<img src="media/image2.jpeg" style="width:8.80347in;height:8.80347in" />
+<div align="center">
 
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field.
 
+</div>
 
 ---
 
