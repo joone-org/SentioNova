@@ -1,6 +1,6 @@
 ![ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/df1e49ea-0202-43fd-9c33-a7534594b515)<br>
 
-### You're encouraged to review our work and contribute your insights to their development in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br>
+### You're encouraged to review our work and contribute your insights to their development in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
 We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). All content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system). Our intent is to further contribute high quality K-12 [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources) to the following projects:
 * [Commons](https://commons.wikimedia.org/): Commons is a shared media repository that hosts a vast collection of multimedia files. Educators can access images, illustrations, diagrams, and videos from Commons to enhance classroom presentations, create engaging learning materials, and facilitate visual learning experiences for K-12 students.
