@@ -2,9 +2,11 @@
 
 ### You're encouraged to review our work and contribute your insights to their development in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
-We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). All content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system). Our aim is to enrich a variety of projects with high-quality K-12 [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources), among which are the following:
+We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). Our content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system).  Our offerings both derive from and contribute to an expansive range of [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources), including but not limited to:
 
 * [Commons](https://commons.wikimedia.org/): Commons, a shared media repository, offers educators a vast multimedia collection to enrich K-12 classroom presentations and learning materials.
+
+* [MIT Open Learning Library](https://ocw.mit.edu/course-lists/open-learning-library/) is a free educational platform providing self-guided, interactive learning experiences without live support or certificates, enabling global learners to engage at their own pace.
 
 * [Wikibooks](https://www.wikibooks.org/): Wikibooks provides educators with free, open-source textbooks and manuals on subjects like mathematics, science, history, and language arts, serving as supplemental or primary course materials for K-12 education.
 
