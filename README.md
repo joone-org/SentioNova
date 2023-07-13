@@ -8,6 +8,8 @@ We develop free, open-source K-12 curricula that seamlessly combines [core acade
 
 * [MIT Open Library](https://ocw.mit.edu/course-lists/open-learning-library/) is a free educational platform providing self-guided, interactive learning experiences without live support or certificates, enabling global learners to engage at their own pace.
 
+* [OpenOregon](https://openoregon.pressbooks.pub/) promotes textbook affordability for community college and university students, and facilitates widespread adoption of open, low-cost, high-quality materials.
+
 * [OpenStax](https://openstax.org/) is a nonprofit initiative of Rice University which provides free and flexible textbooks and resources for K-12 teachers and college instructors, all aimed at improving educational access and learning for everyone.
 
 * [Wikibooks](https://www.wikibooks.org/): Wikibooks provides educators with free, open-source textbooks and manuals on subjects like mathematics, science, history, and language arts, serving as supplemental or primary course materials for K-12 education.
