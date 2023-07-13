@@ -3,7 +3,7 @@
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
 <br><br>
 [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
-Amazon Paperback (~ AKDP)<br>
+[Amazon Paperback](https://www.amazon.com/dp/B0C9SC73JC?ref_=pe_3052080_397514860)<br>
 [Adobe PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
 [Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)<br>
 [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br>
