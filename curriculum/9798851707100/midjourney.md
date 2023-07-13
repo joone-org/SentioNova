@@ -1,56 +1,3 @@
-<img src="media/image1.jpeg" style="width:8.85278in;height:8.85278in"
-alt="A colorful watercolor painting of a city Description automatically generated" />
-
-This text is independently published and unaffiliated with MidJourney or
-OpenAI
-
-Text and Illustration Copyright © 2023 by Joone 501(c)(3)
-
-Published and Imprinted by Joone 501(c)(3)
-
-ISBN: 9798851707100
-
-This work is shared with you under the Creative Commons Attribution -
-NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we
-invite you to share, copy, and use this material in any medium or
-format. However, we ask that you give appropriate credit to Joone
-501(c)(3) (Attribution), refrain from using the material for commercial
-purposes (Non-Commercial), and avoid distributing modified versions of
-the material (No-Derivatives). 
-
-Our material is intended to be used by a wide range of individuals. If
-you're an educator, feel free to incorporate it into your curriculum to
-introduce students to the concept of AI in digital arts. Novice tech
-enthusiasts can use it as a guide to comprehend and navigate the world
-of AI-generated imagery. Parents can use it to educate their children
-about the creative applications of AI. Individuals with no prior
-experience in artificial intelligence can use it to understand how AI
-intersects with art and creativity. Community leaders or organizers can
-distribute it to promote digital literacy and understanding about AI in
-their communities. Our goal with this text is to demystify the role of
-artificial intelligence in creative fields and make it accessible to
-everyone, by teaching people how to interact with and use MidJourney and
-ChatGPT-4 effectively.
-
-Joone 501(c)(3) is a non-profit organization committed to democratizing
-K-12 education. We create and distribute high-quality, openly licensed
-educational resources to address the curriculum crisis and ensure every
-child, regardless of their circumstances, has access to personalized,
-cutting-edge education. Our innovative curricula are designed to engage
-students and promote interactive learning, breaking the cycle of
-outdated educational materials. Through our efforts, we aim to foster
-educational consistency and quality worldwide, envisioning a future
-where every child has the resources they need to succeed.
-
-Your support through contributing your expertise, monetary donations, or
-simply volunteering your time, plays a critical role in creating and
-distributing these essential educational resources. You're an integral
-part of a global effort to enhance children's lives through education.
-We appreciate your consideration to contribute in any way, making this
-mission possible.
-
-For more information, please visit <https://joone.org>.
-
 <table>
 <colgroup>
 <col style="width: 100%" />
@@ -396,48 +343,52 @@ moment to juxtapose them with their originating prompts, observing the
 intriguing differences and marveling at the imaginative leaps the AI
 takes.
 
-<img src="media/image2.jpeg" style="width:8.80347in;height:8.80347in" />
+This text is independently published and unaffiliated with MidJourney or
+OpenAI
 
-<img src="media/image3.jpeg" style="width:8.81111in;height:8.81111in" />
+Text and Illustration Copyright © 2023 by Joone 501(c)(3)
 
-<img src="media/image4.jpeg" style="width:8.90208in;height:8.90208in" />
+Published and Imprinted by Joone 501(c)(3)
 
-<img src="media/image5.jpeg" style="width:8.86667in;height:8.86667in" />
+ISBN: 9798851707100
 
-<img src="media/image6.jpeg" style="width:8.85972in;height:8.85972in" />
+This work is shared with you under the Creative Commons Attribution -
+NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we
+invite you to share, copy, and use this material in any medium or
+format. However, we ask that you give appropriate credit to Joone
+501(c)(3) (Attribution), refrain from using the material for commercial
+purposes (Non-Commercial), and avoid distributing modified versions of
+the material (No-Derivatives). 
 
-<img src="media/image7.jpeg" style="width:8.86667in;height:8.86667in" />
+Our material is intended to be used by a wide range of individuals. If
+you're an educator, feel free to incorporate it into your curriculum to
+introduce students to the concept of AI in digital arts. Novice tech
+enthusiasts can use it as a guide to comprehend and navigate the world
+of AI-generated imagery. Parents can use it to educate their children
+about the creative applications of AI. Individuals with no prior
+experience in artificial intelligence can use it to understand how AI
+intersects with art and creativity. Community leaders or organizers can
+distribute it to promote digital literacy and understanding about AI in
+their communities. Our goal with this text is to demystify the role of
+artificial intelligence in creative fields and make it accessible to
+everyone, by teaching people how to interact with and use MidJourney and
+ChatGPT-4 effectively.
 
-<img src="media/image8.jpeg" style="width:8.90208in;height:8.90208in" />
+Joone 501(c)(3) is a non-profit organization committed to democratizing
+K-12 education. We create and distribute high-quality, openly licensed
+educational resources to address the curriculum crisis and ensure every
+child, regardless of their circumstances, has access to personalized,
+cutting-edge education. Our innovative curricula are designed to engage
+students and promote interactive learning, breaking the cycle of
+outdated educational materials. Through our efforts, we aim to foster
+educational consistency and quality worldwide, envisioning a future
+where every child has the resources they need to succeed.
 
-<img src="media/image9.jpeg" style="width:8.85972in;height:8.85972in"
-alt="A dragon on a hill Description automatically generated" />
+Your support through contributing your expertise, monetary donations, or
+simply volunteering your time, plays a critical role in creating and
+distributing these essential educational resources. You're an integral
+part of a global effort to enhance children's lives through education.
+We appreciate your consideration to contribute in any way, making this
+mission possible.
 
-<img src="media/image10.jpeg"
-style="width:8.83125in;height:8.83125in" />
-
-<img src="media/image11.jpeg" style="width:8.84583in;height:8.84583in"
-alt="A stream in a forest with mushrooms Description automatically generated" />
-
-<img src="media/image12.jpeg" style="width:8.83194in;height:8.83194in"
-alt="A river with pink trees and mountains in the background Description automatically generated" />
-
-<img src="media/image13.jpeg"
-style="width:8.83889in;height:8.83889in" />
-
-<img src="media/image14.jpeg"
-style="width:8.80417in;height:8.80417in" />
-
-<img src="media/image15.jpeg" style="width:8.81111in;height:8.81111in"
-alt="A fish swimming in the water Description automatically generated" />
-
-<img src="media/image16.jpeg"
-style="width:8.78958in;height:8.78958in" />
-
-<img src="media/image17.jpeg"
-style="width:8.84583in;height:8.84583in" />
-
-<img src="media/image18.jpeg" style="width:8.825in;height:8.825in" />
-
-<img src="media/image19.jpeg" style="width:8.81111in;height:8.81111in"
-alt="A colorful art of a face Description automatically generated" />
+For more information, please visit <https://joone.org>.
