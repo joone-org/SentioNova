@@ -1,6 +1,5 @@
-![A colorful watercolor painting of a city Description automatically
-generated](media/image1.jpeg){width="8.852777777777778in"
-height="8.852777777777778in"}
+<img src="media/image1.jpeg" style="width:8.85278in;height:8.85278in"
+alt="A colorful watercolor painting of a city Description automatically generated" />
 
 This text is independently published and unaffiliated with MidJourney or
 OpenAI
@@ -20,7 +19,7 @@ purposes (Non-Commercial), and avoid distributing modified versions of
 the material (No-Derivatives). 
 
 Our material is intended to be used by a wide range of individuals. If
-you\'re an educator, feel free to incorporate it into your curriculum to
+you're an educator, feel free to incorporate it into your curriculum to
 introduce students to the concept of AI in digital arts. Novice tech
 enthusiasts can use it as a guide to comprehend and navigate the world
 of AI-generated imagery. Parents can use it to educate their children
@@ -45,25 +44,31 @@ where every child has the resources they need to succeed.
 
 Your support through contributing your expertise, monetary donations, or
 simply volunteering your time, plays a critical role in creating and
-distributing these essential educational resources. You\'re an integral
-part of a global effort to enhance children\'s lives through education.
+distributing these essential educational resources. You're an integral
+part of a global effort to enhance children's lives through education.
 We appreciate your consideration to contribute in any way, making this
 mission possible.
 
 For more information, please visit <https://joone.org>.
 
-+-----------------------------------------------------------------------+
-| For easier access visit                                               |
-| [**https://curriculum.joone.org**](https://curriculum.joone.org/) to  |
-| access this book for free.                                            |
-|                                                                       |
-| To use ChatGPT as a prompt generator, copy all of the following text  |
-| and paste it into ChatGPT\'s input.                                   |
-|                                                                       |
-| When it responds with the question, provide a description of the      |
-| image you want it to generate, or simply insert some emoji.           |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>For easier access visit <a
+href="https://curriculum.joone.org/"><strong>https://curriculum.joone.org</strong></a>
+to access this book for free.</p>
+<p>To use ChatGPT as a prompt generator, copy all of the following text
+and paste it into ChatGPT's input.</p>
+<p>When it responds with the question, provide a description of the
+image you want it to generate, or simply insert some emoji.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 [Midjourney](https://www.midjourney.com/) is a
 [Discord](https://discord.com/)-based AI service that turns textual
@@ -78,313 +83,311 @@ Keywords\]. \[Parameters\]*
 
 **Subject and Setting**:
 
--   To optimize prompts, start with a clear subject (a *\'colossal\'*
-    > elephant differs visually from a *\'big\'* one), and add
-    > personality and emotion for more expressive imagery. Use
-    > collective nouns instead of quantities (*\'herd of elephants*\'
-    > over *\'3 elephants*\') and position subjects within a detailed
-    > environment (*\'bathing at sunset in the Serengeti during
-    > fall\'*). Unspecified details are randomized, so be as specific as
-    > you can. Use nuanced adjectives (*\'tranquil\', \'melancholic\',
-    > \'ecstatic\', etc.*) to add mood.
+- To optimize prompts, start with a clear subject (a *'colossal'*
+  > elephant differs visually from a *'big'* one), and add personality
+  > and emotion for more expressive imagery. Use collective nouns
+  > instead of quantities (*'herd of elephants*' over *'3 elephants*')
+  > and position subjects within a detailed environment (*'bathing at
+  > sunset in the Serengeti during fall'*). Unspecified details are
+  > randomized, so be as specific as you can. Use nuanced adjectives
+  > (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
 
--   Example: Instead of just '*elephant\'*, use \"*A tranquil scene of a
-    > herd of colossal African elephants bathing at sunset in the
-    > Serengeti watering hole.*\"
+- Example: Instead of just ‘*elephant'*, use "*A tranquil scene of a
+  > herd of colossal African elephants bathing at sunset in the
+  > Serengeti watering hole.*"
 
 **Style Keywords**:
 
--   Midjourney interprets a nearly infinite range of artistic
-    > instructions. Define the medium (*e.g., \'photo\', \'3D sand
-    > sculpture\', \'linocut print\'*). Describe your desired lighting
-    > (*e.g., \'soft ambient\', \'neon\', \'candle-lit\'*), and pair it
-    > with a color scheme (*e.g., \'monochromatic\', \'earth tones\',
-    > \'cyberpunk neon\'*). Arrange your scene using terms like (*e.g.,
-    > \'low-angle shot\', \'bird\'s eye view\', \'rule of thirds
-    > composition\'*). Mention the desired artistic style (*e.g.,
-    > \'Cubism\', \'Anime\', \'Film Noir\', \'Banksy-like street
-    > art\'*), or specify the historical period or specific environment
-    > for added context. Include additional descriptors (*e.g.,
-    > \'shallow depth of field\', \'vignette\', \'splatter effect\'*) to
-    > refine your scene. For high realism, specify camera effects,
-    > settings, setup (*e.g., \'Canon EOS 5D Mark IV, using a 24-70mm
-    > lens at f/2.8, with a long exposure of 15 seconds\'*).
+- Midjourney interprets a nearly infinite range of artistic
+  > instructions. Define the medium (*e.g., 'photo', '3D sand
+  > sculpture', 'linocut print'*). Describe your desired lighting
+  > (*e.g., 'soft ambient', 'neon', 'candle-lit'*), and pair it with a
+  > color scheme (*e.g., 'monochromatic', 'earth tones', 'cyberpunk
+  > neon'*). Arrange your scene using terms like (*e.g., 'low-angle
+  > shot', 'bird's eye view', 'rule of thirds composition'*). Mention
+  > the desired artistic style (*e.g., 'Cubism', 'Anime', 'Film Noir',
+  > 'Banksy-like street art'*), or specify the historical period or
+  > specific environment for added context. Include additional
+  > descriptors (*e.g., 'shallow depth of field', 'vignette', 'splatter
+  > effect'*) to refine your scene. For high realism, specify camera
+  > effects, settings, setup (*e.g., 'Canon EOS 5D Mark IV, using a
+  > 24-70mm lens at f/2.8, with a long exposure of 15 seconds'*).
 
--   Maintain concise clarity with each keyword, and don\'t confine
-    > yourself to the provided examples. Whether it\'s the aesthetics of
-    > a *\'polaroid snapshot\'*, the drama of *\'baroque lighting\'*,
-    > the composition of a \'*kaleidoscope*\', or the eccentricity of a
-    > *\'cyberpunk art style\'*, MidJourney can understand and execute
-    > it all, so don\'t hesitate to experiment with unusual mediums,
-    > innovative lighting, creative compositions, and unexplored
-    > artistic styles.
+- Maintain concise clarity with each keyword, and don't confine yourself
+  > to the provided examples. Whether it's the aesthetics of a
+  > *'polaroid snapshot'*, the drama of *'baroque lighting'*, the
+  > composition of a '*kaleidoscope*', or the eccentricity of a
+  > *'cyberpunk art style'*, MidJourney can understand and execute it
+  > all, so don't hesitate to experiment with unusual mediums,
+  > innovative lighting, creative compositions, and unexplored artistic
+  > styles.
 
--   Example: \"*A tranquil scene of a herd of colossal African elephants
-    > bathing at sunset in the Serengeti watering hole. Watercolor,
-    > golden hour, warm sunset palette, panoramic eye-level view,
-    > Impressionistic, vintage color grading.*\"
+- Example: "*A tranquil scene of a herd of colossal African elephants
+  > bathing at sunset in the Serengeti watering hole. Watercolor, golden
+  > hour, warm sunset palette, panoramic eye-level view,
+  > Impressionistic, vintage color grading.*"
 
-**\
+**  
 **
 
 **Parameters**:
 
--   \"*::*\" enables separate specification of different image
-    components. *\'African elephants::bathing at sunset\'* tells
-    Midjourney to treat *\'African elephants\'* and *\'bathing at
-    sunset\'* as distinct parts
+- "*::*" enables separate specification of different image components.
+  *'African elephants::bathing at sunset'* tells Midjourney to treat
+  *'African elephants'* and *'bathing at sunset'* as distinct parts
 
--   *"\--ar \<width:height\>"* dictates the width-to-height aspect ratio
+- *“--ar \<width:height\>”* dictates the width-to-height aspect ratio
 
--   *"\--no"* omits specific elements from your image
+- *“--no”* omits specific elements from your image
 
--   *"\--niji 5"* produces anime aesthetic and illustrative styles.
+- *“--niji 5”* produces anime aesthetic and illustrative styles.
 
--   *"\--style \<cute, expressive, original, scenic\>"* can only be used
-    with niji enabled
+- *“--style \<cute, expressive, original, scenic\>”* can only be used
+  with niji enabled
 
--   *"\--style \<raw\>"* in traditional mode creates photorealistic
-    images
+- *“--style \<raw\>”* in traditional mode creates photorealistic images
 
--   *"\--s \<0--1000\>"* adjusts the level of Midjourney\'s trained
-    artistic style in your image, with lower values creating more
-    literal interpretations of your prompt and higher values infusing
-    stronger artistic stylization
+- *“--s \<0–1000\>”* adjusts the level of Midjourney's trained artistic
+  style in your image, with lower values creating more literal
+  interpretations of your prompt and higher values infusing stronger
+  artistic stylization
 
--   *"\--q \<.25, .5, 1 (default)\>\"* regulates the level of detail in
-    the rendering. Lower quality values produce less detailed images,
-    leading to more painterly or abstract styles, perfect for certain
-    artistic needs
+- *“--q \<.25, .5, 1 (default)\>"* regulates the level of detail in the
+  rendering. Lower quality values produce less detailed images, leading
+  to more painterly or abstract styles, perfect for certain artistic
+  needs
 
--   *"\--chaos \<0--100\>"* and *"\--weird \<0--3000\>"* enhance image
-    unpredictability. *\--chaos* varies within the AI\'s standard style,
-    while *\--weird* creates distinctly unconventional images. Use these
-    sparingly as they often result in overly abstract or distorted
-    results.
+- *“--chaos \<0–100\>”* and *“--weird \<0–3000\>”* enhance image
+  unpredictability. *--chaos* varies within the AI's standard style,
+  while *--weird* creates distinctly unconventional images. Use these
+  sparingly as they often result in overly abstract or distorted
+  results.
 
--   Include only relevant parameters to avoid confusing the AI.
+- Include only relevant parameters to avoid confusing the AI.
 
--   Example: \"*A tranquil scene of a herd of colossal African elephants
-    bathing at sunset in the Serengeti watering hole. Watercolor, golden
-    hour, warm sunset palette, panoramic eye-level view,
-    Impressionistic, vintage color grading \--ar 16:9 \--s 700 \--q 1*\"
+- Example: "*A tranquil scene of a herd of colossal African elephants
+  bathing at sunset in the Serengeti watering hole. Watercolor, golden
+  hour, warm sunset palette, panoramic eye-level view, Impressionistic,
+  vintage color grading --ar 16:9 --s 700 --q 1*"
 
 **Prompt Examples**:
 
--   *A bustling scene at a futuristic Neo-Tokyo cityscape during the
-    neon-lit night. Cyberpunk art style, vibrant neon colors,
-    rain-soaked streets, high-angle view. \--ar 16:9 \--s 900 \--no
-    people*
+- *A bustling scene at a futuristic Neo-Tokyo cityscape during the
+  neon-lit night. Cyberpunk art style, vibrant neon colors, rain-soaked
+  streets, high-angle view. --ar 16:9 --s 900 --no people*
 
--   *A tranquil moment of a flock of birds taking flight at dawn.
-    Impressionism, soft morning light, pastel color palette, bird\'s eye
-    view. Birds::in flight at dawn. \--ar 1:1 \--s 300 \--niji 5 \--
-    style cute*
+- *A tranquil moment of a flock of birds taking flight at dawn.
+  Impressionism, soft morning light, pastel color palette, bird's eye
+  view. Birds::in flight at dawn. --ar 1:1 --s 300 --niji 5 -- style
+  cute*
 
--   *A dramatic scene on a Baroque-style theatre stage, with a masked
-    performer in the spotlight, set against a backdrop of lush red
-    velvet curtains. Renaissance painting style, chiaroscuro lighting,
-    rich color palette, centered composition, high level of detail.
-    \--ar 16:9 \--s 600*
+- *A dramatic scene on a Baroque-style theatre stage, with a masked
+  performer in the spotlight, set against a backdrop of lush red velvet
+  curtains. Renaissance painting style, chiaroscuro lighting, rich color
+  palette, centered composition, high level of detail. --ar 16:9 --s
+  600*
 
 Remember MidJourney supports up to 60 words but as prompt length
-increases, each word\'s impact decreases, and short, clear, sequential
+increases, each word's impact decreases, and short, clear, sequential
 prompts yield optimal results. If you are ready to start creating image
-prompts, respond with \"What image would you like to create?\" and
-nothing else.
+prompts, respond with "What image would you like to create?" and nothing
+else.
 
-+-----------------------------------------------------------------------+
-| To use ChatGPT as a prompt generator, copy all of the previous text   |
-| and paste it into ChatGPT\'s input.                                   |
-|                                                                       |
-| When it responds with the question, provide a description of the      |
-| image you want it to generate, or simply insert some emoji.           |
-+=======================================================================+
-+-----------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>To use ChatGPT as a prompt generator, copy all of the previous
+text and paste it into ChatGPT's input.</p>
+<p>When it responds with the question, provide a description of the
+image you want it to generate, or simply insert some emoji.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-Join [MidJourney's Discord](https://discord.gg/midjourney) to get
+Join [MidJourney’s Discord](https://discord.gg/midjourney) to get
 started. As a subscriber, you can directly interact with the bot through
 Discord messages or incorporate it into your own server to use these
 commands:
 
--   */imagine* generates low-resolution image grids from your prompts,
-    with options to create variations, upscale, or repeat actions. Use
-    images as prompts by adding a direct image URL *(.png, .jpg, .jpeg,
-    .gif, .webp*) at the beginning of your prompt. Adjust the impact of
-    an image on the final output using the *\--iw (image weight)*
-    parameter. Values range from 0 to 2, with 1 as the default, and
-    higher values increase the image\'s influence.
+- */imagine* generates low-resolution image grids from your prompts,
+  with options to create variations, upscale, or repeat actions. Use
+  images as prompts by adding a direct image URL *(.png, .jpg, .jpeg,
+  .gif, .webp*) at the beginning of your prompt. Adjust the impact of an
+  image on the final output using the *--iw (image weight)* parameter.
+  Values range from 0 to 2, with 1 as the default, and higher values
+  increase the image's influence.
 
--   */blend* combines 2-5 images. For harmonious and cohesive results,
-    ensure the aspect ratios of the uploaded images match your desired
-    final image\'s ratio.
+- */blend* combines 2-5 images. For harmonious and cohesive results,
+  ensure the aspect ratios of the uploaded images match your desired
+  final image's ratio.
 
--   */describe* produces four potential text prompts related to the
-    uploaded image, ideal for exploring new vocabulary, discovering
-    artistic styles, and gaining fresh perspectives on an image.
+- */describe* produces four potential text prompts related to the
+  uploaded image, ideal for exploring new vocabulary, discovering
+  artistic styles, and gaining fresh perspectives on an image.
 
--   */fast, /relax, /turbo* allow you to adjust the speed of image
-    generation based on your subscription plan and allocated GPU time
+- */fast, /relax, /turbo* allow you to adjust the speed of image
+  generation based on your subscription plan and allocated GPU time
 
--   */help* provides basic information and tips
+- */help* provides basic information and tips
 
--   */info* shows your current plan, mode, and jobs
+- */info* shows your current plan, mode, and jobs
 
--   */prefer* commands in Midjourney offer personalized shortcuts and
-    options
+- */prefer* commands in Midjourney offer personalized shortcuts and
+  options
 
--   */remix* allows variation by editing prompts, parameters, etc
+- */remix* allows variation by editing prompts, parameters, etc
 
--   */settings* allows you to view and adjust model version, style and
-    quality values, upscaler version, etc.
+- */settings* allows you to view and adjust model version, style and
+  quality values, upscaler version, etc.
 
--   */stealth* disables /public by hiding your generated images on
-    midjourney.com
+- */stealth* disables /public by hiding your generated images on
+  midjourney.com
 
--   */subscribe* to the four subscription plans: Basic, Standard, Pro,
-    Mega
+- */subscribe* to the four subscription plans: Basic, Standard, Pro,
+  Mega
 
 **Parameters** can be added to the end of prompts to customize the image
 generation process. For a comprehensive guide on how to fully leverage
 these parameters, please refer to the [MidJourney
 Documentation](https://docs.midjourney.com/docs).
 
--   Aspect ratios can be adjusted by using *\'\--ar\'*, followed by the
-    desired ratio, in the prompt, affecting the image\'s composition.
-    The ratio of an existing image can be modified using the Zoom Out
-    buttons, with the bot filling new spaces based on the initial
-    prompt.
+- Aspect ratios can be adjusted by using *'--ar'*, followed by the
+  desired ratio, in the prompt, affecting the image's composition. The
+  ratio of an existing image can be modified using the Zoom Out buttons,
+  with the bot filling new spaces based on the initial prompt.
 
--   By using *\'\--c\'* followed by a number from 0 to 100, you can
-    control the unpredictability level of image results, with higher
-    values creating more varied and unexpected outcomes, and lower
-    values yielding more reliable and repeatable images.
+- By using *'--c'* followed by a number from 0 to 100, you can control
+  the unpredictability level of image results, with higher values
+  creating more varied and unexpected outcomes, and lower values
+  yielding more reliable and repeatable images.
 
--   Using *\'\--iw\'* followed by a value between 0 and 2, you can
-    determine the relative importance of an image prompt versus a text
-    prompt, influencing the final image\'s significant impact.
+- Using *'--iw'* followed by a value between 0 and 2, you can determine
+  the relative importance of an image prompt versus a text prompt,
+  influencing the final image's significant impact.
 
--   Multi-prompts help specify distinct parts of an image generation
-    task by separating prompts with a double colon *(::)*, where you can
-    assign different weights to denote their importance, and negative
-    weights can be used to remove certain elements from the image
-    generation.
+- Multi-prompts help specify distinct parts of an image generation task
+  by separating prompts with a double colon *(::)*, where you can assign
+  different weights to denote their importance, and negative weights can
+  be used to remove certain elements from the image generation.
 
--   The option *\'\--no\'* allows users to exclude specific elements
-    from the generated image, such as using \'\--no plants\' to create
-    an image without any plants.
+- The option *'--no'* allows users to exclude specific elements from the
+  generated image, such as using '--no plants' to create an image
+  without any plants.
 
--   By adjusting *\'\--q\'*, you can control the level of detail and
-    render time for generated images, where .25 offers faster, less
-    detailed images, .5 offers a balance, and 1 ensures the highest
-    detail, using more GPU resources.
+- By adjusting *'--q'*, you can control the level of detail and render
+  time for generated images, where .25 offers faster, less detailed
+  images, .5 offers a balance, and 1 ensures the highest detail, using
+  more GPU resources.
 
--   Using *\'\--repeat\'* allows Standard and Pro subscribers to
-    generate multiple unique images from one prompt, with Standard users
-    able to create up to 10 and Pro users up to 40 images in Fast GPU
-    mode. For consistent output, users can apply the \"seed\" command to
-    a prompt.
+- Using *'--repeat'* allows Standard and Pro subscribers to generate
+  multiple unique images from one prompt, with Standard users able to
+  create up to 10 and Pro users up to 40 images in Fast GPU mode. For
+  consistent output, users can apply the "seed" command to a prompt.
 
--   The *\'\--seed\'* option lets you specify a seed number, providing a
-    consistent \'noise\' field for the image generation process, which
-    can result in similar outputs when the same prompt and seed are
-    used, aiding in maintaining consistency in a series of images.
+- The *'--seed'* option lets you specify a seed number, providing a
+  consistent 'noise' field for the image generation process, which can
+  result in similar outputs when the same prompt and seed are used,
+  aiding in maintaining consistency in a series of images.
 
--   By applying *\'\--stop\'*, you can terminate the image generation
-    process partway through, resulting in more abstract or less detailed
-    images based on the chosen stop value, providing a way to create
-    more impressionistic outputs.
+- By applying *'--stop'*, you can terminate the image generation process
+  partway through, resulting in more abstract or less detailed images
+  based on the chosen stop value, providing a way to create more
+  impressionistic outputs.
 
--   With *\'\--style\'*, different aesthetic options are offered for
-    generated images, including raw, cute, expressive, original, or
-    scenic, helping users tailor the aesthetic appeal of their outputs
-    based on the specific model version in use.
+- With *'--style'*, different aesthetic options are offered for
+  generated images, including raw, cute, expressive, original, or
+  scenic, helping users tailor the aesthetic appeal of their outputs
+  based on the specific model version in use.
 
--   The *\'\--stylize\'* option adjusts the intensity of the platform\'s
-    default artistic style in generated images, where a lower value
-    results in more literal interpretations and higher values yield more
-    stylized, artistic outputs.
+- The *'--stylize'* option adjusts the intensity of the platform's
+  default artistic style in generated images, where a lower value
+  results in more literal interpretations and higher values yield more
+  stylized, artistic outputs.
 
--   The use of *\'\--tile\'* creates seamless or tileable patterns,
-    which can be replicated in graphic design for backgrounds, textures,
-    or patterns without noticeable breaks.
+- The use of *'--tile'* creates seamless or tileable patterns, which can
+  be replicated in graphic design for backgrounds, textures, or patterns
+  without noticeable breaks.
 
 **TIPS AND TRICKS**
 
--   This [Reference
-    Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main)
-    contains a variety of styles and keywords for your use, in addition
-    to pages showing resolution comparisons, image weights, and other
-    details.
+- This [Reference
+  Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main)
+  contains a variety of styles and keywords for your use, in addition to
+  pages showing resolution comparisons, image weights, and other
+  details.
 
--   The Pan feature in Midjourney allows for extending the image canvas
-    in a chosen direction without altering the original image content.
-    It\'s useful for expanding the scene or adding content in a specific
-    direction. However, once a pan direction is chosen (horizontal or
-    vertical), subsequent panning must continue in the same direction.
-    Panning is compatible with the Remix Mode, enabling modifications of
-    the prompt when panning to influence the new content added to the
-    image.
+- The Pan feature in Midjourney allows for extending the image canvas in
+  a chosen direction without altering the original image content. It's
+  useful for expanding the scene or adding content in a specific
+  direction. However, once a pan direction is chosen (horizontal or
+  vertical), subsequent panning must continue in the same direction.
+  Panning is compatible with the Remix Mode, enabling modifications of
+  the prompt when panning to influence the new content added to the
+  image.
 
--   The Zoom Out option in Midjourney enables expansion of the image
-    beyond its original boundaries, creating an extended version of the
-    initial image. After upscaling an image, \"Zoom Out 2X\" and \"Zoom
-    Out 1.5X\" options are available to expand the image canvas by 100%
-    or 50%, respectively. The \"Make Square\" option adjusts the aspect
-    ratio of a non-square image to make it square. The \"Custom Zoom\"
-    feature lets users specify a custom zoom out value, offering control
-    over the canvas size and aspect ratio for creative flexibility.
+- The Zoom Out option in Midjourney enables expansion of the image
+  beyond its original boundaries, creating an extended version of the
+  initial image. After upscaling an image, "Zoom Out 2X" and "Zoom Out
+  1.5X" options are available to expand the image canvas by 100% or 50%,
+  respectively. The "Make Square" option adjusts the aspect ratio of a
+  non-square image to make it square. The "Custom Zoom" feature lets
+  users specify a custom zoom out value, offering control over the
+  canvas size and aspect ratio for creative flexibility.
 
--   Permutation Prompts facilitate the creation of multiple image
-    variations in a single command by including a list of options in
-    curly braces {} in your prompt. It\'s useful for exploring different
-    versions or combinations of a concept. For instance, the prompt
-    /imagine prompt a {red, green, yellow} bird generates three separate
-    images of birds in red, green, and yellow colors. This feature also
-    allows for parameter variations and can be used with multiple sets
-    of options in a prompt to create permutations of multiple variables.
-    The number of jobs per Permutation Prompt is based on the user\'s
-    subscription level, and each job generated will consume GPU minutes.
+- Permutation Prompts facilitate the creation of multiple image
+  variations in a single command by including a list of options in curly
+  braces {} in your prompt. It's useful for exploring different versions
+  or combinations of a concept. For instance, the prompt /imagine prompt
+  a {red, green, yellow} bird generates three separate images of birds
+  in red, green, and yellow colors. This feature also allows for
+  parameter variations and can be used with multiple sets of options in
+  a prompt to create permutations of multiple variables. The number of
+  jobs per Permutation Prompt is based on the user's subscription level,
+  and each job generated will consume GPU minutes.
 
--   When attempting to create an avatar from a selfie using Midjourney,
-    the prompt\'s accuracy can significantly impact the results. If
-    you\'re struggling to get satisfactory results, follow these steps
-    to improve the process. First, upload your selfie, preferably with
-    minimal background, to the Midjourney bot on Discord by typing
-    /describe and attaching your image. Drag your uploaded image into
-    the box to add its URL. For the description and style ideas,
-    elaborate on the output provided by the /describe command used in
-    the first step. The keywords should include \"*Keep the consistency
-    of action, expression, clothing, shape, and appearance of the
-    photos, super detail.*\" Use the parameter *"\-- iw 2"* to yield
-    results that look more like the original image.
+- When attempting to create an avatar from a selfie using Midjourney,
+  the prompt's accuracy can significantly impact the results. If you're
+  struggling to get satisfactory results, follow these steps to improve
+  the process. First, upload your selfie, preferably with minimal
+  background, to the Midjourney bot on Discord by typing /describe and
+  attaching your image. Drag your uploaded image into the box to add its
+  URL. For the description and style ideas, elaborate on the output
+  provided by the /describe command used in the first step. The keywords
+  should include "*Keep the consistency of action, expression, clothing,
+  shape, and appearance of the photos, super detail.*" Use the parameter
+  *“-- iw 2”* to yield results that look more like the original image.
 
 > *Example: \[URL\], keep the consistency of action, expression,
-> clothing, shape and appearance of the photos, super detail \--iw 2*
+> clothing, shape and appearance of the photos, super detail --iw 2*
 
--   Please be aware that the landscape of AI and digital arts is
-    advancing rapidly. Therefore, while this book serves as a valuable
-    primer, some information will already be outdated at the time of
-    your reading. To stay up-to-date with the latest trends, techniques,
-    and insights, we recommend continuously exploring a variety of
-    resources in the field. Engaging with online communities, reading
-    blogs, attending webinars, and participating in relevant forums can
-    help keep you informed about the ever-evolving world of AI and
-    digital arts. Remember, the purpose of this book is to ignite your
-    interest and guide you on your journey; however, the pursuit of
-    knowledge in this dynamic field extends far beyond its pages.
+- Please be aware that the landscape of AI and digital arts is advancing
+  rapidly. Therefore, while this book serves as a valuable primer, some
+  information will already be outdated at the time of your reading. To
+  stay up-to-date with the latest trends, techniques, and insights, we
+  recommend continuously exploring a variety of resources in the field.
+  Engaging with online communities, reading blogs, attending webinars,
+  and participating in relevant forums can help keep you informed about
+  the ever-evolving world of AI and digital arts. Remember, the purpose
+  of this book is to ignite your interest and guide you on your journey;
+  however, the pursuit of knowledge in this dynamic field extends far
+  beyond its pages.
 
-Let's embark on an exciting journey into the realm of Emoji Prompts!
+Let’s embark on an exciting journey into the realm of Emoji Prompts!
 Next, we will showcase the transformative power of single emojis, such
 as a lion, as creative seeds for captivating visual narratives. These
 are not just any images; each was spawned from a mere emoji fed into the
 ChatGPT prompt covered earlier in this book. This simple interaction
 sparks ChatGPT into action, generating a nuanced textual prompt that our
 Midjourney AI morphs into visually stunning art. The eclectic mix of
-styles, moods, and settings you\'ll discover in the following pages
+styles, moods, and settings you'll discover in the following pages
 underscores the incredible range of creativity ignited by single emojis
 or chains of them. Remember, though: AI interpretation is more of an art
-than a science. Even with specific prompts, the AI\'s artistic
+than a science. Even with specific prompts, the AI's artistic
 interpretation may meander into unexpected territories, producing
 results that diverge from your initial envisioning. This divergence is
 not a flaw but a feature, highlighting the whimsical unpredictability
@@ -393,59 +396,48 @@ moment to juxtapose them with their originating prompts, observing the
 intriguing differences and marveling at the imaginative leaps the AI
 takes.
 
-![](media/image2.jpeg){width="8.803472222222222in"
-height="8.803472222222222in"}
+<img src="media/image2.jpeg" style="width:8.80347in;height:8.80347in" />
 
-![](media/image3.jpeg){width="8.811111111111112in"
-height="8.811111111111112in"}
+<img src="media/image3.jpeg" style="width:8.81111in;height:8.81111in" />
 
-![](media/image4.jpeg){width="8.902083333333334in"
-height="8.902083333333334in"}
+<img src="media/image4.jpeg" style="width:8.90208in;height:8.90208in" />
 
-![](media/image5.jpeg){width="8.866666666666667in"
-height="8.866666666666667in"}
+<img src="media/image5.jpeg" style="width:8.86667in;height:8.86667in" />
 
-![](media/image6.jpeg){width="8.859722222222222in"
-height="8.859722222222222in"}
+<img src="media/image6.jpeg" style="width:8.85972in;height:8.85972in" />
 
-![](media/image7.jpeg){width="8.866666666666667in"
-height="8.866666666666667in"}
+<img src="media/image7.jpeg" style="width:8.86667in;height:8.86667in" />
 
-![](media/image8.jpeg){width="8.902083333333334in"
-height="8.902083333333334in"}
+<img src="media/image8.jpeg" style="width:8.90208in;height:8.90208in" />
 
-![A dragon on a hill Description automatically
-generated](media/image9.jpeg){width="8.859722222222222in"
-height="8.859722222222222in"}
+<img src="media/image9.jpeg" style="width:8.85972in;height:8.85972in"
+alt="A dragon on a hill Description automatically generated" />
 
-![](media/image10.jpeg){width="8.83125in" height="8.83125in"}
+<img src="media/image10.jpeg"
+style="width:8.83125in;height:8.83125in" />
 
-![A stream in a forest with mushrooms Description automatically
-generated](media/image11.jpeg){width="8.845833333333333in"
-height="8.845833333333333in"}
+<img src="media/image11.jpeg" style="width:8.84583in;height:8.84583in"
+alt="A stream in a forest with mushrooms Description automatically generated" />
 
-![A river with pink trees and mountains in the background Description
-automatically generated](media/image12.jpeg){width="8.831944444444444in"
-height="8.831944444444444in"}
+<img src="media/image12.jpeg" style="width:8.83194in;height:8.83194in"
+alt="A river with pink trees and mountains in the background Description automatically generated" />
 
-![](media/image13.jpeg){width="8.838888888888889in"
-height="8.838888888888889in"}
+<img src="media/image13.jpeg"
+style="width:8.83889in;height:8.83889in" />
 
-![](media/image14.jpeg){width="8.804166666666667in"
-height="8.804166666666667in"}
+<img src="media/image14.jpeg"
+style="width:8.80417in;height:8.80417in" />
 
-![A fish swimming in the water Description automatically
-generated](media/image15.jpeg){width="8.811111111111112in"
-height="8.811111111111112in"}
+<img src="media/image15.jpeg" style="width:8.81111in;height:8.81111in"
+alt="A fish swimming in the water Description automatically generated" />
 
-![](media/image16.jpeg){width="8.789583333333333in"
-height="8.789583333333333in"}
+<img src="media/image16.jpeg"
+style="width:8.78958in;height:8.78958in" />
 
-![](media/image17.jpeg){width="8.845833333333333in"
-height="8.845833333333333in"}
+<img src="media/image17.jpeg"
+style="width:8.84583in;height:8.84583in" />
 
-![](media/image18.jpeg){width="8.825in" height="8.825in"}
+<img src="media/image18.jpeg" style="width:8.825in;height:8.825in" />
 
-![A colorful art of a face Description automatically
-generated](media/image19.jpeg){width="8.811111111111112in"
-height="8.811111111111112in"}
+<img src="media/image19.jpeg" style="width:8.81111in;height:8.81111in"
+alt="A colorful art of a face Description automatically generated" />
