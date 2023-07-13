@@ -4,13 +4,8 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>For easier access visit <a
-href="https://curriculum.joone.org/"><strong>https://curriculum.joone.org</strong></a>
-to access this book for free.</p>
-<p>To use ChatGPT as a prompt generator, copy all of the following text
-and paste it into ChatGPT's input.</p>
-<p>When it responds with the question, provide a description of the
-image you want it to generate, or simply insert some emoji.</p></th>
+<th>
+<p>To use ChatGPT as a prompt generator, copy all of the following text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -18,64 +13,29 @@ image you want it to generate, or simply insert some emoji.</p></th>
 </table>
 
 [Midjourney](https://www.midjourney.com/) is a
-[Discord](https://discord.com/)-based AI service that turns textual
-prompts into unique images. It can handle prompts up to around 60 words,
-but the influence of each word diminishes as the length of the prompt
-increases. To optimize results, structure your prompts concisely and
-directly, aiming for a clear, sequential style rather than long,
-descriptive sentences.
+[Discord](https://discord.com/)-based AI service that turns textual prompts into unique images. It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
 
-Prompts follow this formula: */imagine \[Subject and Setting\]. \[Style
-Keywords\]. \[Parameters\]*
+> Prompts follow this formula: */imagine \[Subject and Setting\]. \[Style Keywords\]. \[Parameters\]*
+
+<br>
 
 **Subject and Setting**:
 
-- To optimize prompts, start with a clear subject (a *'colossal'*
-  > elephant differs visually from a *'big'* one), and add personality
-  > and emotion for more expressive imagery. Use collective nouns
-  > instead of quantities (*'herd of elephants*' over *'3 elephants*')
-  > and position subjects within a detailed environment (*'bathing at
-  > sunset in the Serengeti during fall'*). Unspecified details are
-  > randomized, so be as specific as you can. Use nuanced adjectives
-  > (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
+- To optimize prompts, start with a clear subject (a *'colossal'* elephant differs visually from a *'big'* one), and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities (*'herd of elephants*' over *'3 elephants*') and position subjects within a detailed environment (*'bathing at sunset in the Serengeti during fall'*). Unspecified details are randomized, so be as specific as you can. Use nuanced adjectives (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
 
-- Example: Instead of just ‘*elephant'*, use "*A tranquil scene of a
-  > herd of colossal African elephants bathing at sunset in the
-  > Serengeti watering hole.*"
+> Example: Instead of just ‘*elephant'*, use "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole.*"
+
+<br>
 
 **Style Keywords**:
 
-- Midjourney interprets a nearly infinite range of artistic
-  > instructions. Define the medium (*e.g., 'photo', '3D sand
-  > sculpture', 'linocut print'*). Describe your desired lighting
-  > (*e.g., 'soft ambient', 'neon', 'candle-lit'*), and pair it with a
-  > color scheme (*e.g., 'monochromatic', 'earth tones', 'cyberpunk
-  > neon'*). Arrange your scene using terms like (*e.g., 'low-angle
-  > shot', 'bird's eye view', 'rule of thirds composition'*). Mention
-  > the desired artistic style (*e.g., 'Cubism', 'Anime', 'Film Noir',
-  > 'Banksy-like street art'*), or specify the historical period or
-  > specific environment for added context. Include additional
-  > descriptors (*e.g., 'shallow depth of field', 'vignette', 'splatter
-  > effect'*) to refine your scene. For high realism, specify camera
-  > effects, settings, setup (*e.g., 'Canon EOS 5D Mark IV, using a
-  > 24-70mm lens at f/2.8, with a long exposure of 15 seconds'*).
+- Midjourney interprets a nearly infinite range of artistic instructions. Define the medium (*e.g., 'photo', '3D sand sculpture', 'linocut print'*). Describe your desired lighting (*e.g., 'soft ambient', 'neon', 'candle-lit'*), and pair it with a color scheme (*e.g., 'monochromatic', 'earth tones', 'cyberpunk neon'*). Arrange your scene using terms like (*e.g., 'low-angle shot', 'bird's eye view', 'rule of thirds composition'*). Mention the desired artistic style (*e.g., 'Cubism', 'Anime', 'Film Noir', 'Banksy-like street art'*), or specify the historical period or specific environment for added context. Include additional descriptors (*e.g., 'shallow depth of field', 'vignette', 'splatter effect'*) to refine your scene. For high realism, specify camera effects, settings, setup (*e.g., 'Canon EOS 5D Mark IV, using a 24-70mm lens at f/2.8, with a long exposure of 15 seconds'*).
 
-- Maintain concise clarity with each keyword, and don't confine yourself
-  > to the provided examples. Whether it's the aesthetics of a
-  > *'polaroid snapshot'*, the drama of *'baroque lighting'*, the
-  > composition of a '*kaleidoscope*', or the eccentricity of a
-  > *'cyberpunk art style'*, MidJourney can understand and execute it
-  > all, so don't hesitate to experiment with unusual mediums,
-  > innovative lighting, creative compositions, and unexplored artistic
-  > styles.
+- Maintain concise clarity with each keyword, and don't confine yourself to the provided examples. Whether it's the aesthetics of a *'polaroid snapshot'*, the drama of *'baroque lighting'*, the composition of a '*kaleidoscope*', or the eccentricity of a *'cyberpunk art style'*, MidJourney can understand and execute it all, so don't hesitate to experiment with unusual mediums, innovative lighting, creative compositions, and unexplored artistic styles.
 
-- Example: "*A tranquil scene of a herd of colossal African elephants
-  > bathing at sunset in the Serengeti watering hole. Watercolor, golden
-  > hour, warm sunset palette, panoramic eye-level view,
-  > Impressionistic, vintage color grading.*"
+> Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading.*"
 
-**  
-**
+<br>
 
 **Parameters**:
 
@@ -112,10 +72,12 @@ Keywords\]. \[Parameters\]*
 
 - Include only relevant parameters to avoid confusing the AI.
 
-- Example: "*A tranquil scene of a herd of colossal African elephants
+> * Example: "*A tranquil scene of a herd of colossal African elephants
   bathing at sunset in the Serengeti watering hole. Watercolor, golden
   hour, warm sunset palette, panoramic eye-level view, Impressionistic,
   vintage color grading --ar 16:9 --s 700 --q 1*"
+
+<br>
 
 **Prompt Examples**:
 
@@ -140,21 +102,25 @@ prompts yield optimal results. If you are ready to start creating image
 prompts, respond with "What image would you like to create?" and nothing
 else.
 
+<br>
+
 <table>
 <colgroup>
 <col style="width: 100%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>To use ChatGPT as a prompt generator, copy all of the previous
-text and paste it into ChatGPT's input.</p>
-<p>When it responds with the question, provide a description of the
-image you want it to generate, or simply insert some emoji.</p></th>
+<th><p>To use ChatGPT as a prompt generator, copy all of the previous text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
 </tr>
 </thead>
 <tbody>
 </tbody>
 </table>
+
+
+<br>
+
+---
 
 Join [MidJourney’s Discord](https://discord.gg/midjourney) to get
 started. As a subscriber, you can directly interact with the bot through
@@ -198,10 +164,11 @@ commands:
 - */subscribe* to the four subscription plans: Basic, Standard, Pro,
   Mega
 
+<br>
+
 **Parameters** can be added to the end of prompts to customize the image
 generation process. For a comprehensive guide on how to fully leverage
-these parameters, please refer to the [MidJourney
-Documentation](https://docs.midjourney.com/docs).
+these parameters, please refer to the [MidJourney Documentation](https://docs.midjourney.com/docs).
 
 - Aspect ratios can be adjusted by using *'--ar'*, followed by the
   desired ratio, in the prompt, affecting the image's composition. The
@@ -260,12 +227,11 @@ Documentation](https://docs.midjourney.com/docs).
   be replicated in graphic design for backgrounds, textures, or patterns
   without noticeable breaks.
 
+<br>
+
 **TIPS AND TRICKS**
 
-- This [Reference
-  Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main)
-  contains a variety of styles and keywords for your use, in addition to
-  pages showing resolution comparisons, image weights, and other
+- This [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contains a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other
   details.
 
 - The Pan feature in Midjourney allows for extending the image canvas in
@@ -309,8 +275,7 @@ Documentation](https://docs.midjourney.com/docs).
   shape, and appearance of the photos, super detail.*" Use the parameter
   *“-- iw 2”* to yield results that look more like the original image.
 
-> *Example: \[URL\], keep the consistency of action, expression,
-> clothing, shape and appearance of the photos, super detail --iw 2*
+> *Example: \[URL\], keep the consistency of action, expression, clothing, shape and appearance of the photos, super detail --iw 2*
 
 - Please be aware that the landscape of AI and digital arts is advancing
   rapidly. Therefore, while this book serves as a valuable primer, some
@@ -324,24 +289,11 @@ Documentation](https://docs.midjourney.com/docs).
   however, the pursuit of knowledge in this dynamic field extends far
   beyond its pages.
 
-Let’s embark on an exciting journey into the realm of Emoji Prompts!
-Next, we will showcase the transformative power of single emojis, such
-as a lion, as creative seeds for captivating visual narratives. These
-are not just any images; each was spawned from a mere emoji fed into the
-ChatGPT prompt covered earlier in this book. This simple interaction
-sparks ChatGPT into action, generating a nuanced textual prompt that our
-Midjourney AI morphs into visually stunning art. The eclectic mix of
-styles, moods, and settings you'll discover in the following pages
-underscores the incredible range of creativity ignited by single emojis
-or chains of them. Remember, though: AI interpretation is more of an art
-than a science. Even with specific prompts, the AI's artistic
-interpretation may meander into unexpected territories, producing
-results that diverge from your initial envisioning. This divergence is
-not a flaw but a feature, highlighting the whimsical unpredictability
-and inherent creativity of AI. As you delve into the visuals, take a
-moment to juxtapose them with their originating prompts, observing the
-intriguing differences and marveling at the imaginative leaps the AI
-takes.
+<br><br>
+
+---
+
+<br><br>
 
 This text is independently published and unaffiliated with MidJourney or
 OpenAI
