@@ -10,7 +10,7 @@ We develop free, open-source K-12 curricula that seamlessly combines [core acade
   
 ---
 
-Our offerings both derive from and contribute to an expansive range of [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources), including but not limited to:
+Our offerings both derive from and contribute to an expansive range of [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources) including:
 
 * [BCcampus](https://open.bccampus.ca/) provides educators with free access to modifiable open educational resources (OER), including textbooks, fostering tailored and financially accessible learning experiences across Canada.
 
