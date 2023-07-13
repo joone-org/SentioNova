@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### You're encouraged to review our work and contribute your insights to their development in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
+### You're encouraged to review and contribute to our work on the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
 We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways).<br>Our content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system).  
 
