@@ -10,4 +10,4 @@
   * [⚙️  Introduction to ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/blob/main/Introduction%20to%20ChatGPT-4.pdf)
   * [💭  Lyra's Journey with OCD](https://github.com/joone-org/curriculum.joone.org/blob/main/Lyra's%20Journey%20with%20OCD.pdf)
   * [🏴‍☠️  Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)
-  * [Unseen Heroes](https://chat.openai.com/share/b2b77b92-bee9-4062-8e53-8a3120781f81)
+  * [🌟 Unseen Heroes](https://chat.openai.com/share/b2b77b92-bee9-4062-8e53-8a3120781f81)
