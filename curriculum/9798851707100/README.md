@@ -1,21 +1,16 @@
 <div align="center">
-  
-# Beginning Midjourney
 
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
+<br><br>
 [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
-Amazon Paperback (in review with AKDP)<br>
-[PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
+Amazon Paperback (~ AKDP)<br>
+[Adobe PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
 [Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)<br>
 [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br><br>
 
 This guide offers an insightful peek into the mesmerizing world of AI-driven creativity. Within its compact format, you'll find a straightforward tutorial on maximizing the capabilities of the Midjourney AI service on Discord and creating compelling prompts with ChatGPT. Alongside this guide, there's an array of vibrant, AI-generated visuals created from simple emoji prompts, demonstrating the convergence of technology and imagination in a tangible and inspiring manner.
 
 This guide is shared under an open license (CC BY-NC-ND) by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education. As such, you're free to share and use it while giving appropriate credit. Ideal for educators, tech enthusiasts, parents, or anyone interested in the intersection of AI and art, it's part of a broader effort to make AI accessible to all.<br><br>
-
-![steam_ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/aa2d91df-bf2a-476e-b9fa-4f5d33ec6ed4)
-
-
-[Full resolution 8K image here](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/steam_ship_8k.png)<br><br>
 
 </div>
 
@@ -321,7 +316,31 @@ Let’s embark on an exciting journey into the realm of Emoji Prompts! Next, we 
 
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field.
+Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field.<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<br><br>
 
 </div>
 
