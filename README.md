@@ -10,7 +10,4 @@ You're welcome to review the initial iterations of our work and contribute your 
   * [💭  Lyra's Journey with OCD](https://github.com/joone-org/curriculum.joone.org/blob/main/Lyra's%20Journey%20with%20OCD.pdf)
   * [🏴‍☠️  Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)
 
-<br>
-
 To help contribute please visit the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
-
