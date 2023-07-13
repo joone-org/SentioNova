@@ -12,7 +12,6 @@
   * [🏴‍☠️  Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)
   * [🌟 Unseen Heroes](https://chat.openai.com/share/b2b77b92-bee9-4062-8e53-8a3120781f81)
 
-
 <br>
 
 Our intent is to further contribute high quality K-12 [Open Educational Resources](https://en.wikiversity.org/wiki/Open_Educational_Resources) to the following projects:
