@@ -315,32 +315,33 @@ Let’s embark on an exciting journey into the realm of Emoji Prompts! Next, we 
 <div align="center">
 
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field.<br><br>
+🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁<br><br>
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
+<!-- 
+![image](URL)
+prompt<br>
 <br><br>
+-->
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-<br><br>
-
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-<br><br>
-
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-<br><br>
-
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-<br><br>
-
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>
-<br><br>
+* 🐉 A towering, majestic dragon perched atop a craggy mountain peak, its scales shimmering under the moonlight. Traditional Asian ink painting style, nighttime setting, monochromatic color scheme, bird's-eye view, strong contrast. --ar 1:1 --s 800 --q .5<br><br>
+* 🏞️ A breathtaking view of a pristine alpine valley with a mirror-like lake surrounded by towering, snow-capped mountains under a clear blue sky. Bob Ross-inspired oil painting style, daytime setting, vibrant colors, panoramic view, detailed foliage. --ar 16:9 --s 600 --q .5<br><br>
+* 🎭 A dramatic scene on a Baroque-style theatre stage, with a masked performer in the spotlight, set against a backdrop of lush red velvet curtains. Renaissance painting style, chiaroscuro lighting, rich color palette, centered composition, high level of detail. --ar 16:9 --s 600 --q .5<br><br>
+* 🍄 A whimsical scene in an enchanted forest filled with oversized, luminescent mushrooms and tiny glowing fairy-like creatures. Studio Ghibli anime style, dusk setting, vibrant and surreal colors, low-angle shot, soft ambient light. --ar 16:9 --s 700 --q .5<br><br>
+* 🌌 A mesmerizing scene of the Milky Way stretching across the night sky, illuminating a tranquil, lonely mountain. Van Gogh's Starry Night-inspired style, dark sky, vibrant and contrasting colors, low-angle view, strong brush strokes. --ar 16:9 --s 800 --q .5<br><br>
+* 🐠 A vibrant underwater world bustling with life, featuring a colorful clownfish navigating through the vivid corals of a bustling reef. Anime style, deep-sea lighting, saturated color palette, medium shot, detailed marine life. --ar 16:9 --s 700 --q .5<br><br>
+* 🌺 A single, radiant hibiscus flower, dew-kissed and basking in the morning sunlight against a lush tropical background. Botanical illustration style, morning lighting, vibrant color palette, close-up shot, highly detailed. --ar 1:1 --s 800 --q .5<br><br>
+* 🗻 A serene scene of Mount Fuji in winter, its snow-capped peak bathed in the soft glow of a rising sun, with cherry blossom trees framing the foreground. Ukiyo-e style, dawn lighting, muted color palette, medium shot, subtle grain effect. --ar 16:9 --s 600 --q .5<br><br>
+* 🌠 A breathtaking view of a shooting star streaking across the night sky over a tranquil, mirror-like lake surrounded by pine forests. Impressionism style, night setting, cool color palette, panoramic view, star trail effect. --ar 16:9 --s 700 --q .5<br><br>
+* 🏯 A grand, historic Japanese castle nestled amidst vibrant cherry blossom trees, with Mount Fuji majestically visible in the background. Ukiyo-e woodblock print style, spring setting, vibrant color palette, eye-level view, high detail. --ar 16:9 --s 700 --q .5<br><br>
+* 🌍 A captivating view of Earth from space, with a radiant sunrise illuminating the continents against the deep blue oceans. Space photography style, sunrise lighting, vibrant colors, high-angle view, realistic detail. --ar 16:9 --s 800 --q .5<br><br>
+* 🌕 A detailed view of the full moon against a starry night sky, its craters and features vividly visible. Realistic astrophotography style, night setting, monochromatic color palette, centered composition, high contrast. --ar 1:1 --s 800 --q .5<br><br>
+* 🌈 A pastoral scene after a rain shower, with a vibrant rainbow arching across the sky over a verdant meadow dotted with wildflowers. Watercolor style, soft ambient light, full color spectrum, panoramic view, impressionistic brushstrokes. --ar 16:9 --s 600 --q .5<br><br>
+* ⚡ A dramatic scene of a powerful lightning bolt splitting the night sky over a lonely lighthouse by the stormy sea. Romanticism style, night setting, dynamic lighting, cool color palette, high contrast. --ar 16:9 --s 700 --q .5<br><br>
+* 🎠 An enchanting scene of a vintage carousel aglow with fairy lights in a bustling night-time city park. Art Nouveau style, night setting, vibrant colors, medium shot, bokeh effect. --ar 16:9 --s 700 --q .5<br><br>
+* 🎡 A bustling fairground at dusk, with a towering Ferris wheel brightly lit against the twilight sky. Vintage photography style, soft ambient light, warm color palette, low-angle view, film grain effect. --ar 16:9 --s 600 --q .5<br><br>
+* 🏜️ A vast, tranquil desert landscape under a blazing sunset, with towering sand dunes casting long, dramatic shadows. Minimalist oil painting style, sunset lighting, warm color palette, wide-angle view, smooth texture. --ar 16:9 --s 700 --q .5<br><br>
+* 🐋 A giant, serene blue whale gliding gracefully through the deep ocean, surrounded by a myriad of bioluminescent marine life. Anime style, deep-sea lighting, cool color palette, medium shot, exaggerated proportions. --ar 16:9 --s 700 --q .5<br><br>
+* 🏕️ A cozy campsite nestled among towering pines, a crackling fire casting a warm glow against the starlit wilderness. Digital painting style, night setting, warm and cool color palette, medium shot, detailed environment. --ar 16:9 --s 600 --q .5<br><br>
 
 </div>
 
