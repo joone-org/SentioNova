@@ -6,7 +6,8 @@
 Amazon Paperback (~ AKDP)<br>
 [Adobe PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
 [Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)<br>
-[Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br><br>
+[Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br>
+[Wiki](https://github.com/joone-org/curriculum.joone.org/wiki/Beginning-Midjourney)<br><br>
 
 This guide offers an insightful peek into the mesmerizing world of AI-driven creativity. Within its compact format, you'll find a straightforward tutorial on maximizing the capabilities of the Midjourney AI service on Discord and creating compelling prompts with ChatGPT. Alongside this guide, there's an array of vibrant, AI-generated visuals created from simple emoji prompts, demonstrating the convergence of technology and imagination in a tangible and inspiring manner.
 
