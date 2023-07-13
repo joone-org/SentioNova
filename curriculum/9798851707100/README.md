@@ -312,6 +312,13 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 
 ---
 
+
+<img src="media/image2.jpeg" style="width:8.80347in;height:8.80347in" />
+
+
+
+---
+
 <br><br>
 
 This text is independently published and unaffiliated with MidJourney or
