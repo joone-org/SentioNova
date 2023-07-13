@@ -1,8 +1,6 @@
 ![steam_ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/aa2d91df-bf2a-476e-b9fa-4f5d33ec6ed4)<br>
 
-[Joone](https://joone.org) develops free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). 
-
-You're welcome to review the initial iterations of our work below. Please contribute your insights to their ongoing development at [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
+[Joone](https://joone.org) develops free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). You're welcome to review the initial iterations of our work below. Please contribute your insights to their ongoing development at [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
 <br>
 
