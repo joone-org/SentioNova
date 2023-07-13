@@ -6,7 +6,7 @@ We develop free, open-source K-12 curricula that seamlessly combines [core acade
 
 * [Commons](https://commons.wikimedia.org/): Commons, a shared media repository, offers educators a vast multimedia collection to enrich K-12 classroom presentations and learning materials.
 
-* [MIT Open Learning Library](https://ocw.mit.edu/course-lists/open-learning-library/) is a free educational platform providing self-guided, interactive learning experiences without live support or certificates, enabling global learners to engage at their own pace.
+* [MIT Open Library](https://ocw.mit.edu/course-lists/open-learning-library/) is a free educational platform providing self-guided, interactive learning experiences without live support or certificates, enabling global learners to engage at their own pace.
 
 * [Wikibooks](https://www.wikibooks.org/): Wikibooks provides educators with free, open-source textbooks and manuals on subjects like mathematics, science, history, and language arts, serving as supplemental or primary course materials for K-12 education.
 
