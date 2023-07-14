@@ -30,7 +30,8 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 
 [**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts". As prompt length increases, each word's impact decreases, so remain concise while following this format: 
 > "*/imagine [subject][setting] in the style of [style] [parameters]*"
-> "*Style can be expanded in this way: [artistic style / medium], [lighting / time of day], [color and tone], [environment / background Details], [artistic techniques / effects], [influences / inspirations], [quality / format]*"
+
+> "*Style can include, but does not have to, in this order: [artistic style / medium], [lighting / time of day], [color and tone], [environment / background Details], [artistic techniques / effects], [influences / inspirations], [quality / format]*"
 
 #### Subject and Setting
 Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
