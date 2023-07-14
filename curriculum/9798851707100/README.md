@@ -99,8 +99,12 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 </tbody>
 </table>
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
+<br>
+
+![ele1](https://github.com/joone-org/curriculum.joone.org/assets/137654670/c34ebea0-ffc9-4d67-a61c-117afaeaadec)
+> *A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading --ar 16:9 --s 700*
+
+<br>
 
 ---
 
