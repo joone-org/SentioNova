@@ -38,7 +38,7 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 
 **Subject and Setting**:
 
-- To optimize prompts, start with a clear subject (a *'colossal'* elephant differs visually from a *'big'* one), and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities (*'herd of elephants*' over *'3 elephants*') and position subjects within a detailed environment (*'bathing at sunset in the Serengeti during fall'*). Unspecified details are randomized, so be as specific as you can. Use nuanced adjectives (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
+- To create prompts, start with a clear subject (a *'colossal'* elephant differs visually from a *'big'* one), and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities (*'herd of elephants*' over *'3 elephants*') and position subjects within a detailed environment (*'bathing at sunset in the Serengeti during fall'*). Unspecified details are randomized, so be as specific as you can. Use nuanced adjectives (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
 
 > Example: Instead of just ‘*elephant'*, use "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole.*"
 
@@ -56,9 +56,7 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 
 **Parameters**:
 
-- "*::*" enables separate specification of different image components.
-  *'African elephants::bathing at sunset'* tells Midjourney to treat
-  *'African elephants'* and *'bathing at sunset'* as distinct parts
+- "*::*" enables separate specification of different image components. *'African elephants::bathing at sunset'* tells Midjourney to treat *'African elephants'* and *'bathing at sunset'* as distinct parts
 
 - *“--ar \<width:height\>”* dictates the width-to-height aspect ratio
 
@@ -66,33 +64,20 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 
 - *“--niji 5”* produces anime aesthetic and illustrative styles.
 
-- *“--style \<cute, expressive, original, scenic\>”* can only be used
-  with niji enabled
+- *“--style \<cute, expressive, original, scenic\>”* can only be used with niji enabled
 
 - *“--style \<raw\>”* in traditional mode creates photorealistic images
 
-- *“--s \<0–1000\>”* adjusts the level of Midjourney's trained artistic
-  style in your image, with lower values creating more literal
-  interpretations of your prompt and higher values infusing stronger
-  artistic stylization
+- *“--s \<0–1000\>”* adjusts the level of Midjourney's trained artistic style in your image, with lower values creating more literal interpretations of your prompt and higher values infusing stronger artistic stylization
 
-- *“--q \<.25, .5, 1 (default)\>"* regulates the level of detail in the
-  rendering. Lower quality values produce less detailed images, leading
-  to more painterly or abstract styles, perfect for certain artistic
-  needs
+- *“--q \<.25, .5, 1 (default)\>"* regulates the level of detail in the rendering. Lower quality values produce less detailed images, leading to more painterly or abstract styles, perfect for certain artistic needs
 
-- *“--chaos \<0–100\>”* and *“--weird \<0–3000\>”* enhance image
-  unpredictability. *--chaos* varies within the AI's standard style,
-  while *--weird* creates distinctly unconventional images. Use these
-  sparingly as they often result in overly abstract or distorted
+- *“--chaos \<0–100\>”* and *“--weird \<0–3000\>”* enhance image unpredictability. *--chaos* varies within the AI's standard style, while *--weird* creates distinctly unconventional images. Use these sparingly as they often result in overly abstract or distorted
   results.
 
 - Include only relevant parameters to avoid confusing the AI.
 
-> * Example: "*A tranquil scene of a herd of colossal African elephants
-  bathing at sunset in the Serengeti watering hole. Watercolor, golden
-  hour, warm sunset palette, panoramic eye-level view, Impressionistic,
-  vintage color grading --ar 16:9 --s 700*"
+> * Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading --ar 16:9 --s 700*"
 
 <br>
 
@@ -100,11 +85,7 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 
 - *
 
-Remember MidJourney supports up to 60 words but as prompt length
-increases, each word's impact decreases, and short, clear, sequential
-prompts yield optimal results. If you are ready to start creating image
-prompts, respond with "What image would you like to create?" and nothing
-else.
+Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
 <br>
 
@@ -297,6 +278,9 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy, consider referencing the UX Collective articles on Medium.
 
 <br><br>
+
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
 
 <!-- 
 ![image](URL)
