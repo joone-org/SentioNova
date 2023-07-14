@@ -138,8 +138,8 @@ else.
 </tbody>
 </table>
 
-
-<br>
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
 
 ---
 
@@ -320,8 +320,7 @@ What follows are images generated from emojis that were used as prompts in ChatG
 
 <div align="center">
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁<br><br>
+<br><br>
 
 <!-- 
 ![image](URL)
