@@ -26,24 +26,17 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 </tbody>
 </table>
 
-### Crafting Prompts
-[Midjourney](https://www.midjourney.com/)
-is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts" which should be direct and brief. Each word's impact decreases progressively; beyond 60 words, influence is minimal. Prompts should follow this format: 
+<br>
+
+[**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts". As prompt length increases, each word's impact decreases, so remain concise while following this format: 
 > "*/imagine [subject], in the style of [style] [parameters]*"
 
-<br>
-
-### Subject and Setting
-Start with a subject positioned within a specific environment, use collective nouns ("herd" instead of "3"), be specific ('sunset' differs from 'dusk') and concise. 
+#### Subject and Setting
+Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
 > *Example: "/imagine Elephant herd at sunset in the Serengeti"*
 
-<br>
-
-### Style Keywords
-
-and add personality and emotion for more expressive imagery. use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
-
-For best results, craft your prompts with conciseness, clarity, and creativity. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', and 'vaporwave aesthetic' to 'Chiaroscuro'. Even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements' are easily within its reach.
+#### Style Keywords
+For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements'. 
   - Define the medium (photo, sand sculpture, linocut print).
   - Describe your desired lighting (soft ambient, neon, candle-lit)
   - Pair it with a color scheme (monochromatic, earth tones, cyberpunk neon)
@@ -51,9 +44,10 @@ For best results, craft your prompts with conciseness, clarity, and creativity. 
   - Mention the desired artistic style (Cubism, Anime, Film Noir, Banksy graffiti), or specify the historical period or specific environment for added context
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
+  - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
 > *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition"*
 
-### Parameters
+#### Parameters
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
 - "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
 - "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
@@ -63,9 +57,8 @@ For best results, craft your prompts with conciseness, clarity, and creativity. 
 - "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
 > *Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"*
 
-**Prompt Examples from UX Collective:**
-
-- *Commercial photography of sugar dust of blueberry pancake, with studio light, hyper-detailed, on black isolated plain, pro color grading, white lighting, Shot on 70mm lens, Canon camera, 8k*
+#### Prompt Examples
+- 
 
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
