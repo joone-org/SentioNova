@@ -31,16 +31,21 @@ It can handle prompts up to around 60 words, but the influence of each word dimi
 
 > *Prompts follow this formula: /imagine [Subject and Setting]. [Style Keywords]. [Parameters]*
 
+
 ### Subject and Setting
 - Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
-
 > *A herd of colossal African elephants under a breathtaking sunset in the Serengeti.*
 
+
 ### Style Keywords
-- Midjourney interprets a nearly infinite range of artistic instructions. Define the medium (*e.g., 'photo', '3D sand sculpture', 'linocut print'*). Describe your desired lighting (*e.g., 'soft ambient', 'neon', 'candle-lit'*), and pair it with a color scheme (*e.g., 'monochromatic', 'earth tones', 'cyberpunk neon'*). Arrange your scene using terms like (*e.g., 'low-angle shot', 'bird's eye view', 'rule of thirds composition'*). Mention the desired artistic style (*e.g., 'Cubism', 'Anime', 'Film Noir', 'Banksy-like street art'*), or specify the historical period or specific environment for added context. Include additional descriptors (*e.g., 'shallow depth of field', 'vignette', 'splatter effect'*) to refine your scene. For high realism, specify camera effects, settings, setup (*e.g., 'Canon EOS 5D Mark IV, using a 24-70mm lens at f/2.8, with a long exposure of 15 seconds'*).
-
-- Maintain concise clarity with each keyword, and don't confine yourself to the provided examples. Whether it's the aesthetics of a *'polaroid snapshot'*, the drama of *'baroque lighting'*, the composition of a '*kaleidoscope*', or the eccentricity of a *'cyberpunk art style'*, MidJourney can understand and execute it all, so don't hesitate to experiment with unusual mediums, innovative lighting, creative compositions, and unexplored artistic styles.
-
+- For best results, craft your prompts with conciseness, clarity, and creativity. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', and 'vaporwave aesthetic' to 'Chiaroscuro'. Even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements' are easily within its reach.
+  - Define the medium (photo, sand sculpture, linocut print).
+  - Describe your desired lighting (soft ambient, neon, candle-lit)
+  - Pair it with a color scheme (monochromatic, earth tones, cyberpunk neon)
+  - Arrange your scene using terms like (low-angle shot, bird's eye view, rule of thirds composition)
+  - Mention the desired artistic style (Cubism, Anime, Film Noir, Banksy graffiti), or specify the historical period or specific environment for added context
+  - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
+  - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
 > Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, vintage color grading.*"
 
 ### Parameters
