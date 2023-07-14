@@ -28,13 +28,12 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 
 ### [Midjourney](https://www.midjourney.com/) is a [Discord](https://discord.com/)-based artificial intelligence that creates images from text prompts.
 It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
-
-> *Prompts follow this formula: /imagine [Subject and Setting]. [Style Keywords]. [Parameters]*
+> *Prompts follow this formula: "/imagine [Subject]. [Style]. [Parameters]"*
 
 
 ### Subject and Setting
 - Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
-> *A herd of colossal African elephants under a breathtaking sunset in the Serengeti.*
+> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti."*
 
 
 ### Style Keywords
@@ -46,7 +45,7 @@ It can handle prompts up to around 60 words, but the influence of each word dimi
   - Mention the desired artistic style (Cubism, Anime, Film Noir, Banksy graffiti), or specify the historical period or specific environment for added context
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
-> Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, vintage color grading.*"
+> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition."*
 
 ### Parameters
  
