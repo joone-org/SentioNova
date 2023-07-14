@@ -92,48 +92,13 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 > * Example: "*A tranquil scene of a herd of colossal African elephants
   bathing at sunset in the Serengeti watering hole. Watercolor, golden
   hour, warm sunset palette, panoramic eye-level view, Impressionistic,
-  vintage color grading --ar 16:9 --s 700 --q 1*"
+  vintage color grading --ar 16:9 --s 700*"
 
 <br>
 
-**Prompt Examples from [PromptHero](https://prompthero.com/midjourney-prompts?sort=best):**
+**Prompt Examples from UX Collective:**
 
-- *Ethereal beauty, soft pastel tones, backlighting, long exposure, flowing fabric, portrait of a dancer in midair::1. 3, style of Kirsty Mitchell, surreal, delicate movement, dreamlike, cinematic lighting, ultra high resolution --ar 66:101*
-
-- *White tulip bouquet opening, liquid smoke fractals, elegant botany, dynamic movement, raphael, caravaggio, surrealism, dreamy, hauntingly beautiful, moody --c 25 --ar 2:3 --s 400*
-
-- *Whimsical illustration depicting Albi, the friendly blue dragon, and the lemony llama exploring the candy land. Show them surrounded by candy cane trees, lollipop flowers, and a river of honey flowing through the sugary landscape. Capture the joy and wonder on their faces as they embark on their adventure together. Let your imagination run wild and bring the magical world to life with vibrant colors and delightful details. --ar 16:9 --style raw --s 750*
-  
-- *Pretty and coquettish, Tradition Chinese Ink Painting, dragon, high angle view, octane render, sculpture statue porcelain white and gold marble, Intricate detail, ultra high details, Cinematic lighting, 16k, photobashing, opulent fabrics, ue5, studio lighting, portrait photography, ultra high definition*
-  
-- *Comic's rendition inspired by the fantasy artist Neil Gaiman, showcasing the majestic gates of heaven, infused with a sense of grandeur amidst cascading rays of light. Cool color temperature adds to the awe-inspiring sci-fi atmosphere. No faces, just the resplendent gates under the broad light, rendering a mystic, intriguing vibe*
-  
-- *16 bit pixel art, epic composition of a explorer in a boat reaching an island in the clouds, by studio ghibli, cinematic still, hdr --ar 2:3*
-- *Ancient hidden temple found deep inside a lush rain forest | ancient greek ruins | rubble | gray dull background | vibrant colorful green leaves | hyperrealistic | highly detailed | cinematic | single ray of golden sunlight | beautiful | cgssociety | artstation | oil painting*
-  
-- *"El fin de la Guerra entre Rusia y Ucrania", termination of conflict, ceasefire, peace attainment, warfare end, truce inception, evening, dimmed light, quiet crickets, cool breeze, star-studded sky, uneasy calm, relief tinged with sorrow, hushed anticipation, lingering tension, somber tranquility, anti-matter, radiant light reflection, dark shades, intense contrasts, surreal glow, holographic textures  --style raw*
-  
-- *Sharp details, realistic film photography, gold ornate detailed baroque picture frame, on plaster wall, vines, inner glow, peaceful scene, minimalistic, light leak c--25 --s 350 --ar 2:3*
-  
-- *Led Zeppelin´s Stairway to heaven", fine detailed pointillism painting + low-angle view, hyper-realistic, Stairway to heaven, fantasy vernacular architecture, colonne greche in degrado, art deco, expressive, rich jewel tones, radiating geometric patterns, Leon Bakst, Odilon Redon, Van Gogh, gold filigree line-art, impasto, white-on-white*
-  
-- *Island beach scene: a shark on a lounge chair, 4 fish at a beachside bar served by an octopus bartender, sandcastle, beach and ocean background, ultrarealistic 8k, --no people*
-  
-- *Illustration of an gentleman cat, in the style of 2d game art, cyan and orange, 32k uhd, necropunk, tapestries, wood, fancy vibes, whimsical illustrations --s 500 --ar 2:3 --c 10*
-  
-- *Library inside a library, in the style of vincent callebaut, fantasy illustration, ethereal trees, contrasting light, earthy organic shapes, 32k uhd, ary scheffer, solarpunk --ar 16:9 --c 100 --s 1000*
-  
-- *Daenerys Targaryen, isometric, full body, blender 3d, style of artstation and behance, Disney Pixar, Mobile game character, clash royale, cute*
-  
-- *Courageous polar bear in full winter military uniform, holding a carbine rifle, anthropomorphic, super detail, ultra hd, 8k, real life, maximum facial detail, cinematic lighting --ar 9:16 --q 2 --s 750*
-  
-- *The Tardis, in the style of detailed stained glass, Dr. Who, Gallifray, sparkling reflections, hyper-detailed illustrations --ar 2:3 --uplight --s 250*
-  
-- *Flying food photography with [Two Burgers] as the main theme, Splash of Toppings and [Spices], [Rocket Lettuce], [Cheddar Flavored Cheese], [Onion], [Pickles], [Special Sauce], [Sesame Bun] , [sea salt crystals] ::3 Capturing the dynamic splashes of food using high-speed photography , photorealistic, surrealism style, flat [white] background, trendy background [clean], Minimalist ::2 [Smoke], [Steam] ], [Smoke], [Vegetable Leaves], [Tomato] ::-0. 5 Ad Posters, Pro-Grade Color Grading, Studio Lighting, Rim Lights, [Layered Comps], EOS-1D X Mark III, 500px, Behance, concept art*
-  
-- *Woman sitting on the floor with a cat, adorable digital painting, very beautiful cute catgirl, guweiz, white cat girl, artwork in the style of guweiz, guweiz masterpiece, white ( cat ) girl, by Ni Tian, beautiful anime catgirl, ross tran 8 k, beautiful young catgirl, cute digital art*
-  
-- *Ethereal Bohemian Waxwing bird, Bombycilla garrulus :: intricate details, ornate, detailed illustration, octane render :: Johanna Rupprecht style, William Morris style :: trending on artstation –ar 9:16*
+- *
 
 Remember MidJourney supports up to 60 words but as prompt length
 increases, each word's impact decreases, and short, clear, sequential
@@ -162,8 +127,6 @@ else.
 ---
 
 <br>
-
-> [This](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e) is one of many options for prompt structure, and [UX Collective](https://medium.com/design-bootcamp/search?q=midjourney) is a comprehensive source for prompt creation.
 
 <br>Join [MidJourney’s Discord](https://discord.gg/midjourney) to get
 started. As a subscriber, you can directly interact with the bot through
@@ -322,13 +285,8 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 
 - Please be aware that the landscape of AI and digital arts is advancing
   rapidly. Therefore, while this book serves as a valuable primer, some
-  information will already be outdated at the time of your reading. To
-  stay up-to-date with the latest trends, techniques, and insights, we
-  recommend continuously exploring a variety of resources in the field.
-  Engaging with online communities, reading blogs, attending webinars,
-  and participating in relevant forums can help keep you informed about
-  the ever-evolving world of AI and digital arts. Remember, the purpose
-  of this book is to ignite your interest and guide you on your journey;
+  information will already be outdated at the time of your reading. The purpose
+  of this text is to ignite your interest and guide you on your journey;
   however, the pursuit of knowledge in this dynamic field extends far
   beyond its pages.
   
@@ -336,11 +294,7 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 
 ---
 
-What follows are images generated from emojis that were used as prompts in ChatGPT, as explained earlier in this book. Each emoji initiated a unique narrative that Midjourney then converted into a visual representation. It’s important to remember that AI imaging is more akin to art than science - even with specific prompts, the results may deviate from your original intentions. As you explore these images, compare them to their original prompts and observe the accuracy, or lack thereof, in MidJourney’s representations. To improve your accuracy, consider visiting the UX Collective articles on Medium.
-
-<br>
-
-<div align="center">
+This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy, consider referencing the UX Collective articles on Medium.
 
 <br><br>
 
@@ -370,7 +324,46 @@ prompt<br>
 * 🐋 A giant, serene blue whale gliding gracefully through the deep ocean, surrounded by a myriad of bioluminescent marine life. Anime style, deep-sea lighting, cool color palette, medium shot, exaggerated proportions. --ar 16:9 --s 700 --q .5<br><br>
 * 🏕️ A cozy campsite nestled among towering pines, a crackling fire casting a warm glow against the starlit wilderness. Digital painting style, night setting, warm and cool color palette, medium shot, detailed environment. --ar 16:9 --s 600 --q .5<br><br>
 
-</div>
+---
+
+> **(Outdated) Prompt Examples from [PromptHero](https://prompthero.com/midjourney-prompts?sort=best):**
+
+- *Ethereal beauty, soft pastel tones, backlighting, long exposure, flowing fabric, portrait of a dancer in midair::1. 3, style of Kirsty Mitchell, surreal, delicate movement, dreamlike, cinematic lighting, ultra high resolution --ar 66:101*
+
+- *White tulip bouquet opening, liquid smoke fractals, elegant botany, dynamic movement, raphael, caravaggio, surrealism, dreamy, hauntingly beautiful, moody --c 25 --ar 2:3 --s 400*
+
+- *Whimsical illustration depicting Albi, the friendly blue dragon, and the lemony llama exploring the candy land. Show them surrounded by candy cane trees, lollipop flowers, and a river of honey flowing through the sugary landscape. Capture the joy and wonder on their faces as they embark on their adventure together. Let your imagination run wild and bring the magical world to life with vibrant colors and delightful details. --ar 16:9 --style raw --s 750*
+  
+- *Pretty and coquettish, Tradition Chinese Ink Painting, dragon, high angle view, octane render, sculpture statue porcelain white and gold marble, Intricate detail, ultra high details, Cinematic lighting, 16k, photobashing, opulent fabrics, ue5, studio lighting, portrait photography, ultra high definition*
+  
+- *Comic's rendition inspired by the fantasy artist Neil Gaiman, showcasing the majestic gates of heaven, infused with a sense of grandeur amidst cascading rays of light. Cool color temperature adds to the awe-inspiring sci-fi atmosphere. No faces, just the resplendent gates under the broad light, rendering a mystic, intriguing vibe*
+  
+- *16 bit pixel art, epic composition of a explorer in a boat reaching an island in the clouds, by studio ghibli, cinematic still, hdr --ar 2:3*
+- *Ancient hidden temple found deep inside a lush rain forest | ancient greek ruins | rubble | gray dull background | vibrant colorful green leaves | hyperrealistic | highly detailed | cinematic | single ray of golden sunlight | beautiful | cgssociety | artstation | oil painting*
+  
+- *"El fin de la Guerra entre Rusia y Ucrania", termination of conflict, ceasefire, peace attainment, warfare end, truce inception, evening, dimmed light, quiet crickets, cool breeze, star-studded sky, uneasy calm, relief tinged with sorrow, hushed anticipation, lingering tension, somber tranquility, anti-matter, radiant light reflection, dark shades, intense contrasts, surreal glow, holographic textures  --style raw*
+  
+- *Sharp details, realistic film photography, gold ornate detailed baroque picture frame, on plaster wall, vines, inner glow, peaceful scene, minimalistic, light leak c--25 --s 350 --ar 2:3*
+  
+- *Led Zeppelin´s Stairway to heaven", fine detailed pointillism painting + low-angle view, hyper-realistic, Stairway to heaven, fantasy vernacular architecture, colonne greche in degrado, art deco, expressive, rich jewel tones, radiating geometric patterns, Leon Bakst, Odilon Redon, Van Gogh, gold filigree line-art, impasto, white-on-white*
+  
+- *Island beach scene: a shark on a lounge chair, 4 fish at a beachside bar served by an octopus bartender, sandcastle, beach and ocean background, ultrarealistic 8k, --no people*
+  
+- *Illustration of an gentleman cat, in the style of 2d game art, cyan and orange, 32k uhd, necropunk, tapestries, wood, fancy vibes, whimsical illustrations --s 500 --ar 2:3 --c 10*
+  
+- *Library inside a library, in the style of vincent callebaut, fantasy illustration, ethereal trees, contrasting light, earthy organic shapes, 32k uhd, ary scheffer, solarpunk --ar 16:9 --c 100 --s 1000*
+  
+- *Daenerys Targaryen, isometric, full body, blender 3d, style of artstation and behance, Disney Pixar, Mobile game character, clash royale, cute*
+  
+- *Courageous polar bear in full winter military uniform, holding a carbine rifle, anthropomorphic, super detail, ultra hd, 8k, real life, maximum facial detail, cinematic lighting --ar 9:16 --q 2 --s 750*
+  
+- *The Tardis, in the style of detailed stained glass, Dr. Who, Gallifray, sparkling reflections, hyper-detailed illustrations --ar 2:3 --uplight --s 250*
+  
+- *Flying food photography with [Two Burgers] as the main theme, Splash of Toppings and [Spices], [Rocket Lettuce], [Cheddar Flavored Cheese], [Onion], [Pickles], [Special Sauce], [Sesame Bun] , [sea salt crystals] ::3 Capturing the dynamic splashes of food using high-speed photography , photorealistic, surrealism style, flat [white] background, trendy background [clean], Minimalist ::2 [Smoke], [Steam] ], [Smoke], [Vegetable Leaves], [Tomato] ::-0. 5 Ad Posters, Pro-Grade Color Grading, Studio Lighting, Rim Lights, [Layered Comps], EOS-1D X Mark III, 500px, Behance, concept art*
+  
+- *Woman sitting on the floor with a cat, adorable digital painting, very beautiful cute catgirl, guweiz, white cat girl, artwork in the style of guweiz, guweiz masterpiece, white ( cat ) girl, by Ni Tian, beautiful anime catgirl, ross tran 8 k, beautiful young catgirl, cute digital art*
+  
+- *Ethereal Bohemian Waxwing bird, Bombycilla garrulus :: intricate details, ornate, detailed illustration, octane render :: Johanna Rupprecht style, William Morris style :: trending on artstation –ar 9:16*
 
 ---
 
