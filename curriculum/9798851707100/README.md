@@ -180,12 +180,11 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy and prompt structure, consider referencing the article [here](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e), or the comprehensive source of prompt creation tips at [UX Collective](https://medium.com/design-bootcamp/search?q=midjourney).
 
-<br><br>
-
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
 🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
 
 <!-- 
+
 ![image](URL)
 prompt<br>
 <br><br>
@@ -215,7 +214,7 @@ prompt<br>
 
 ---
 
-> **(Outdated) Prompt Examples from [PromptHero](https://prompthero.com/midjourney-prompts?sort=best):**
+**(Outdated) Prompt Examples from [PromptHero](https://prompthero.com/midjourney-prompts?sort=best):**
 
 - *Ethereal beauty, soft pastel tones, backlighting, long exposure, flowing fabric, portrait of a dancer in midair::1. 3, style of Kirsty Mitchell, surreal, delicate movement, dreamlike, cinematic lighting, ultra high resolution --ar 66:101*
 
@@ -255,8 +254,6 @@ prompt<br>
 - *Ethereal Bohemian Waxwing bird, Bombycilla garrulus :: intricate details, ornate, detailed illustration, octane render :: Johanna Rupprecht style, William Morris style :: trending on artstation –ar 9:16*
 
 ---
-
-<br><br>
 
 This text is independently published and unaffiliated with MidJourney or OpenAI
 
