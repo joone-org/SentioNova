@@ -36,7 +36,7 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 
 > [This](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e) is another option.
 
-> [UX Collective Bootcamp](https://medium.com/design-bootcamp/search?q=midjourney) is a great next step after this.
+> [UX Collective Bootcamp](https://medium.com/design-bootcamp/search?q=midjourney) is one of the most comprehensive and up to date sources for MidJourney prompts.
 
 <br>
 
