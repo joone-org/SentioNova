@@ -69,6 +69,7 @@ This outlined ELA9 curriculum presents a comprehensive journey, starting from an
           - **Lesson Procedure:**
             - Introduction (10 minutes)
               - Start the lesson by presenting a brief slide show that introduces the theme of the unit: Pirate Myths and Maritime Literature.
+              - Create imgage using the [ChatGPT + Midjourney process](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/9798851707100), by converting user prompt 'pirate captains quarters, writing maritime literature' to 'An immersive scene in the captain's quarters of an old galleon, with a pirate captain meticulously charting a map by the dim glow of a lantern, surrounded by maritime literature. He is in the midst of writing a new tale, his quill poised over a thick parchment. Oil painting, soft candle-lit ambiance, warm sepia-toned palette, intimate composition focusing on the captain and his work.' resulting in this image:
               - 
             - Explore the Genre (15 minutes)
               - Discuss the genre of maritime literature, providing a broad definition and some examples.
