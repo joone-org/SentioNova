@@ -2,7 +2,7 @@
 
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
 
-This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated from their respective emoji inputs. Shared under an open license (CC BY-NC-ND) by [Joone 501(c)(3)](https://joone.org/) you're free to use and share it while giving appropriate credit.
+This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated from their respective emoji inputs. Shared under an open license by [Joone](https://joone.org/), you're free to use and share it while giving appropriate credit.
 
 [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
 [Amazon Paperback](https://www.amazon.com/dp/B0C9SC73JC?ref_=pe_3052080_397514860)<br>
