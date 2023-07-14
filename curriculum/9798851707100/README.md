@@ -26,15 +26,18 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 </tbody>
 </table>
 
-### [Midjourney](https://www.midjourney.com/) is a generative artificial intelligence [Discord](https://discord.com/) bot that generates images from natural language descriptions, called "prompts".
-It can interpret up to 60 words, but ensure to keep prompts brief, direct, and sequential as the impact of each word reduces with increasing length.
-> *Prompts follow this formula: "/imagine [subject], in the style of [style] [parameters]"*
+### Crafting Prompts
+[Midjourney](https://www.midjourney.com/)
+is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts" which should be direct and brief. Each word's impact decreases progressively; beyond 60 words, influence is minimal. Prompts should follow this format: 
+> "*/imagine [subject], in the style of [style] [parameters]*"
 
+<br>
 
 ### Subject and Setting
 Start with a subject positioned within a specific environment, use collective nouns ("herd" instead of "3"), be specific ('sunset' differs from 'dusk') and concise. 
 > *Example: "/imagine Elephant herd at sunset in the Serengeti"*
 
+<br>
 
 ### Style Keywords
 
