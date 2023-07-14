@@ -1,17 +1,14 @@
 <div align="center">
 
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
-<br><br>
+
+This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated from their respective emoji inputs. Shared under an open license (CC BY-NC-ND) by [Joone 501(c)(3)](https://joone.org/) you're free to use and share it while giving appropriate credit.
+
 [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
 [Amazon Paperback](https://www.amazon.com/dp/B0C9SC73JC?ref_=pe_3052080_397514860)<br>
-[Adobe PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
 [Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.docx)<br>
 [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br>
-[Wiki](https://github.com/joone-org/curriculum.joone.org/wiki/Beginning-Midjourney)<br><br>
-
-This guide serves as a practical introduction to MidJourney, and also functions as an effective ChatGPT prompt. Experience is the teacher of all things, so we encourage you to scroll down to view the example prompts and the corresponding images they generated. Each image was created by feeding ChatGPT a single emoji following the given prompt.
-
-Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use and share it while giving appropriate credit.<br><br>
+[PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/MidJourney.pdf)<br>
 
 </div>
 
@@ -264,18 +261,11 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 
 > *Example: \[URL\], keep the consistency of action, expression, clothing, shape and appearance of the photos, super detail --iw 2*
 
-- Please be aware that the landscape of AI and digital arts is advancing
-  rapidly. Therefore, while this book serves as a valuable primer, some
-  information will already be outdated at the time of your reading. The purpose
-  of this text is to ignite your interest and guide you on your journey;
-  however, the pursuit of knowledge in this dynamic field extends far
-  beyond its pages.
-  
 <br>
 
 ---
 
-This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy, consider referencing the UX Collective articles on Medium.
+This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy and prompt structure, consider referencing the article [here](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e), or the comprehensive source of prompt creation tips at [UX Collective](https://medium.com/design-bootcamp/search?q=midjourney).
 
 <br><br>
 
