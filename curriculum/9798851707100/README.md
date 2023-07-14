@@ -26,17 +26,20 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 </tbody>
 </table>
 
-### [Midjourney](https://www.midjourney.com/) is a [Discord](https://discord.com/)-based artificial intelligence that creates images from text prompts.
-It accepts prompts up to 60 words, but the influence of each word diminishes as the length increases. Structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
-> *Prompts follow this formula: "/imagine [Subject]. [Style]. [Parameters]"*
+### [Midjourney](https://www.midjourney.com/) is a generative artificial intelligence [Discord](https://discord.com/) bot that generates images from natural language descriptions, called "prompts".
+It can interpret up to 60 words, but ensure to keep prompts brief, direct, and sequential as the impact of each word reduces with increasing length.
+> *Prompts follow this formula: "/imagine [subject], in the style of [style] [parameters]"*
 
 
 ### Subject and Setting
-Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
-> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti."*
+Start with a subject positioned within a specific environment, use collective nouns ("herd" instead of "3"), be specific ('sunset' differs from 'dusk') and concise. 
+> *Example: "/imagine Elephant herd at sunset in the Serengeti"*
 
 
 ### Style Keywords
+
+and add personality and emotion for more expressive imagery. use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
+
 For best results, craft your prompts with conciseness, clarity, and creativity. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', and 'vaporwave aesthetic' to 'Chiaroscuro'. Even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements' are easily within its reach.
   - Define the medium (photo, sand sculpture, linocut print).
   - Describe your desired lighting (soft ambient, neon, candle-lit)
@@ -143,8 +146,7 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 **TIPS AND TRICKS**
 
-- This [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contains a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other
-  details.
+- [Midlibrary](https://www.midlibrary.io/) and this [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contain a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other details.
 
 - The Pan feature in Midjourney allows for extending the image canvas in a chosen direction without altering the original image content. It's useful for expanding the scene or adding content in a specific direction. However, once a pan direction is chosen (horizontal or
   vertical), subsequent panning must continue in the same direction. Panning is compatible with the Remix Mode, enabling modifications of the prompt when panning to influence the new content added to the image.
