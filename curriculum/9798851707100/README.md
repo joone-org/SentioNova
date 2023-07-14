@@ -24,63 +24,50 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 </thead>
 <tbody>
 </tbody>
-</table><br>
+</table>
 
-[Midjourney](https://www.midjourney.com/) is a
-[Discord](https://discord.com/)-based AI service that turns textual prompts into unique images. It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
+### [Midjourney](https://www.midjourney.com/) is a [Discord](https://discord.com/)-based artificial intelligence that creates images from text prompts.
+It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
 
-> Prompts follow this formula: */imagine \[Subject and Setting\]. \[Style Keywords\]. \[Parameters\]*
+> *Prompts follow this formula: /imagine [Subject and Setting]. [Style Keywords]. [Parameters]*
 
-<br>
+### Subject and Setting
+- Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
 
-**Subject and Setting**:
+> *A herd of colossal African elephants under a breathtaking sunset in the Serengeti.*
 
-- To create prompts, start with a clear subject (a *'colossal'* elephant differs visually from a *'big'* one), and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities (*'herd of elephants*' over *'3 elephants*') and position subjects within a detailed environment (*'bathing at sunset in the Serengeti during fall'*). Unspecified details are randomized, so be as specific as you can. Use nuanced adjectives (*'tranquil', 'melancholic', 'ecstatic', etc.*) to add mood.
-
-> Example: Instead of just ‘*elephant'*, use "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole.*"
-
-<br>
-
-**Style Keywords**:
-
+### Style Keywords
 - Midjourney interprets a nearly infinite range of artistic instructions. Define the medium (*e.g., 'photo', '3D sand sculpture', 'linocut print'*). Describe your desired lighting (*e.g., 'soft ambient', 'neon', 'candle-lit'*), and pair it with a color scheme (*e.g., 'monochromatic', 'earth tones', 'cyberpunk neon'*). Arrange your scene using terms like (*e.g., 'low-angle shot', 'bird's eye view', 'rule of thirds composition'*). Mention the desired artistic style (*e.g., 'Cubism', 'Anime', 'Film Noir', 'Banksy-like street art'*), or specify the historical period or specific environment for added context. Include additional descriptors (*e.g., 'shallow depth of field', 'vignette', 'splatter effect'*) to refine your scene. For high realism, specify camera effects, settings, setup (*e.g., 'Canon EOS 5D Mark IV, using a 24-70mm lens at f/2.8, with a long exposure of 15 seconds'*).
 
 - Maintain concise clarity with each keyword, and don't confine yourself to the provided examples. Whether it's the aesthetics of a *'polaroid snapshot'*, the drama of *'baroque lighting'*, the composition of a '*kaleidoscope*', or the eccentricity of a *'cyberpunk art style'*, MidJourney can understand and execute it all, so don't hesitate to experiment with unusual mediums, innovative lighting, creative compositions, and unexplored artistic styles.
 
-> Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading.*"
+> Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, vintage color grading.*"
 
-<br>
+### Parameters
+ 
+- *:: allows for distinct specification of image components. In "African elephants::2 bathing at sunset::1", 'elephants' is twice as emphasized as 'sunset'. It also treats 'African elephants' and 'bathing at sunset' as separate elements. Weights are normalized, and using --no will exclude defined elements*
 
-**Parameters**:
+- *--s (values can range from 0 through 1000) adjusts the level of Midjourney's trained artistic style in your image, with lower values creating more literal interpretations of your prompt and higher values infusing stronger artistic stylization*
 
-- "*::*" enables separate specification of different image components. *'African elephants::bathing at sunset'* tells Midjourney to treat *'African elephants'* and *'bathing at sunset'* as distinct parts
+- *--niji 5 produces anime aesthetic and illustrative styles: --niji 5 --style (cute, expressive, original, scenic)*
 
-- *“--ar \<width:height\>”* dictates the width-to-height aspect ratio
+- *“--style raw”* in traditional mode creates photorealistic images
 
-- *“--no”* omits specific elements from your image
+- - *“--ar width:height”* dictates the width-to-height aspect ratio
 
-- *“--niji 5”* produces anime aesthetic and illustrative styles.
+- *“--q (values can range from .25, .5, 1)"* regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images.
 
-- *“--style \<cute, expressive, original, scenic\>”* can only be used with niji enabled
+- *--chaos (values can range from 0–100) and --weird \<(0 – 3000) enhance image unpredictability. *--chaos* varies within the AI's standard style, while *--weird* creates distinctly unconventional images. Use these sparingly as they often result in overly abstract or distorted results.
 
-- *“--style \<raw\>”* in traditional mode creates photorealistic images
+- 
 
-- *“--s \<0–1000\>”* adjusts the level of Midjourney's trained artistic style in your image, with lower values creating more literal interpretations of your prompt and higher values infusing stronger artistic stylization
-
-- *“--q \<.25, .5, 1 (default)\>"* regulates the level of detail in the rendering. Lower quality values produce less detailed images, leading to more painterly or abstract styles, perfect for certain artistic needs
-
-- *“--chaos \<0–100\>”* and *“--weird \<0–3000\>”* enhance image unpredictability. *--chaos* varies within the AI's standard style, while *--weird* creates distinctly unconventional images. Use these sparingly as they often result in overly abstract or distorted
-  results.
-
-- Include only relevant parameters to avoid confusing the AI.
-
-> * Example: "*A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading --ar 16:9 --s 700*"
+> * Example: "*A tranquil scene of a herd of colossal African elephants::3 bathing at sunset::1 in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, eye-level view, vintage color grading --ar 16:9 --s 700 --no people*"
 
 <br>
 
 **Prompt Examples from UX Collective:**
 
-- *
+- *Commercial photography of sugar dust of blueberry pancake, with studio light, hyper-detailed, on black isolated plain, pro color grading, white lighting, Shot on 70mm lens, Canon camera, 8k*
 
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
