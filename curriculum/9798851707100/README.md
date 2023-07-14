@@ -9,9 +9,9 @@
 [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br>
 [Wiki](https://github.com/joone-org/curriculum.joone.org/wiki/Beginning-Midjourney)<br><br>
 
-This guide offers an insightful peek into the mesmerizing world of AI-driven creativity. Within its compact format, you'll find a straightforward tutorial on maximizing the capabilities of the Midjourney AI service on Discord and creating compelling prompts with ChatGPT. Alongside this guide, there's an array of vibrant, AI-generated visuals created from simple emoji prompts, demonstrating the convergence of technology and imagination in a tangible and inspiring manner.
+This guide serves as a practical introduction to MidJourney, and also functions as an effective ChatGPT prompt. ‘Experience is the teacher of all things’, so we encourage you to scroll down to view the example prompts and the corresponding images they generated. Each image was created by feeding ChatGPT a single emoji following the given prompt.
 
-This guide is shared under an open license (CC BY-NC-ND) by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education. As such, you're free to share and use it while giving appropriate credit. Ideal for educators, tech enthusiasts, parents, or anyone interested in the intersection of AI and art, it's part of a broader effort to make AI accessible to all.<br><br>
+Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education, you're free to use and share it while giving appropriate credit.<br><br>
 
 </div>
 
