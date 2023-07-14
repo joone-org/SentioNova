@@ -28,15 +28,23 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 
 <br>
 
-[**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts". As prompt length increases, each word's impact decreases, so remain concise while following this format: 
+[**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts".
+  
+As prompt length increases, each word's impact decreases, so remain concise while following this format: 
 > "*/imagine [subject][setting] in the style of [style] [parameters]*"
 
+<br>
+
 Style can include the following in this order, though none are mandatory:
-> "*[artistic style / medium], [lighting / time of day], [color and tone], [environment / background Details], [artistic techniques / effects], [influences / inspirations], [quality / format]*"
+
+> "*[artistic style / medium], [lighting / time of day], [color and tone], [environment / background details], [artistic techniques / effects], [influences / inspirations], [quality / format]*"
+
+<br>
 
 #### Subject and Setting
 Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
 > *Example: "/imagine Elephant herd at sunset in the Serengeti"*
+
 
 #### Style Keywords
 For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements': 
