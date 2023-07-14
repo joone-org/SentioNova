@@ -11,7 +11,7 @@
 
 This guide serves as a practical introduction to MidJourney, and also functions as an effective ChatGPT prompt. ‘Experience is the teacher of all things’, so we encourage you to scroll down to view the example prompts and the corresponding images they generated. Each image was created by feeding ChatGPT a single emoji following the given prompt.
 
-Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3), a non-profit aimed at democratizing K-12 education, you're free to use and share it while giving appropriate credit.<br><br>
+Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use and share it while giving appropriate credit.<br><br>
 
 </div>
 
