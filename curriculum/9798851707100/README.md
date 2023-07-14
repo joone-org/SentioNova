@@ -313,7 +313,8 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 <br>
 
 ---
-Let’s embark on an exciting journey into the realm of Emoji Prompts! Next, we will showcase the transformative power of single emojis, such as a lion, as creative seeds for captivating visual narratives. These are not just any images; each was spawned from a mere emoji fed into the ChatGPT prompt covered earlier in this book. This simple interaction sparks ChatGPT into action, generating a nuanced textual prompt that our Midjourney AI morphs into visually stunning art. The eclectic mix of styles, moods, and settings you'll discover in the following pages underscores the incredible range of creativity ignited by single emojis or chains of them. Remember, though: AI interpretation is more of an art than a science. Even with specific prompts, the AI's artistic interpretation may meander into unexpected territories, producing results that diverge from your initial envisioning. This divergence is not a flaw but a feature, highlighting the whimsical unpredictability and inherent creativity of AI. As you delve into the visuals, take a moment to juxtapose them with their originating prompts, observing the intriguing differences and marveling at the imaginative leaps the AI takes.
+
+What follows are images generated from emojis that were used as prompts in ChatGPT, as explained earlier in this book. Each emoji initiated a unique narrative that Midjourney then converted into a visual representation. It’s important to remember that AI imaging is more akin to art than science - even with specific prompts, the results may deviate from your original intentions. As you explore these images, compare them to their original prompts and observe the accuracy, or lack thereof, in MidJourney’s representations. To improve your accuracy, consider visiting the UX Collective articles on Medium.
 
 <br>
 
