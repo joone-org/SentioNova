@@ -27,7 +27,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 </table>
 
 ### [Midjourney](https://www.midjourney.com/) is a [Discord](https://discord.com/)-based artificial intelligence that creates images from text prompts.
-It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
+It accepts prompts up to 60 words, but the influence of each word diminishes as the length increases. Structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
 > *Prompts follow this formula: "/imagine [Subject]. [Style]. [Parameters]"*
 
 
