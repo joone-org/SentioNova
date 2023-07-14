@@ -36,7 +36,7 @@ Start with a subject positioned within a specific environment, use collective no
 > *Example: "/imagine Elephant herd at sunset in the Serengeti"*
 
 #### Style Keywords
-For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements'. 
+For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements': 
   - Define the medium (photo, sand sculpture, linocut print).
   - Describe your desired lighting (soft ambient, neon, candle-lit)
   - Pair it with a color scheme (monochromatic, earth tones, cyberpunk neon)
@@ -45,7 +45,7 @@ For the most expressive imagery infuse your prompts with personality and emotion
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
   - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
-> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition"*
+> *Example: "/imagine Elephant herd at sunset in the Serengeti, in the style of fantasy art, grandiose and realistic landscapes, under richly colored skies in hues of orange and gold."*
 
 #### Parameters
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
