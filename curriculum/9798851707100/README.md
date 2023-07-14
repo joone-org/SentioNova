@@ -104,112 +104,57 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 ---
 
-<br>
+<br>Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As a subscriber, you can directly interact with the bot through Discord messages or incorporate it into your own server to use these commands:
 
-<br>Join [MidJourney’s Discord](https://discord.gg/midjourney) to get
-started. As a subscriber, you can directly interact with the bot through
-Discord messages or incorporate it into your own server to use these
-commands:
+- */imagine* generates low-resolution image grids from your prompts, with options to create variations, upscale, or repeat actions. Use images as prompts by adding a direct image URL *(.png, .jpg, .jpeg, .gif, .webp*) at the beginning of your prompt. Adjust the impact of an image on the final output using the *--iw (image weight)* parameter. Values range from 0 to 2, with 1 as the default, and higher values increase the image's influence.
 
-- */imagine* generates low-resolution image grids from your prompts,
-  with options to create variations, upscale, or repeat actions. Use
-  images as prompts by adding a direct image URL *(.png, .jpg, .jpeg,
-  .gif, .webp*) at the beginning of your prompt. Adjust the impact of an
-  image on the final output using the *--iw (image weight)* parameter.
-  Values range from 0 to 2, with 1 as the default, and higher values
-  increase the image's influence.
+- */blend* combines 2-5 images. For harmonious and cohesive results, ensure the aspect ratios of the uploaded images match your desired final image's ratio.
 
-- */blend* combines 2-5 images. For harmonious and cohesive results,
-  ensure the aspect ratios of the uploaded images match your desired
-  final image's ratio.
+- */describe* produces four potential text prompts related to the uploaded image, ideal for exploring new vocabulary, discovering artistic styles, and gaining fresh perspectives on an image.
 
-- */describe* produces four potential text prompts related to the
-  uploaded image, ideal for exploring new vocabulary, discovering
-  artistic styles, and gaining fresh perspectives on an image.
-
-- */fast, /relax, /turbo* allow you to adjust the speed of image
-  generation based on your subscription plan and allocated GPU time
+- */fast, /relax, /turbo* allow you to adjust the speed of image generation based on your subscription plan and allocated GPU time
 
 - */help* provides basic information and tips
 
 - */info* shows your current plan, mode, and jobs
 
-- */prefer* commands in Midjourney offer personalized shortcuts and
-  options
+- */prefer* commands in Midjourney offer personalized shortcuts and options
 
 - */remix* allows variation by editing prompts, parameters, etc
 
-- */settings* allows you to view and adjust model version, style and
-  quality values, upscaler version, etc.
+- */settings* allows you to view and adjust model version, style and quality values, upscaler version, etc.
 
-- */stealth* disables /public by hiding your generated images on
-  midjourney.com
+- */stealth* disables /public by hiding your generated images on midjourney.com
 
-- */subscribe* to the four subscription plans: Basic, Standard, Pro,
-  Mega
+- */subscribe* to the four subscription plans: Basic, Standard, Pro, Mega
 
 <br>
 
-**Parameters** can be added to the end of prompts to customize the image
-generation process. For a comprehensive guide on how to fully leverage
-these parameters, please refer to the [MidJourney Documentation](https://docs.midjourney.com/docs).
+**Parameters** can be added to the end of prompts to customize the image generation process. For a comprehensive guide on how to fully leverage these parameters, please refer to the [MidJourney Documentation](https://docs.midjourney.com/docs).
 
-- Aspect ratios can be adjusted by using *'--ar'*, followed by the
-  desired ratio, in the prompt, affecting the image's composition. The
-  ratio of an existing image can be modified using the Zoom Out buttons,
-  with the bot filling new spaces based on the initial prompt.
+- Aspect ratios can be adjusted by using *'--ar'*, followed by the desired ratio, in the prompt, affecting the image's composition. The ratio of an existing image can be modified using the Zoom Out buttons, with the bot filling new spaces based on the initial prompt.
 
-- By using *'--c'* followed by a number from 0 to 100, you can control
-  the unpredictability level of image results, with higher values
-  creating more varied and unexpected outcomes, and lower values
-  yielding more reliable and repeatable images.
+- By using *'--c'* followed by a number from 0 to 100, you can control the unpredictability level of image results, with higher values creating more varied and unexpected outcomes, and lower values yielding more reliable and repeatable images.
 
-- Using *'--iw'* followed by a value between 0 and 2, you can determine
-  the relative importance of an image prompt versus a text prompt,
-  influencing the final image's significant impact.
+- Using *'--iw'* followed by a value between 0 and 2, you can determine the relative importance of an image prompt versus a text prompt, influencing the final image's significant impact.
 
-- Multi-prompts help specify distinct parts of an image generation task
-  by separating prompts with a double colon *(::)*, where you can assign
-  different weights to denote their importance, and negative weights can
-  be used to remove certain elements from the image generation.
+- Multi-prompts help specify distinct parts of an image generation task by separating prompts with a double colon *(::)*, where you can assign different weights to denote their importance, and negative weights can be used to remove certain elements from the image generation.
 
-- The option *'--no'* allows users to exclude specific elements from the
-  generated image, such as using '--no plants' to create an image
-  without any plants.
+- The option *'--no'* allows users to exclude specific elements from the generated image, such as using '--no plants' to create an image without any plants.
 
-- By adjusting *'--q'*, you can control the level of detail and render
-  time for generated images, where .25 offers faster, less detailed
-  images, .5 offers a balance, and 1 ensures the highest detail, using
-  more GPU resources.
+- By adjusting *'--q'*, you can control the level of detail and render time for generated images, where .25 offers faster, less detailed images, .5 offers a balance, and 1 ensures the highest detail, using more GPU resources.
 
-- Using *'--repeat'* allows Standard and Pro subscribers to generate
-  multiple unique images from one prompt, with Standard users able to
-  create up to 10 and Pro users up to 40 images in Fast GPU mode. For
-  consistent output, users can apply the "seed" command to a prompt.
+- Using *'--repeat'* allows Standard and Pro subscribers to generate multiple unique images from one prompt, with Standard users able to create up to 10 and Pro users up to 40 images in Fast GPU mode. For consistent output, users can apply the "seed" command to a prompt.
 
-- The *'--seed'* option lets you specify a seed number, providing a
-  consistent 'noise' field for the image generation process, which can
-  result in similar outputs when the same prompt and seed are used,
-  aiding in maintaining consistency in a series of images.
+- The *'--seed'* option lets you specify a seed number, providing a consistent 'noise' field for the image generation process, which can result in similar outputs when the same prompt and seed are used, aiding in maintaining consistency in a series of images.
 
-- By applying *'--stop'*, you can terminate the image generation process
-  partway through, resulting in more abstract or less detailed images
-  based on the chosen stop value, providing a way to create more
-  impressionistic outputs.
+- By applying *'--stop'*, you can terminate the image generation process partway through, resulting in more abstract or less detailed images based on the chosen stop value, providing a way to create more impressionistic outputs.
 
-- With *'--style'*, different aesthetic options are offered for
-  generated images, including raw, cute, expressive, original, or
-  scenic, helping users tailor the aesthetic appeal of their outputs
-  based on the specific model version in use.
+- With *'--style'*, different aesthetic options are offered for generated images, including raw, cute, expressive, original, or scenic, helping users tailor the aesthetic appeal of their outputs based on the specific model version in use.
 
-- The *'--stylize'* option adjusts the intensity of the platform's
-  default artistic style in generated images, where a lower value
-  results in more literal interpretations and higher values yield more
-  stylized, artistic outputs.
+- The *'--stylize'* option adjusts the intensity of the platform's default artistic style in generated images, where a lower value results in more literal interpretations and higher values yield more stylized, artistic outputs.
 
-- The use of *'--tile'* creates seamless or tileable patterns, which can
-  be replicated in graphic design for backgrounds, textures, or patterns
-  without noticeable breaks.
+- The use of *'--tile'* creates seamless or tileable patterns, which can be replicated in graphic design for backgrounds, textures, or patterns without noticeable breaks.
 
 <br>
 
@@ -218,46 +163,14 @@ these parameters, please refer to the [MidJourney Documentation](https://docs.mi
 - This [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contains a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other
   details.
 
-- The Pan feature in Midjourney allows for extending the image canvas in
-  a chosen direction without altering the original image content. It's
-  useful for expanding the scene or adding content in a specific
-  direction. However, once a pan direction is chosen (horizontal or
-  vertical), subsequent panning must continue in the same direction.
-  Panning is compatible with the Remix Mode, enabling modifications of
-  the prompt when panning to influence the new content added to the
-  image.
+- The Pan feature in Midjourney allows for extending the image canvas in a chosen direction without altering the original image content. It's useful for expanding the scene or adding content in a specific direction. However, once a pan direction is chosen (horizontal or
+  vertical), subsequent panning must continue in the same direction. Panning is compatible with the Remix Mode, enabling modifications of the prompt when panning to influence the new content added to the image.
 
-- The Zoom Out option in Midjourney enables expansion of the image
-  beyond its original boundaries, creating an extended version of the
-  initial image. After upscaling an image, "Zoom Out 2X" and "Zoom Out
-  1.5X" options are available to expand the image canvas by 100% or 50%,
-  respectively. The "Make Square" option adjusts the aspect ratio of a
-  non-square image to make it square. The "Custom Zoom" feature lets
-  users specify a custom zoom out value, offering control over the
-  canvas size and aspect ratio for creative flexibility.
+- The Zoom Out option in Midjourney enables expansion of the image beyond its original boundaries, creating an extended version of the initial image. After upscaling an image, "Zoom Out 2X" and "Zoom Out 1.5X" options are available to expand the image canvas by 100% or 50%, respectively. The "Make Square" option adjusts the aspect ratio of a non-square image to make it square. The "Custom Zoom" feature lets users specify a custom zoom out value, offering control over the canvas size and aspect ratio for creative flexibility.
 
-- Permutation Prompts facilitate the creation of multiple image
-  variations in a single command by including a list of options in curly
-  braces {} in your prompt. It's useful for exploring different versions
-  or combinations of a concept. For instance, the prompt /imagine prompt
-  a {red, green, yellow} bird generates three separate images of birds
-  in red, green, and yellow colors. This feature also allows for
-  parameter variations and can be used with multiple sets of options in
-  a prompt to create permutations of multiple variables. The number of
-  jobs per Permutation Prompt is based on the user's subscription level,
-  and each job generated will consume GPU minutes.
+- Permutation Prompts facilitate the creation of multiple image variations in a single command by including a list of options in curly braces {} in your prompt. It's useful for exploring different versions or combinations of a concept. For instance, the prompt /imagine prompt a {red, green, yellow} bird generates three separate images of birds in red, green, and yellow colors. This feature also allows for parameter variations and can be used with multiple sets of options in a prompt to create permutations of multiple variables. The number of jobs per Permutation Prompt is based on the user's subscription level, and each job generated will consume GPU minutes.
 
-- When attempting to create an avatar from a selfie using Midjourney,
-  the prompt's accuracy can significantly impact the results. If you're
-  struggling to get satisfactory results, follow these steps to improve
-  the process. First, upload your selfie, preferably with minimal
-  background, to the Midjourney bot on Discord by typing /describe and
-  attaching your image. Drag your uploaded image into the box to add its
-  URL. For the description and style ideas, elaborate on the output
-  provided by the /describe command used in the first step. The keywords
-  should include "*Keep the consistency of action, expression, clothing,
-  shape, and appearance of the photos, super detail.*" Use the parameter
-  *“-- iw 2”* to yield results that look more like the original image.
+- When attempting to create an avatar from a selfie using Midjourney, the prompt's accuracy can significantly impact the results. If you're struggling to get satisfactory results, follow these steps to improve the process. First, upload your selfie, preferably with minimal background, to the Midjourney bot on Discord by typing /describe and attaching your image. Drag your uploaded image into the box to add its URL. For the description and style ideas, elaborate on the output provided by the /describe command used in the first step. The keywords should include "*Keep the consistency of action, expression, clothing, shape, and appearance of the photos, super detail.*" Use the parameter *“-- iw 2”* to yield results that look more like the original image.
 
 > *Example: \[URL\], keep the consistency of action, expression, clothing, shape and appearance of the photos, super detail --iw 2*
 
@@ -276,7 +189,7 @@ This introductory guide to Midjourney is designed for newcomers, and below we pr
 ![image](URL)
 prompt<br>
 <br><br>
--->
+
 
 * 🐉 A towering, majestic dragon perched atop a craggy mountain peak, its scales shimmering under the moonlight. Traditional Asian ink painting style, nighttime setting, monochromatic color scheme, bird's-eye view, strong contrast. --ar 1:1 --s 800 --q .5<br><br>
 * 🏞️ A breathtaking view of a pristine alpine valley with a mirror-like lake surrounded by towering, snow-capped mountains under a clear blue sky. Bob Ross-inspired oil painting style, daytime setting, vibrant colors, panoramic view, detailed foliage. --ar 16:9 --s 600 --q .5<br><br>
@@ -297,6 +210,8 @@ prompt<br>
 * 🏜️ A vast, tranquil desert landscape under a blazing sunset, with towering sand dunes casting long, dramatic shadows. Minimalist oil painting style, sunset lighting, warm color palette, wide-angle view, smooth texture. --ar 16:9 --s 700 --q .5<br><br>
 * 🐋 A giant, serene blue whale gliding gracefully through the deep ocean, surrounded by a myriad of bioluminescent marine life. Anime style, deep-sea lighting, cool color palette, medium shot, exaggerated proportions. --ar 16:9 --s 700 --q .5<br><br>
 * 🏕️ A cozy campsite nestled among towering pines, a crackling fire casting a warm glow against the starlit wilderness. Digital painting style, night setting, warm and cool color palette, medium shot, detailed environment. --ar 16:9 --s 600 --q .5<br><br>
+
+-->
 
 ---
 
@@ -343,8 +258,7 @@ prompt<br>
 
 <br><br>
 
-This text is independently published and unaffiliated with MidJourney or
-OpenAI
+This text is independently published and unaffiliated with MidJourney or OpenAI
 
 Text and Illustration Copyright © 2023 by Joone 501(c)(3)
 
@@ -352,43 +266,13 @@ Published and Imprinted by Joone 501(c)(3)
 
 ISBN: 9798851707100
 
-This work is shared with you under the Creative Commons Attribution -
-NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we
-invite you to share, copy, and use this material in any medium or
-format. However, we ask that you give appropriate credit to Joone
-501(c)(3) (Attribution), refrain from using the material for commercial
-purposes (Non-Commercial), and avoid distributing modified versions of
-the material (No-Derivatives). 
+This work is shared with you under the Creative Commons Attribution -NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we invite you to share, copy, and use this material in any medium or format. However, we ask that you give appropriate credit to Joone
+501(c)(3) (Attribution), refrain from using the material for commercial purposes (Non-Commercial), and avoid distributing modified versions of the material (No-Derivatives). 
 
-Our material is intended to be used by a wide range of individuals. If
-you're an educator, feel free to incorporate it into your curriculum to
-introduce students to the concept of AI in digital arts. Novice tech
-enthusiasts can use it as a guide to comprehend and navigate the world
-of AI-generated imagery. Parents can use it to educate their children
-about the creative applications of AI. Individuals with no prior
-experience in artificial intelligence can use it to understand how AI
-intersects with art and creativity. Community leaders or organizers can
-distribute it to promote digital literacy and understanding about AI in
-their communities. Our goal with this text is to demystify the role of
-artificial intelligence in creative fields and make it accessible to
-everyone, by teaching people how to interact with and use MidJourney and
-ChatGPT-4 effectively.
+Our material is intended to be used by a wide range of individuals. If you're an educator, feel free to incorporate it into your curriculum to introduce students to the concept of AI in digital arts. Novice tech enthusiasts can use it as a guide to comprehend and navigate the world of AI-generated imagery. Parents can use it to educate their children about the creative applications of AI. Individuals with no prior experience in artificial intelligence can use it to understand how AI intersects with art and creativity. Community leaders or organizers can distribute it to promote digital literacy and understanding about AI in their communities. Our goal with this text is to demystify the role of artificial intelligence in creative fields and make it accessible to everyone, by teaching people how to interact with and use MidJourney and ChatGPT-4 effectively.
 
-Joone 501(c)(3) is a non-profit organization committed to democratizing
-K-12 education. We create and distribute high-quality, openly licensed
-educational resources to address the curriculum crisis and ensure every
-child, regardless of their circumstances, has access to personalized,
-cutting-edge education. Our innovative curricula are designed to engage
-students and promote interactive learning, breaking the cycle of
-outdated educational materials. Through our efforts, we aim to foster
-educational consistency and quality worldwide, envisioning a future
-where every child has the resources they need to succeed.
+Joone 501(c)(3) is a non-profit organization committed to democratizing K-12 education. We create and distribute high-quality, openly licensed educational resources to address the curriculum crisis and ensure every child, regardless of their circumstances, has access to personalized, cutting-edge education. Our innovative curricula are designed to engage students and promote interactive learning, breaking the cycle of outdated educational materials. Through our efforts, we aim to foster educational consistency and quality worldwide, envisioning a future where every child has the resources they need to succeed.
 
-Your support through contributing your expertise, monetary donations, or
-simply volunteering your time, plays a critical role in creating and
-distributing these essential educational resources. You're an integral
-part of a global effort to enhance children's lives through education.
-We appreciate your consideration to contribute in any way, making this
-mission possible.
+Your support through contributing your expertise, monetary donations, or simply volunteering your time, plays a critical role in creating and distributing these essential educational resources. You're an integral part of a global effort to enhance children's lives through education. We appreciate your consideration to contribute in any way, making this mission possible.
 
 For more information, please visit <https://joone.org>.
