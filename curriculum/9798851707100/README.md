@@ -9,7 +9,7 @@
 [Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/README.md)<br>
 [Wiki](https://github.com/joone-org/curriculum.joone.org/wiki/Beginning-Midjourney)<br><br>
 
-This guide serves as a practical introduction to MidJourney, and also functions as an effective ChatGPT prompt. ‘Experience is the teacher of all things’, so we encourage you to scroll down to view the example prompts and the corresponding images they generated. Each image was created by feeding ChatGPT a single emoji following the given prompt.
+This guide serves as a practical introduction to MidJourney, and also functions as an effective ChatGPT prompt. Experience is the teacher of all things, so we encourage you to scroll down to view the example prompts and the corresponding images they generated. Each image was created by feeding ChatGPT a single emoji following the given prompt.
 
 Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use and share it while giving appropriate credit.<br><br>
 
@@ -33,6 +33,10 @@ Shared under an open license (CC BY-NC-ND) by Joone 501(c)(3) you're free to use
 [Discord](https://discord.com/)-based AI service that turns textual prompts into unique images. It can handle prompts up to around 60 words, but the influence of each word diminishes as the length of the prompt increases. To optimize results, structure your prompts concisely and directly, aiming for a clear, sequential style rather than long, descriptive sentences.
 
 > Prompts follow this formula: */imagine \[Subject and Setting\]. \[Style Keywords\]. \[Parameters\]*
+
+> [This](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e) is another option.
+
+> [UX Collective Bootcamp](https://medium.com/design-bootcamp/search?q=midjourney) is a great next step after this.
 
 <br>
 
