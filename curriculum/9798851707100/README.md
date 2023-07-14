@@ -29,7 +29,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
 
 [**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts". As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> "*/imagine [subject], in the style of [style] [parameters]*"
+> "*/imagine [subject][setting] in the style of [artistic style / medium], [lighting / time of day], [color and tone], [environment / background Details], [artistic techniques / effects], [influences / inspirations], [quality / format] [parameters]*"
 
 #### Subject and Setting
 Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
@@ -45,7 +45,7 @@ For the most expressive imagery infuse your prompts with personality and emotion
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
   - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
-> *Example: "/imagine Elephant herd at sunset in the Serengeti, in the style of fantasy art, grandiose and realistic landscapes, under richly colored skies in hues of orange and gold."*
+> *Example: "/imagine Elephant herd at sunset in the Serengeti, in the style of Impressionist art, grandiose landscapes, under a sky richly colored in hues of orange and gold."*
 
 #### Parameters
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
