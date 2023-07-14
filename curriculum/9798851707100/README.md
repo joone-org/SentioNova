@@ -32,12 +32,12 @@ It can handle prompts up to around 60 words, but the influence of each word dimi
 
 
 ### Subject and Setting
-- Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
+Start with a clear subject and add personality and emotion for more expressive imagery. Use collective nouns instead of quantities ('herd of elephants' over '3 elephants') and position subjects within a detailed environment (at sunset in the Serengeti). Unspecified details are randomized, so be as specific as you can while remembering that word choice is vital ('colossal' differs from 'big'), and use nuanced adjectives (tranquil, breathtaking, etc.) to add mood.
 > *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti."*
 
 
 ### Style Keywords
-- For best results, craft your prompts with conciseness, clarity, and creativity. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', and 'vaporwave aesthetic' to 'Chiaroscuro'. Even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements' are easily within its reach.
+For best results, craft your prompts with conciseness, clarity, and creativity. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', and 'vaporwave aesthetic' to 'Chiaroscuro'. Even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements' are easily within its reach.
   - Define the medium (photo, sand sculpture, linocut print).
   - Describe your desired lighting (soft ambient, neon, candle-lit)
   - Pair it with a color scheme (monochromatic, earth tones, cyberpunk neon)
@@ -45,29 +45,17 @@ It can handle prompts up to around 60 words, but the influence of each word dimi
   - Mention the desired artistic style (Cubism, Anime, Film Noir, Banksy graffiti), or specify the historical period or specific environment for added context
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
-> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition."*
+> *Example: "/imagine A herd of colossal African elephants under a breathtaking sunset in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition"*
 
 ### Parameters
- 
-- *:: allows for distinct specification of image components. In "African elephants::2 bathing at sunset::1", 'elephants' is twice as emphasized as 'sunset'. It also treats 'African elephants' and 'bathing at sunset' as separate elements. Weights are normalized, and using --no will exclude defined elements*
-
-- *--s (values can range from 0 through 1000) adjusts the level of Midjourney's trained artistic style in your image, with lower values creating more literal interpretations of your prompt and higher values infusing stronger artistic stylization*
-
-- *--niji 5 produces anime aesthetic and illustrative styles: --niji 5 --style (cute, expressive, original, scenic)*
-
-- *“--style raw”* in traditional mode creates photorealistic images
-
-- - *“--ar width:height”* dictates the width-to-height aspect ratio
-
-- *“--q (values can range from .25, .5, 1)"* regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images.
-
-- *--chaos (values can range from 0–100) and --weird \<(0 – 3000) enhance image unpredictability. *--chaos* varies within the AI's standard style, while *--weird* creates distinctly unconventional images. Use these sparingly as they often result in overly abstract or distorted results.
-
-- 
-
-> * Example: "*A tranquil scene of a herd of colossal African elephants::3 bathing at sunset::1 in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, eye-level view, vintage color grading --ar 16:9 --s 700 --no people*"
-
-<br>
+- "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
+- "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
+- "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
+- “*--style raw*" in traditional mode creates photorealistic images
+- “*--ar width:height" dictates the width-to-height aspect ratio
+- “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
+- "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
+> *Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"*
 
 **Prompt Examples from UX Collective:**
 
