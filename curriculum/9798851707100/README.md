@@ -47,8 +47,8 @@ Though none of the following are mandatory, elements should be ordered as follow
 <br>
 
 #### Subject and Setting
-Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
-> *Example: "/imagine Elephant herd at sunset in the Serengeti"*
+Start with a subject positioned within a setting, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk') about characteristics and actions. 
+> *Example: "/imagine A flock of vibrant, scarlet macaws, squawking and preening, in a lush Amazonian rainforest at dawn"*
 
 <br>
 
