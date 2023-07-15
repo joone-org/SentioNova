@@ -90,19 +90,18 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
   * Specify equipment or software to emulate: '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', '*Photoshop*', *etc*.
 * Determine **Quality**:
   * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
-
-#### --Parameters
-* "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
-* "**--s**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
-* "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
-* “**--style raw**" in traditional mode creates photorealistic images
-* “**--ar width:height**" dictates the width-to-height aspect ratio
-* “**--q**" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
-* "**--chaos**" (0 – 100) and "**--weird**" (0 – 3000) create unpredictabile, abstract, distorted results. "**--chaos**" varies within Midjourney's standard style, while "**--weird**" creates distinctly unconventional images.
+* Input **--Parameters**:
+  * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
+  * "**--s**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
+  * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
+  * “**--style raw**" in traditional mode creates photorealistic images
+  * “**--ar width:height**" dictates the width-to-height aspect ratio
+  * “**--q**" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
+  * "**--chaos**" (0 – 100) and "**--weird**" (0 – 3000) create unpredictabile, abstract, distorted results. "**--chaos**" varies within Midjourney's standard style, while "**--weird**" creates distinctly unconventional images.
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: *"/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey"*
+> Example: "*/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey, #wildlife, negative space, depth of field, bird series, depicting the beauty of nature, Adobe Photoshop Impressionist Brush Set, 8K --s 50 --ar 2:1"*
 
 <!--
 
