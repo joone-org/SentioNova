@@ -134,7 +134,7 @@ Additional parameters include:
 
 Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"
 
--->
+
 
 
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
@@ -152,6 +152,8 @@ Example: "/imagine A herd of colossal African elephants::2 under a breathtaking 
 
 #### Prompt Examples
 - 
+
+-->
 
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
