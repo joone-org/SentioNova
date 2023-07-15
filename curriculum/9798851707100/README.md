@@ -29,15 +29,20 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
 
 [**Midjourney**](https://www.midjourney.com/) is a [generative AI](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) bot on [Discord](https://discord.com/) that generates images from natural language "prompts".
+
+<br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> "*/imagine [subject][setting] in the style of [style] [parameters]*"
+> "*/imagine [subject] in the style of [style] --[parameters]*"
 
 <br>
 
-Style can include the following in this order, though none are mandatory:
+Though none of the following are mandatory, elements should be ordered as follows: 
+> *Quantity of → Subject → Characteristics → What the Subject is doing → Setting → "in the style of" →*
 
-> "*[artistic style / medium], [lighting / time of day], [color and tone], [environment / background details], [artistic techniques / effects], [influences / inspirations], [quality / format]*"
+> *Artistic Style / Medium → Artistic Elements / Techniques → Influences (Artists, Artworks, or Movements) → Color Palette → Time of Day / Lighting → Cultural Influences → Technology → Mood → Theme →*
+
+> *Hashtags, Negative Spaces, Series / Collection, Intended Usage, Materials Used, Art-related Terms, Secondary Subjects, etc. → Image Quality / Resolution → --Parameters*
 
 <br>
 
