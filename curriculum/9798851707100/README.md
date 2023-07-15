@@ -87,6 +87,23 @@ To create the most expressive imagery, infuse your prompts with personality and 
 
 <!--
 
+You're correct in focusing on the examples to get the most accurate pattern. Looking at your examples and the pattern you've identified, it seems that the [Style] and [Specifications] categories are more flexible and the elements can interchange depending on the specific prompt.
+
+Keeping that in mind, here's an adaptable pattern that allows for variations:
+
+[Subject]: Quantity → Subject → Characteristics → Action → Setting
+
+This pattern seems to stay relatively consistent across your examples.
+
+[Style]: "in the style of" → Influences/Genre → Techniques → Hues → Medium → Mood → Theme → Lighting → Technology → Heritage
+
+In the [Style] category, it's more common to see the Influences/Genre right after "in the style of". Techniques, Hues, Medium, Mood, and Theme often follow. Lighting, Technology, and Heritage can be present but are less consistent in the examples provided.
+
+[Specifications]: Tags → Visual Elements → Purpose → Series → Equipment → Quality → Technical Parameters
+
+In the [Specifications] section, Tags and Visual Elements usually appear first, followed by the Purpose. The Series, Equipment, Quality, and Technical Parameters can vary based on the specifics of the prompt.
+
+---
 
 : Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters
 
