@@ -73,7 +73,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 > *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
 
-> Example: "*/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey.*"
+> Example: "*/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey*"
 
 <br>
 
@@ -83,13 +83,13 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 * Define **Visual Elements**:
   * Detail visual characteristics to enhance the precision and relevance: *negative space, symmetry, depth of field, etc.*
 * Mention **Series**:
-  * Indicate if the image belongs to a collection like: '*seasons collection*', '*famous landmarks series*, '*abstract emotions project*', etc.
+  * Indicate if the image belongs to a collection like: '*seasons collection*', '*famous landmarks series*', '*abstract emotions project*', *etc*.
 * State **Purpose**:
-  * Specify the image's intent, such as: '*evoking relaxation*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', etc.
+  * Specify the image's intent, such as: '*evoking relaxation*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', *etc*.
 * Chose **Equipment**:
-  * Specify equipment or software to emulate: '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', '*Photoshop*', etc.
+  * Specify equipment or software to emulate: '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', '*Photoshop*', *etc*.
 * Determine **Quality**:
-  * Designate the desired resolution to influence the level of detail and clarity in your image.
+  * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
 
 #### --Parameters
 * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
@@ -102,28 +102,13 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey. --s 50 --ar 16:9 --no people"*
+> Example: *"/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey"*
 
 <!--
 
 
 
----
-
-: Tags (Hashtags, Jargon) →  → Series → Purpose →  →  --Parameters
-
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
-
-
-[Specifications]
-
-
-
-
-
-Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"
-
-
 
 
 -->
