@@ -216,10 +216,6 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 ---
 
-Below are a series of images generated from prompts created by the ChatGPT generator this guide began with. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts.
-
-<br><br>
-
 ![waves](https://github.com/joone-org/curriculum.joone.org/assets/137654670/77ff2190-9d35-4bf3-b62b-e7da1d803734)
 > "*/imagine waves spraying off the sandy shore, in the style of photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, Mediterranean landscapes --ar 2:1 --no people*"
 
