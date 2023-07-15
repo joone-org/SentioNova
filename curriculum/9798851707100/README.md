@@ -19,7 +19,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/b0fd15c8-4ff5-4219-a7f6-b14b56657b28">this link</a>, or copy all of the following text and paste it into ChatGPT's input. When it responds with the question, provide emoji or a description of the image you want it to generate.</p></th>
+<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/4770e2ee-0be5-4182-9da6-1993b7208d3c">this link</a>, or copy all of the following text and paste it into ChatGPT's input. When it responds with the question, provide emoji or a description of the image you want it to generate.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -140,13 +140,6 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 <tbody>
 </tbody>
 </table>
-
-<br>
-
-![ele1](https://github.com/joone-org/curriculum.joone.org/assets/137654670/c34ebea0-ffc9-4d67-a61c-117afaeaadec)
-> *A tranquil scene of a herd of colossal African elephants bathing at sunset in the Serengeti watering hole. Watercolor, golden hour, warm sunset palette, panoramic eye-level view, Impressionistic, vintage color grading --ar 16:9 --s 700*
-
-<br>
 
 ---
 
