@@ -123,7 +123,6 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 * "*/imagine a picture of an old wrecked ship in the desert, in the style of photorealist painter, Martin Ansin, realistic impressionism, Konica Auto S3, Peter Mitchev, multilayered realism, UE5 --ar 1:1*"
 * "*/imagine a small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations --ar 1:1*"
 
-
 <br>
 
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
