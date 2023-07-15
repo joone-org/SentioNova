@@ -106,22 +106,35 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 <br>
 
 #### [Examples]
-* "*/imagine waves spraying off the sandy shore, in the style of photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, Mediterranean landscapes --ar 2:1 --no people*"
-* "*/imagine a lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope --s 100 --ar 16:9*"
-* "*/imagine Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder --s 100 --ar 16:9*"
-* "*/imagine a bedroom with ocean waves and an ocean wave over it, in the style of surrealistic dreamlike scenes, solarization effect, matte painting, forced perspective, I can't believe how beautiful this is, dreamlike whimsy, tonalist genius --ar 1:1*"
-* "*/imagine The Iron Throne, menacing, under the shadowy light of torches, in the style of Gothic, digital art, influenced by H. R. Giger, hues of cold steel and dark shadows, evoking a mood of power and danger --s 200 --ar 1:1*"
-* "*/imagine Elizabeth Bennet and Mr. Darcy, standing in the rain, sharing a tender moment, in the style of Realism, watercolor, influenced by John Constable, hues of cool blues and greens, under an English sky, evoking a mood of love and tension --s 100 --niji 5 --style cute --ar 1:1*"
-* "*/imagine Daisy Fay Buchanan, standing alone, looking across the bay at the green light, in the style of Art Deco, digital, influenced by Tamara de Lempicka, hues of dark blues and vibrant green, at night, evoking a mood of longing and opulence --ar 1:1*"
-* "*/imagine a large montage of a city with hot air balloons flying, in the style of vray tracing, Mexican folk art influence, photorealistic details, light red and cyan, rococo - inspired art, rendered in Cinema4D, detailed crowd scenes --ar 16:9*"
-* "*/imagine a city folding onto itself, surreal and disorienting, under a gloomy sky, in the style of Surrealism, digital medium, influenced by Escher, monochromatic hues, under diffused light, evoking a mood of mystery and confusion --s 800 --weird 1500 --ar 1:1*"
-* "*/imagine a painting with a big blue bubble hanging over water, in the style of classical balance, modernist landscapes, hard edge painter, Terragen, jarring juxtapositions, high detail, punctured canvases --ar 2:1 --no people*"
-* "*/imagine The Dark Tower, looming and mysterious, surrounded by a field of roses, under a dusky, ominous sky, in the style of Gothic, digital medium, influenced by H. R. Giger, hues of monochromatic blacks, grays, and reds, with harsh shadowy lighting, evoking a mood of foreboding and adventure --s 200 --ar 16:9*"
-* "*/imagine there is a white building above the dune, in the style of color field minimalism, light indigo and red, surreal portraiture, depiction of rural life, Zeiss Batis 18mm f/ 2. 8, German Expressionism, Italian landscapes --ar 2:1*"
-* "*/imagine a pile of books with colorful titles, in the style of moody tonalism, heavily textured, vivid and saturated colors, aerial view, old timey, monumental scale, iconic --ar 1:1*"
-* "*/imagine the red sun rises over a lighthouse on the shore, in the style of psychedelic artwork, cyan, 2D game art, hyper - detailed illustrations, bold palette, trillwave, moody color schemes --niji 5 --ar 1:1*"
-* "*/imagine a picture of an old wrecked ship in the desert, in the style of photorealist painter, Martin Ansin, realistic impressionism, Konica Auto S3, Peter Mitchev, multilayered realism, UE5 --ar 1:1*"
-* "*/imagine a small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations --ar 1:1*"
+
+"/imagine a volcanic island, black rock formations, against a serene sea at dawn, in the style of Korean landscape art, minimalism, pastel hues, soft morning light, ink wash, tranquil isolation, #island #Jeju, harmony of elements, Natural Wonders series, serenity of nature, traditional Korean ink, UHD --s 200 --ar 4:3"
+"/imagine a coral atoll, teeming with marine life, beneath turquoise waters, in the style of Polynesian Art, organic shapes, tropical colors, filtered sunlight, watercolor, underwater sanctuary, #reef #Papahānaumokuākea, balance of colors, Natural Phenomena series, preservation of biodiversity, traditional watercolors, 4K --s 300 --ar 16:9"
+"/imagine a Formula 1 race, cars blurring as they zoom around the track, in the style of Futurism, dynamic lines, bright colors, afternoon sun, digital painting, speed and motion, #Formula1 #racing, emphasis on movement and energy, Sports series, competition and adrenaline, Adobe Illustrator, UHD --s 350 --ar 21:9"
+"/imagine an ancient city, stone-carved structures, nestled within a rocky gorge, in the style of Nabatean Art, soft lines, desert hues, late afternoon, pencil sketch, lost civilization, #Petra #Jordan, texture of stone, World Heritage Sites series, historic preservation, charcoal and graphite pencils, 2K --s 200 --ar 3:2"
+"/imagine Snoop Dogg, iconic braids, leaning on a classic lowrider, in the style of Urban Pop Art, bold outlines, primary colors, sunset, graffiti, laid-back cool, #SnoopDogg #hiphop, character and setting, modern music icons series, celebration of street culture, spray paint, UHD --s 500 --ar 1:2"
+"/imagine a medieval knight, armor shining, standing before a towering castle at dusk, in the style of Gothic Art, attention to detail, muted earthy colors, sunset, oil painting, chivalrous journey, #knight #castle #MiddleAges, focus on intricate armor details, Medieval Times series, honor and duty, traditional oil paints, 4K --s 300 --ar 4:3"
+"/imagine the Aurora Borealis, colorful lights, dancing across a star-studded polar sky, in the style of Expressionism, fluid lines, cool hues, night sky, digital painting, ethereal spectacle, #aurora #northernlights, emphasis on light movements, Natural Phenomena series, beauty of the universe, Adobe Photoshop, IMAX --s 400 --ar 16:9"
+"/imagine Elton John, flamboyant glasses, playing a grand piano on a glittering stage, in the style of Glam Rock Art, fantastical elements, vibrant hues, spotlight, digital painting, extravagant showmanship, #EltonJohn #pop, emphasis on costume, modern music icons series, flamboyance and authenticity, Adobe Illustrator, IMAX --s 400 --ar 16:9"
+"/imagine a bustling marketplace in Marrakech, filled with vibrant fabrics and exotic spices, in the style of Fauvism, exaggerated colors, bold patterns, afternoon, oil painting, vibrant diversity, #market #Marrakech, focus on color contrasts, World Cultures series, richness and variety, Fauvist oil paints, 4K --s 300 --ar 2:1"
+"/imagine a DNA double helix, brightly colored, spiraling against the backdrop of a human silhouette, in the style of Pop Art, bold outlines, vibrant colors, white background, digital painting, exploration of identity, #DNA #genetics, focus on patterns, Science in Art series, human uniqueness, Adobe Illustrator, 4K --s 300 --ar 1:1"
+"/imagine waves, white foam, crashing onto a sandy shore, spraying water droplets in the style of Impressionism, rapid brushwork, shades of blue and sandy yellow, bright sunlight, oil painting, the rhythm of the sea, #waves #beach, focus on motion and texture, seascape series, power and tranquility of the sea, Van Gogh's oil paints, 4K --s 300 --ar 2:1"
+"/imagine the fierce face of a warrior, adorned in traditional Maori tattoos, in the style of Tribal Art, bold lines, earthy colors, intense gaze, wood sculpture, pride and strength, #Maori #warrior, emphasis on patterns and symbolism, World Cultures series, courage and heritage, wood chisel and mallet, UHD --s 200 --ar 1:1"
+"/imagine the concept of time, represented as a cascade of sand-filled hourglasses flowing into a swirling galaxy, in the style of Surrealism, dreamlike imagery, cool tones, starlit darkness, digital painting, temporal infinity, #time #surreal, emphasis on scale and perspective, Conceptual series, mystery of existence, Adobe Photoshop, UHD --s 600 --ar 16:9"
+"/imagine a lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Western Realism, dry brush techniques, earth tones, harsh midday sun, digital painting, solitary journey, #traveler #desert, emphasis on distance and isolation, wanderer series, uncertainty and determination, Adobe Photoshop, 4K --s 400 --ar 16:9"
+"/imagine Hogwarts Castle, towering stone walls, surrounded by the Black Lake, in the style of Gothic Fantasy, detailed stonework, moody blues and greys, moonlit night, digital painting, magical mystery, #Hogwarts #HarryPotter, focus on reflection and silhouette, Wizarding World series, magic and history, Adobe Illustrator, 4K --s 350 --ar 16:9"
+"/imagine a bedroom, cozy and personal, being swept by an ocean wave, with a larger wave arching over the entire scene, in the style of Surrealism, warped perspective, shades of blue and muted interior colors, eerie underwater lighting, digital painting, dreamlike inversion, #bedroom #ocean #surreal, emphasis on fluidity and displacement, dream spaces series, subconscious exploration, Adobe Photoshop, 4K --s 600 --ar 16:9"
+"/imagine the Iron Throne, sharp and menacing, forged from countless swords, in the seat of a dark, torch-lit hall, in the style of Dark Fantasy Realism, chiaroscuro, metallic hues, flickering firelight, digital painting, symbol of power, #IronThrone #GameOfThrones, focus on texture and detail, epic fantasy series, struggle for power, Adobe Photoshop, UHD --s 500 --ar 16:9"
+"/imagine Elizabeth Bennet and Mr. Darcy, period attire, engaged in a tense conversation in a Victorian drawing room, in the style of Romanticism, delicate detailing, muted palette, soft candlelight, oil painting, restrained passion, #PrideAndPrejudice #romance, focus on facial expressions and body language, classic literature series, complexity of relationships, traditional oil paints, 4K --s 300 --ar 4:3"
+"/imagine a large montage of a bustling city, diverse architecture, with colorful hot air balloons floating across the skyline, in the style of Cubism, fragmented perspective, vibrant colors, sunset, digital painting, celebration of urban life, #city #hotairballoons, juxtaposition of urban and whimsical, cityscape series, freedom and exploration, Adobe Illustrator, 8K --s 400 --ar 21:9"
+"/imagine a giant blue bubble, translucent and glossy, hanging precariously above a calm sea, in the style of Magical Realism, smooth gradients, hues of blue, soft morning light, oil painting, suspended wonder, #bubble #sea, focus on reflection and refraction, dreamscapes series, tranquility and fragility, traditional oil paints, 4K --s 350 --ar 3:2"
+"/imagine the first moon landing, illustrated as a collage of newspaper clippings and photographs, in the style of Dadaism, eclectic mix, sepia tones, layered composition, mixed media collage, triumph of human spirit, #MoonLanding #history, emphasis on juxtaposition, Milestones in History series, exploration and discovery, scissors and glue, 4K --s 300 --ar 16:9"
+"/imagine a dense forest, trees reaching skyward, carved intricately from a single block of wood, in the style of Realism, attention to texture, natural wood tones, subtle lighting, wood sculpture, serenity in nature, #forest #sculpture, focus on detail and form, Art in Nature series, life's resilience, Hand chisel and mallet, QHD --s 200 --ar 1:2"
+"/imagine the Dark Tower, ominous and colossal, standing solitary in an otherworldly landscape, in the style of Gothic Fantasy, exaggerated shadows, desaturated tones, overcast sky, digital painting, eerie journey, #DarkTower #StephenKing, emphasis on the tower's scale and solitude, epic fantasy series, relentless pursuit, Adobe Photoshop, UHD --s 450 --ar 16:9"
+"/imagine a pile of books, dog-eared and well-loved, stacked haphazardly on a rustic wooden table, in the style of Still Life, detailed rendering, warm tones, soft diffused daylight, oil painting, intimate tranquility, #books #stilllife, focus on texture and shadow, readers' retreat series, love for literature, traditional oil paints, 2K --s 200 --ar 3:2"
+"/imagine a lighthouse, tall and solitary, as a red sun rises over a serene shore, in the style of Impressionism, loose brushwork, warm hues of red and orange, morning light, watercolor, hopeful dawn, #lighthouse #sunrise, emphasis on the play of light on water, maritime series, navigation and new beginnings, traditional watercolors, 4K --s 250 --ar 2:1"
+"/imagine the complex structure of a neuron, intricate dendrites and axons, against a black background, in the style of Scientific Illustration, high level of detail, cool tones, stark contrast, charcoal drawing, mystery of the mind, #neuron #science, focus on texture and pattern, Science in Art series, intricacy and complexity of life, charcoal pencils, 4K --s 300 --ar 1:1"
+"/imagine an old wrecked ship, weathered wood and torn sails, marooned in a vast, barren desert, in the style of Post-apocalyptic Art, textured details, earth tones, harsh midday sun, digital painting, desolate solitude, #ship #desert, focus on juxtaposition of marine and desert, lost voyages series, survival and abandonment, Adobe Photoshop, 4K --s 400 --ar 16:9"
+"/imagine a small cartoon fantasy house, whimsical design, nestled in a lush green meadow, in the style of Anime, bold outlines, bright colors, sunny afternoon, digital painting, charming tranquility, #house #cartoon #fantasy, focus on whimsical architecture, dream homes series, comfort and imagination, Adobe Animate, 2K --s 200 --ar 4:3 --niji 5 --style cute"
 
 <br>
 
@@ -224,10 +237,60 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 ---
 
-This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from emoji prompts used with the ChatGPT generator this guide began with. Each emoji triggers a unique narrative, which Midjourney then converts into visual representation. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts. For further improvement in accuracy and prompt structure, consider referencing the article [here](https://artificialcorner.com/youre-using-midjourney-wrong-here-s-how-to-create-better-images-than-99-of-midjourney-users-c876fbe7915e), or the comprehensive source of prompt creation tips at [UX Collective](https://medium.com/design-bootcamp/search?q=midjourney).
+This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from prompts created by the ChatGPT generator this guide began with. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts.
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
-🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
+* "*/imagine waves spraying off the sandy shore, in the style of photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, Mediterranean landscapes --ar 2:1 --no people*"
+  
+* "*/imagine a lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope --s 100 --ar 16:9*"
+
+* "*/imagine Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder --s 100 --ar 16:9*"
+
+* "*/imagine a bedroom with ocean waves and an ocean wave over it, in the style of surrealistic dreamlike scenes, solarization effect, matte painting, forced perspective, I can't believe how beautiful this is, dreamlike whimsy, tonalist genius --ar 1:1*"
+
+* "*/imagine The Iron Throne, menacing, under the shadowy light of torches, in the style of Gothic, digital art, influenced by H. R. Giger, hues of cold steel and dark shadows, evoking a mood of power and danger --s 200 --ar 1:1*"
+
+* "*/imagine Elizabeth Bennet and Mr. Darcy, standing in the rain, sharing a tender moment, in the style of Realism, watercolor, influenced by John Constable, hues of cool blues and greens, under an English sky, evoking a mood of love and tension --s 100 --niji 5 --style cute --ar 1:1*"
+
+* "*/imagine Daisy Fay Buchanan, standing alone, looking across the bay at the green light, in the style of Art Deco, digital, influenced by Tamara de Lempicka, hues of dark blues and vibrant green, at night, evoking a mood of longing and opulence --ar 1:1*"
+
+* "*/imagine a large montage of a city with hot air balloons flying, in the style of vray tracing, Mexican folk art influence, photorealistic details, light red and cyan, rococo - inspired art, rendered in Cinema4D, detailed crowd scenes --ar 16:9*"
+
+* "*/imagine a city folding onto itself, surreal and disorienting, under a gloomy sky, in the style of Surrealism, digital medium, influenced by Escher, monochromatic hues, under diffused light, evoking a mood of mystery and confusion --s 800 --weird 1500 --ar 1:1*"
+
+* "*/imagine a painting with a big blue bubble hanging over water, in the style of classical balance, modernist landscapes, hard edge painter, Terragen, jarring juxtapositions, high detail, punctured canvases --ar 2:1 --no people*"
+
+* "*/imagine The Dark Tower, looming and mysterious, surrounded by a field of roses, under a dusky, ominous sky, in the style of Gothic, digital medium, influenced by H. R. Giger, hues of monochromatic blacks, grays, and reds, with harsh shadowy lighting, evoking a mood of foreboding and adventure --s 200 --ar 16:9*"
+
+* "*/imagine there is a white building above the dune, in the style of color field minimalism, light indigo and red, surreal portraiture, depiction of rural life, Zeiss Batis 18mm f/ 2. 8, German Expressionism, Italian landscapes --ar 2:1*"
+
+* "*/imagine a pile of books with colorful titles, in the style of moody tonalism, heavily textured, vivid and saturated colors, aerial view, old timey, monumental scale, iconic --ar 1:1*"
+
+* "*/imagine the red sun rises over a lighthouse on the shore, in the style of psychedelic artwork, cyan, 2D game art, hyper - detailed illustrations, bold palette, trillwave, moody color schemes --niji 5 --ar 1:1*"
+
+* "*/imagine a picture of an old wrecked ship in the desert, in the style of photorealist painter, Martin Ansin, realistic impressionism, Konica Auto S3, Peter Mitchev, multilayered realism, UE5 --ar 1:1*"
+
+* "*/imagine a small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations --ar 1:1*"
+
+---
+
+This text is independently published and unaffiliated with MidJourney or OpenAI
+
+Text and Illustration Copyright © 2023 by Joone 501(c)(3)
+
+Published and Imprinted by Joone 501(c)(3)
+
+ISBN: 9798851707100
+
+This work is shared with you under the Creative Commons Attribution -NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we invite you to share, copy, and use this material in any medium or format. However, we ask that you give appropriate credit to Joone
+501(c)(3) (Attribution), refrain from using the material for commercial purposes (Non-Commercial), and avoid distributing modified versions of the material (No-Derivatives). 
+
+Our material is intended to be used by a wide range of individuals. If you're an educator, feel free to incorporate it into your curriculum to introduce students to the concept of AI in digital arts. Novice tech enthusiasts can use it as a guide to comprehend and navigate the world of AI-generated imagery. Parents can use it to educate their children about the creative applications of AI. Individuals with no prior experience in artificial intelligence can use it to understand how AI intersects with art and creativity. Community leaders or organizers can distribute it to promote digital literacy and understanding about AI in their communities. Our goal with this text is to demystify the role of artificial intelligence in creative fields and make it accessible to everyone, by teaching people how to interact with and use MidJourney and ChatGPT-4 effectively.
+
+Joone 501(c)(3) is a non-profit organization committed to democratizing K-12 education. We create and distribute high-quality, openly licensed educational resources to address the curriculum crisis and ensure every child, regardless of their circumstances, has access to personalized, cutting-edge education. Our innovative curricula are designed to engage students and promote interactive learning, breaking the cycle of outdated educational materials. Through our efforts, we aim to foster educational consistency and quality worldwide, envisioning a future where every child has the resources they need to succeed.
+
+Your support through contributing your expertise, monetary donations, or simply volunteering your time, plays a critical role in creating and distributing these essential educational resources. You're an integral part of a global effort to enhance children's lives through education. We appreciate your consideration to contribute in any way, making this mission possible.
+
+For more information, please visit <https://joone.org>.
 
 <!-- 
 
@@ -235,6 +298,8 @@ This introductory guide to Midjourney is designed for newcomers, and below we pr
 prompt<br>
 <br><br>
 
+![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/lion.jpg)
+🦁 A majestic lion resting in the shade of a savanna tree, attentively watching the horizon under the scorching midday sun.<br>Realistic wildlife photography style, high contrast, warm color palette, eye-level view, shallow depth of field. 🦁
 
 * 🐉 A towering, majestic dragon perched atop a craggy mountain peak, its scales shimmering under the moonlight. Traditional Asian ink painting style, nighttime setting, monochromatic color scheme, bird's-eye view, strong contrast. --ar 1:1 --s 800 --q .5<br><br>
 * 🏞️ A breathtaking view of a pristine alpine valley with a mirror-like lake surrounded by towering, snow-capped mountains under a clear blue sky. Bob Ross-inspired oil painting style, daytime setting, vibrant colors, panoramic view, detailed foliage. --ar 16:9 --s 600 --q .5<br><br>
@@ -257,24 +322,3 @@ prompt<br>
 * 🏕️ A cozy campsite nestled among towering pines, a crackling fire casting a warm glow against the starlit wilderness. Digital painting style, night setting, warm and cool color palette, medium shot, detailed environment. --ar 16:9 --s 600 --q .5<br><br>
 
 -->
-
----
-
-This text is independently published and unaffiliated with MidJourney or OpenAI
-
-Text and Illustration Copyright © 2023 by Joone 501(c)(3)
-
-Published and Imprinted by Joone 501(c)(3)
-
-ISBN: 9798851707100
-
-This work is shared with you under the Creative Commons Attribution -NonCommercial - NoDerivatives (CC BY-NC-ND) License. This means we invite you to share, copy, and use this material in any medium or format. However, we ask that you give appropriate credit to Joone
-501(c)(3) (Attribution), refrain from using the material for commercial purposes (Non-Commercial), and avoid distributing modified versions of the material (No-Derivatives). 
-
-Our material is intended to be used by a wide range of individuals. If you're an educator, feel free to incorporate it into your curriculum to introduce students to the concept of AI in digital arts. Novice tech enthusiasts can use it as a guide to comprehend and navigate the world of AI-generated imagery. Parents can use it to educate their children about the creative applications of AI. Individuals with no prior experience in artificial intelligence can use it to understand how AI intersects with art and creativity. Community leaders or organizers can distribute it to promote digital literacy and understanding about AI in their communities. Our goal with this text is to demystify the role of artificial intelligence in creative fields and make it accessible to everyone, by teaching people how to interact with and use MidJourney and ChatGPT-4 effectively.
-
-Joone 501(c)(3) is a non-profit organization committed to democratizing K-12 education. We create and distribute high-quality, openly licensed educational resources to address the curriculum crisis and ensure every child, regardless of their circumstances, has access to personalized, cutting-edge education. Our innovative curricula are designed to engage students and promote interactive learning, breaking the cycle of outdated educational materials. Through our efforts, we aim to foster educational consistency and quality worldwide, envisioning a future where every child has the resources they need to succeed.
-
-Your support through contributing your expertise, monetary donations, or simply volunteering your time, plays a critical role in creating and distributing these essential educational resources. You're an integral part of a global effort to enhance children's lives through education. We appreciate your consideration to contribute in any way, making this mission possible.
-
-For more information, please visit <https://joone.org>.
