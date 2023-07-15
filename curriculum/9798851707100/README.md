@@ -216,39 +216,85 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 ---
 
-This introductory guide to Midjourney is designed for newcomers, and below we present a series of images generated from prompts created by the ChatGPT generator this guide began with. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts.
+Below are a series of images generated from prompts created by the ChatGPT generator this guide began with. Bear in mind that AI imaging is more art than science, and results might not align perfectly with initial intentions. To observe Midjourney's accuracy, compare these images with their original prompts.
 
-* "*/imagine waves spraying off the sandy shore, in the style of photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, Mediterranean landscapes --ar 2:1 --no people*"
-  
-* "*/imagine a lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope --s 100 --ar 16:9*"
+<br><br>
 
-* "*/imagine Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder --s 100 --ar 16:9*"
+![waves](https://github.com/joone-org/curriculum.joone.org/assets/137654670/77ff2190-9d35-4bf3-b62b-e7da1d803734)
+> "*/imagine waves spraying off the sandy shore, in the style of photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, Mediterranean landscapes --ar 2:1 --no people*"
 
-* "*/imagine a bedroom with ocean waves and an ocean wave over it, in the style of surrealistic dreamlike scenes, solarization effect, matte painting, forced perspective, I can't believe how beautiful this is, dreamlike whimsy, tonalist genius --ar 1:1*"
+<br><br>
 
-* "*/imagine The Iron Throne, menacing, under the shadowy light of torches, in the style of Gothic, digital art, influenced by H. R. Giger, hues of cold steel and dark shadows, evoking a mood of power and danger --s 200 --ar 1:1*"
+![traveler](https://github.com/joone-org/curriculum.joone.org/assets/137654670/1a076be4-5dcd-4920-8e60-a51a7ec9702a)
+> "*/imagine a lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope --s 100 --ar 16:9*"
 
-* "*/imagine Elizabeth Bennet and Mr. Darcy, standing in the rain, sharing a tender moment, in the style of Realism, watercolor, influenced by John Constable, hues of cool blues and greens, under an English sky, evoking a mood of love and tension --s 100 --niji 5 --style cute --ar 1:1*"
+<br><br>
 
-* "*/imagine Daisy Fay Buchanan, standing alone, looking across the bay at the green light, in the style of Art Deco, digital, influenced by Tamara de Lempicka, hues of dark blues and vibrant green, at night, evoking a mood of longing and opulence --ar 1:1*"
+![hogwarts](https://github.com/joone-org/curriculum.joone.org/assets/137654670/cb1281bb-b230-4668-ac58-7405e3ef3a5a)
+> "*/imagine Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder --s 100 --ar 16:9*"
 
-* "*/imagine a large montage of a city with hot air balloons flying, in the style of vray tracing, Mexican folk art influence, photorealistic details, light red and cyan, rococo - inspired art, rendered in Cinema4D, detailed crowd scenes --ar 16:9*"
+<br><br>
 
-* "*/imagine a city folding onto itself, surreal and disorienting, under a gloomy sky, in the style of Surrealism, digital medium, influenced by Escher, monochromatic hues, under diffused light, evoking a mood of mystery and confusion --s 800 --weird 1500 --ar 1:1*"
+![bedroom](https://github.com/joone-org/curriculum.joone.org/assets/137654670/01001fb6-8aeb-4e02-a212-2aff2ac66b0b)
+> "*/imagine a bedroom with ocean waves and an ocean wave over it, in the style of surrealistic dreamlike scenes, solarization effect, matte painting, forced perspective, I can't believe how beautiful this is, dreamlike whimsy, tonalist genius --ar 1:1*"
 
-* "*/imagine a painting with a big blue bubble hanging over water, in the style of classical balance, modernist landscapes, hard edge painter, Terragen, jarring juxtapositions, high detail, punctured canvases --ar 2:1 --no people*"
+<br><br>
 
-* "*/imagine The Dark Tower, looming and mysterious, surrounded by a field of roses, under a dusky, ominous sky, in the style of Gothic, digital medium, influenced by H. R. Giger, hues of monochromatic blacks, grays, and reds, with harsh shadowy lighting, evoking a mood of foreboding and adventure --s 200 --ar 16:9*"
+![throne](https://github.com/joone-org/curriculum.joone.org/assets/137654670/e5093799-387b-48a6-873c-85fbed5f8cee)
+> "*/imagine The Iron Throne, menacing, under the shadowy light of torches, in the style of Gothic, digital art, influenced by H. R. Giger, hues of cold steel and dark shadows, evoking a mood of power and danger --s 200 --ar 1:1*"
 
-* "*/imagine there is a white building above the dune, in the style of color field minimalism, light indigo and red, surreal portraiture, depiction of rural life, Zeiss Batis 18mm f/ 2. 8, German Expressionism, Italian landscapes --ar 2:1*"
+![elizabeth](https://github.com/joone-org/curriculum.joone.org/assets/137654670/b0a39c62-2add-4084-8749-0ec04d18b6fd)
+> "*/imagine Elizabeth Bennet and Mr. Darcy, standing in the rain, sharing a tender moment, in the style of Realism, watercolor, influenced by John Constable, hues of cool blues and greens, under an English sky, evoking a mood of love and tension --s 100 --niji 5 --style cute --ar 1:1*"
 
-* "*/imagine a pile of books with colorful titles, in the style of moody tonalism, heavily textured, vivid and saturated colors, aerial view, old timey, monumental scale, iconic --ar 1:1*"
+<br><br>
 
-* "*/imagine the red sun rises over a lighthouse on the shore, in the style of psychedelic artwork, cyan, 2D game art, hyper - detailed illustrations, bold palette, trillwave, moody color schemes --niji 5 --ar 1:1*"
+![daisy](https://github.com/joone-org/curriculum.joone.org/assets/137654670/0145efc6-77a7-4987-bdd6-ac655cf7fab3)
+> "*/imagine Daisy Fay Buchanan, standing alone, looking across the bay at the green light, in the style of Art Deco, digital, influenced by Tamara de Lempicka, hues of dark blues and vibrant green, at night, evoking a mood of longing and opulence --ar 1:1*"
 
-* "*/imagine a picture of an old wrecked ship in the desert, in the style of photorealist painter, Martin Ansin, realistic impressionism, Konica Auto S3, Peter Mitchev, multilayered realism, UE5 --ar 1:1*"
+<br><br>
 
-* "*/imagine a small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations --ar 1:1*"
+![balloons](https://github.com/joone-org/curriculum.joone.org/assets/137654670/8126bbf4-7657-4700-8557-5597c15b3b01)
+> "*/imagine a large montage of a city with hot air balloons flying, in the style of vray tracing, Mexican folk art influence, photorealistic details, light red and cyan, rococo - inspired art, rendered in Cinema4D, detailed crowd scenes --ar 16:9*"
+
+<br><br>
+
+![inception](https://github.com/joone-org/curriculum.joone.org/assets/137654670/9d0a0102-7c43-4a88-89e5-2b0fa388f2d3)
+> "*/imagine a city folding onto itself, surreal and disorienting, under a gloomy sky, in the style of Surrealism, digital medium, influenced by Escher, monochromatic hues, under diffused light, evoking a mood of mystery and confusion --s 800 --weird 1500 --ar 1:1*"
+
+<br><br>
+
+![bubble](https://github.com/joone-org/curriculum.joone.org/assets/137654670/43e32c8a-3f62-462b-a727-e79e02575b14)
+> "*/imagine a painting with a big blue bubble hanging over water, in the style of classical balance, modernist landscapes, hard edge painter, Terragen, jarring juxtapositions, high detail, punctured canvases --ar 2:1 --no people*"
+
+<br><br>
+
+![tower](https://github.com/joone-org/curriculum.joone.org/assets/137654670/55003ef7-8baa-4c9e-800c-592d2103c1d0)
+> "*/imagine The Dark Tower, looming and mysterious, surrounded by a field of roses, under a dusky, ominous sky, in the style of Gothic, digital medium, influenced by H. R. Giger, hues of monochromatic blacks, grays, and reds, with harsh shadowy lighting, evoking a mood of foreboding and adventure --s 200 --ar 16:9*"
+
+<br><br>
+
+![red](https://github.com/joone-org/curriculum.joone.org/assets/137654670/93ed2ff3-a1c2-4f69-8c03-c6c9b380c408)
+> "*/imagine there is a white building above the dune, in the style of color field minimalism, light indigo and red, surreal portraiture, depiction of rural life, Zeiss Batis 18mm f/ 2. 8, German Expressionism, Italian landscapes --ar 2:1*"
+
+<br><br>
+
+![books](https://github.com/joone-org/curriculum.joone.org/assets/137654670/c256f85c-852f-42f1-9a56-6c600a4cba15)
+> "*/imagine a pile of books with colorful titles, in the style of moody tonalism, heavily textured, vivid and saturated colors, aerial view, old timey, monumental scale, iconic --ar 1:1*"
+
+<br><br>
+
+![lighthouse](https://github.com/joone-org/curriculum.joone.org/assets/137654670/43d5908e-e21f-4886-a2ba-1527fc23d7e4)
+> "*/imagine the red sun rises over a lighthouse on the shore, in the style of psychedelic artwork, cyan, 2D game art, hyper - detailed illustrations, bold palette, trillwave, moody color schemes --niji 5 --ar 1:1*"
+
+<br><br>
+
+![shipwreck](https://github.com/joone-org/curriculum.joone.org/assets/137654670/2d10f90e-5c5a-4d9d-8ce4-40ffc2c46ab5)
+> "*/imagine a picture of an old wrecked ship in the desert, in the style of photorealist painter, Martin Ansin, realistic impressionism, Konica Auto S3, Peter Mitchev, multilayered realism, UE5 --ar 1:1*"
+
+<br><br>
+
+![hobbiton](https://github.com/joone-org/curriculum.joone.org/assets/137654670/92d0eb65-3858-4a2d-a98e-0efee4427c4c)
+> "*/imagine a small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations --ar 1:1*"
 
 ---
 
