@@ -19,7 +19,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator, copy all of the following text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
+<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/b0fd15c8-4ff5-4219-a7f6-b14b56657b28">this link</a>, or copy all of the following text and paste it into ChatGPT's input. When it responds with the question, provide emoji or a description of the image you want it to generate.</p></th>
 </tr>
 </thead>
 <tbody>
