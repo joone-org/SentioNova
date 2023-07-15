@@ -38,36 +38,45 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 <br>
 
 Though none of the following are mandatory, elements should be ordered as follows: 
-> [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting → "in the style of" →*
+> [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting*
 
-> [**Style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
+> [**Style**]:  *"in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme*
 
 > [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality  → --Parameters*
 
 <br>
 
-#### Subject and Setting
+#### [Subject]
 Start with a subject positioned within a setting, use collective nouns if needed ("flock" instead of "3"), and be specific ('flying' differs from 'soaring') about characteristics and actions.
 > Example: "*/imagine a flock of macaws, with brightly colored feathers, flying over the rainforest*"
 
+> Quantity of → Subject → Characteristics → Action → Setting
+
 <br>
 
-#### Style Keywords
-For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements': 
-  - Define the medium (photo, sand sculpture, linocut print).
-  - Describe your desired lighting (soft ambient, neon, candle-lit)
-  - Pair it with a color scheme (monochromatic, earth tones, cyberpunk neon)
-  - Arrange your scene using terms like (low-angle shot, bird's eye view, rule of thirds composition)
-  - Mention the desired artistic style (Cubism, Anime, Film Noir, Banksy graffiti), or specify the historical period or specific environment for added context
+#### [Style]
+To create the most expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities using the following structure:
+* Define the genre (Impressionism, Brutalism, Vaporwave, Chiaroscuro) or specific concepts (Double exposure, Neon lights, Steampunk elements)
+* Specify the medium (Photo, Sand sculpture, Linocut)
+* Include artistic techniques (Low-angle shot, Bird's eye view, Rule of thirds composition)
+* Note influential artists or periods for added context (Cubism, Anime, Film Noir, Banksy graffiti)
+* Describe your desired hues (Monochromatic, Earth tones, Cyberpunk neon)
+* Indicate your desired lighting (Soft ambient, Neon, Candle-lit)
+* Mention the heritage (examples)
+* Specify technology for high realism (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
+* Add nuanced adjectives to depict the mood (Tranquil, Breathtaking, etc.)
+* Incorporate the overall theme of the image
+
+> Example: "*/imagine a flock of macaws, with brightly colored feathers, flying over the rainforest, in the style of Impressionist art, with a watercolor medium, using bird's eye view composition, influenced by Monet, in hues of green and blue, under the soft morning light, reminiscent of the Romantic period, captured with Canon EOS 5D Mark IV, evoking a sense of freedom and tranquility, with a theme of harmony.*"
+
+> "in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme
+
+<br>
+
+#### [Specifications]
+: Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters
+
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
-  - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
-  - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
-> Example: "*/imagine Elephant herd at sunset in the Serengeti, in the style of Impressionist art, grandiose landscapes, under a sky richly colored in hues of orange and gold.*"
-
-<br>
-
-#### Parameters
-[Specifications]: Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters
 
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
 - "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
