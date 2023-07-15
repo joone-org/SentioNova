@@ -33,16 +33,16 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> "*/imagine [subject] in the style of [style] --[parameters]*"
+> "*/imagine [**subject**] in the style of [**style**], [**specifications**]*"
 
 <br>
 
 Though none of the following are mandatory, elements should be ordered as follows: 
-> *Quantity of → Subject → Characteristics → What the Subject is doing → Setting → "in the style of" →*
+> [**subject**]:  *Quantity of → Subject → Characteristics → Action → Setting → "in the style of" →*
 
-> *Artistic Style / Medium → Artistic Elements / Techniques → Influences (Artists, Artworks, or Movements) → Color Palette → Time of Day / Lighting → Cultural Influences → Technology → Mood → Theme →*
+> [**style**]:  *Artistic Style / Medium → Artistic Elements / Techniques → Influences (Artists, Artworks, or Movements) → Color Palette → Time of Day / Lighting → Cultural Influences → Technology → Mood → Theme →*
 
-> *Hashtags, Negative Spaces, Series / Collection, Intended Usage, Materials Used, Art-related Terms, Secondary Subjects, etc. → Image Quality / Resolution → --Parameters*
+> [**specifications**]:  *Hashtags, Negative Spaces, Series / Collection, Intended Usage, Materials Used, Art-related Terms, Secondary Subjects, etc. → Image Quality / Resolution → --Parameters*
 
 <br>
 
