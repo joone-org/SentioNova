@@ -48,7 +48,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 #### Subject and Setting
 Start with a subject positioned within a setting, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk') about characteristics and actions. 
-> *Example: "/imagine A flock of vibrant, scarlet macaws, squawking and preening, in a lush Amazonian rainforest at dawn"*
+> Example: "*/imagine a flock of macaws, with wide wingspans, flying over the rainforest*"
 
 <br>
 
@@ -62,7 +62,7 @@ For the most expressive imagery infuse your prompts with personality and emotion
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
   - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
-> *Example: "/imagine Elephant herd at sunset in the Serengeti, in the style of Impressionist art, grandiose landscapes, under a sky richly colored in hues of orange and gold."*
+> Example: "*/imagine Elephant herd at sunset in the Serengeti, in the style of Impressionist art, grandiose landscapes, under a sky richly colored in hues of orange and gold.*"
 
 <br>
 
@@ -74,7 +74,9 @@ For the most expressive imagery infuse your prompts with personality and emotion
 - “*--ar width:height" dictates the width-to-height aspect ratio
 - “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
 - "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
-> *Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"*
+> Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"*
+
+<br>
 
 #### Prompt Examples
 - 
