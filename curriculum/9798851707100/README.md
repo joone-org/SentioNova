@@ -152,10 +152,30 @@ Example: "/imagine A herd of colossal African elephants::2 under a breathtaking 
 
 <br>
 
-#### Prompt Examples
+
 - 
 
 -->
+
+#### Prompt Examples
+* Waves spraying off the sandy shore, in the style of turquoise and azure, photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, mediterranean landscapes, photorealistic detail --ar 2:1 --no people
+* A lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope. --s 100 --ar 16:9
+* Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder. --s 100 --ar 16:9
+* A bedroom with ocean waves and an ocean wave over it, in the style of surrealistic dreamlike scenes, solarization effect, matte painting, forced perspective, i can't believe how beautiful this is, dreamlike whimsy, tonalist genius  --ar 1:1
+* The Iron Throne, menacing, under the shadowy light of torches, in the style of Gothic, digital art, influenced by H. R. Giger, hues of cold steel and dark shadows, evoking a mood of power and danger. --s 200 --ar 1:1
+* Elizabeth Bennet and Mr. Darcy, standing in the rain, sharing a tender moment, in the style of Realism, watercolor, influenced by John Constable, hues of cool blues and greens, under an English sky, evoking a mood of love and tension. --s 100 --niji 5 --style cute --ar 1:1
+* Daisy Fay Buchanan, standing alone, looking across the bay at the green light, in the style of Art Deco, digital, influenced by Tamara de Lempicka, hues of dark blues and vibrant green, at night, evoking a mood of longing and opulence.  --ar 1:1
+* A large montage of a city with hot air balloons flying, in the style of vray tracing, mexican folk art influence, photorealistic details, light red and cyan, rococo - inspired art, rendered in cinema4d, detailed crowd scenes --ar 16:9
+* A city folding onto itself, surreal and disorienting, under a gloomy sky, in the style of Surrealism, digital medium, influenced by Escher, monochromatic hues, under diffused light, evoking a mood of mystery and confusion. --s 800 --weird 1500 --ar 1:1
+* A painting with a big blue bubble hanging over water, in the style of classical balance, modernist landscapes, hard edge painter, terragen, jarring juxtapositions, high detail, punctured canvases --ar 2:1 --no people
+* The Dark Tower, looming and mysterious, surrounded by a field of roses, under a dusky, ominous sky, in the style of Gothic, digital medium, influenced by H. R. Giger, hues of monochromatic blacks, grays, and reds, with harsh shadowy lighting, evoking a mood of foreboding and adventure. --s 200 --ar 16:9
+* There is a white building above the dune, in the style of color field minimalism, light indigo and red, surreal portraiture, depiction of rural life, zeiss batis 18mm f/ 2. 8, german expressionism, italian landscapes --ar 2:1
+* A pile of books with colorful titles, in the style of moody tonalism, heavily textured, vivid and saturated colors, aerial view, old timey, monumental scale, iconic --ar 1:1
+* The red sun rises over a lighthouse on the shore, in the style of psychedelic artwork, cyan, 2d game art, hyper - detailed illustrations, bold palette, trillwave, moody color schemes  --niji 5 --ar 1:1
+* A picture of an old wrecked ship in the desert, in the style of photorealist painter, martin ansin, realistic impressionism, konica auto s3, peter mitchev, multilayered realism, ue5  --ar 1:1
+* A small cartoon fantasy house on a green meadow, in the style of graffiti - inspired illustrations, inventive character designs, rusticcore, rounded, comic/ cartoon, wandering eye, detailed character illustrations  --ar 1:1
+
+<br>
 
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
