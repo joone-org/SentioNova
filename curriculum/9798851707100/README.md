@@ -83,6 +83,15 @@ To create the most expressive imagery, infuse your prompts with personality and 
 
 #### [Specifications]
 
+- "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
+- "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
+- "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
+- “*--style raw*" in traditional mode creates photorealistic images
+- “*--ar width:height" dictates the width-to-height aspect ratio
+- “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
+- "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
+> Example: *"/imagine A flock of macaws::2, bright feathers::1 flying over the rainforest. Impressionist style, watercolor medium, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious. --s 700 --ar 16:9 --no people"*
+> 
 <!--
 
 Does EOS 5D belong in specifications?
@@ -137,14 +146,7 @@ Example: "/imagine A herd of colossal African elephants::2 under a breathtaking 
 
 
 
-- "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
-- "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
-- "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
-- “*--style raw*" in traditional mode creates photorealistic images
-- “*--ar width:height" dictates the width-to-height aspect ratio
-- “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
-- "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
-> Example: *"/imagine A flock of macaws::2, bright feathers::1 flying over the rainforest. Impressionist style, watercolor medium, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious. --s 700 --ar 16:9 --no people"*
+
 
 
 
