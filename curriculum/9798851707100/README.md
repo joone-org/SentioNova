@@ -2,7 +2,7 @@
 
 ![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
 
-This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated from their respective emoji inputs. Shared under an open license by [Joone](https://joone.org/), you're free to use and share it while giving appropriate credit.
+This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated. Shared under an open license by [Joone](https://joone.org/), you're free to use and distribute this.
 
 [Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
 [Amazon Paperback](https://www.amazon.com/dp/B0C9SC73JC?ref_=pe_3052080_397514860)<br>
@@ -40,49 +40,57 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 Though none of the following are mandatory, elements should be ordered as follows: 
 > [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting*
 
-> [**Style**]:  *"in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme*
+> [**Style**]:  *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Mood → Theme → Culture*
 
-> [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality  → --Parameters*
+> [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
 <br>
 
 #### [Subject]
-Start with a subject positioned within a setting, use collective nouns if needed ("flock" instead of "3"), and be specific ('flying' differs from 'soaring') about characteristics and actions.
+> #### *Quantity of → Subject → Characteristics → Action → Setting*
+Start with a subject positioned within a setting, use collective nouns if needed ("flock" instead of "3"), and be specific ('flying' differs from 'soaring') about (optional) characteristics and actions.
 > Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest*"
-
-> Quantity of → Subject → Characteristics → Action → Setting
 
 <br>
 
 #### [Style]
-To create the most expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities:
-* Define **genre**:
-  * Impressionist, Surrealism, Anime, Cubism, Vaporwave, Gothic, Photorealism, Abstract, Steampunk, Futurism, etc.
-* Specify **medium**:
-  * Watercolor, Oil Paint, Digital, Pencil, Photography, Mosaic, Graffiti, CGI, Glassblowing, Etching, Sculpture, etc.
-* Include **techniques**:
-  * Bird's eye view, Chiaroscuro, Pointillism, Double Exposure, Rule of Thirds, Forced Perspective, Long Exposure, Vignette, etc.
+> #### *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Mood → Theme → Culture*
+
+To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities (all optional):
 * Note **influential artists or periods**:
   * Monet, Picasso, Da Vinci, Banksy, Warhol, Dali, Rembrandt, Klimt, Renaissance, Baroque, Romanticism, Victorian, etc.
-* Describe **desired color**:
+* Define **genre**:
+  * Impressionist, Surrealism, Anime, Cubism, Vaporwave, Gothic, Photorealism, Abstract, Steampunk, Futurism, etc.
+* Include **techniques**:
+  * Bird's eye view, Chiaroscuro, Pointillism, Double Exposure, Rule of Thirds, Forced Perspective, Long Exposure, Vignette, etc.
+* Describe **color**:
   * Hues of green and blue, Monochromatic, Earth tones, Vibrant neon, Primary colors, Warm or Cool, Black and White, Sepia, etc.
 * Indicate **lighting**:
   * Morning, Golden Hour, Nighttime, Candle-lit, Backlit, Silhouette, Neon lights, Harsh shadows, Soft diffused, Underwater, etc.
-* Mention the **culture**:
-  * Romantic Period, Industrial Revolution, Middle Ages, Ancient Egypt, Edo Japan, Victorian, Cybernetic dystopia, Wild West, etc.
-* Add **nuanced adjectives** to depict mood:
+* Specify **medium**:
+  * Watercolor, Oil Paint, Digital, Pencil, Photography, Mosaic, Graffiti, CGI, Glassblowing, Etching, Sculpture, etc.
+* Add nuanced adjectives to depict **mood**:
   * Tranquility, Joy, Melancholy, Mystery, Tension, Elation, Surreal, Dreamy, Majestic, Whimsical, Serene, Haunting, Vibrant, etc.
 * Incorporate **theme**:
   * Harmonious, Love, Adventure, Discovery, Conflict, Transformation, Triumph, Journey, Nature, Urban, Dreams, Time, Change, etc.
+* Mention the **culture**:
+  * Romantic Period, Industrial Revolution, Middle Ages, Ancient Egypt, Edo Japan, Victorian, Cybernetic dystopia, Wild West, etc.
 
 > Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious.*"
-
-> "in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Culture → Mood → Theme
 
 <br>
 
 #### [Specifications]
+* Add tags or jargon: These can be hashtags or any specific terms you'd like to associate with your image.
+* Specify visual elements: Define any negative spaces or subthemes you want the AI to consider.
+* Mention series: If your image is part of a series or a collection, indicate that here.
+* State the purpose: What is the intended use or message of your image?
+* Choose equipment: Name the specific camera, lens, or software you want the AI to emulate.
+* Specify **equipment** for high realism (camera, lens), or software you want to emulate:
+  * EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
+* Determine quality: Specify the resolution, for instance, UHD, 8K.
 
+##### Parameters
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
 - "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
 - "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
@@ -94,20 +102,13 @@ To create the most expressive imagery, infuse your prompts with personality and 
 > 
 <!--
 
-Does EOS 5D belong in specifications?
-* Specify **technology** for high realism:
-  * EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
 
 
 You're correct in focusing on the examples to get the most accurate pattern. Looking at your examples and the pattern you've identified, it seems that the [Style] and [Specifications] categories are more flexible and the elements can interchange depending on the specific prompt.
 
-Keeping that in mind, here's an adaptable pattern that allows for variations:
 
-[Subject]: Quantity → Subject → Characteristics → Action → Setting
 
-This pattern seems to stay relatively consistent across your examples.
 
-[Style]: "in the style of" → Influences/Genre → Techniques → Hues → Medium → Mood → Theme → Lighting → Technology → Heritage
 
 In the [Style] category, it's more common to see the Influences/Genre right after "in the style of". Techniques, Hues, Medium, Mood, and Theme often follow. Lighting, Technology, and Heritage can be present but are less consistent in the examples provided.
 
@@ -123,39 +124,19 @@ In the [Specifications] section, Tags and Visual Elements usually appear first, 
 
 
 [Specifications]
-Add tags or jargon: These can be hashtags or any specific terms you'd like to associate with your image.
-Specify visual elements: Define any negative spaces or subthemes you want the AI to consider.
-Mention series: If your image is part of a series or a collection, indicate that here.
-State the purpose: What is the intended use or message of your image?
-Choose equipment: Name the specific camera, lens, or software you want the AI to emulate.
-Determine quality: Specify the resolution, for instance, UHD, 8K.
 
-Additional parameters include:
 
-:: - Allows for distinction of image components and their weighting. Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1". 'Elephants' are twice as emphasized as the 'sunset'.
---no - Excludes defined elements.
---s - Adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization.
---niji 5 - Produces anime aesthetic, and illustrative styles can be added with "--niji 5 --style (cute, expressive, original, scenic)".
---style raw - Creates photorealistic images in traditional mode.
---ar - Dictates the width-to-height aspect ratio.
---q - Regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images.
---chaos and --weird - Create unpredictable, abstract, distorted results.
+
+
 
 Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"
 
 
 
 
-
-
-
+-->
 
 <br>
-
-
-- 
-
--->
 
 #### Prompt Examples
 * Waves spraying off the sandy shore, in the style of turquoise and azure, photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, mediterranean landscapes, photorealistic detail --ar 2:1 --no people
