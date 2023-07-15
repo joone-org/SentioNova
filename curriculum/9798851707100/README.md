@@ -40,9 +40,9 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 Though none of the following are mandatory, elements should be ordered as follows: 
 > [**subject**]:  *Quantity of → Subject → Characteristics → Action → Setting → "in the style of" →*
 
-> [**style**]:  *Artistic Style / Medium → Artistic Elements / Techniques → Influences (Artists, Artworks, or Movements) → Color Palette → Time of Day / Lighting → Cultural Influences → Technology → Mood → Theme →*
+> [**style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
 
-> [**specifications**]:  *Hashtags, Negative Spaces, Series / Collection, Intended Usage, Materials Used, Art-related Terms, Secondary Subjects, etc. → Image Quality / Resolution → --Parameters*
+> [**specifications**]:  *Hashtags, Negative Spaces, Series, Purpose, Jargon, Subthemes, etc. → Resolution → --Parameters*
 
 <br>
 
