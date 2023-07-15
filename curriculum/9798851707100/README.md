@@ -105,7 +105,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 <br>
 
-#### Prompt Examples
+#### [Examples]
 * Waves spraying off the sandy shore, in the style of turquoise and azure, photorealistic accuracy, vibrant coloration, light turquoise and light white, saturated pigment pools, mediterranean landscapes, photorealistic detail --ar 2:1 --no people
 * A lone traveler, weathered cloak, standing at the crossroads in an endless desert, in the style of Romanticism, oil paint, chiaroscuro technique, influenced by Caspar David Friedrich, hues of warm sunset, twilight lighting, embodying a mood of introspection and hope. --s 100 --ar 16:9
 * Hogwarts Castle, towering, surrounded by the Black Lake, in the style of Romanticism, watercolor, hues of twilight blues and purples, under a starry sky, evoking a mood of magic and wonder. --s 100 --ar 16:9
