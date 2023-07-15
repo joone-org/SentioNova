@@ -42,7 +42,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 > [**Style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
 
-> [**Specifications**]:  *Hashtags, Negative Spaces, Series, Purpose, Jargon, Subthemes, etc. → Resolution → --Parameters*
+> [**Specifications**]:  *Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K, etc.) → Resolution → --Parameters*
 
 <br>
 
