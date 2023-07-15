@@ -48,7 +48,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 #### Subject and Setting
 Start with a subject positioned within a setting, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk') about characteristics and actions. 
-> Example: "*/imagine a flock of macaws, with wide wingspans, flying over the rainforest*"
+> Example: "*/imagine a flock of macaws, with brightly colored feathers, flying over the rainforest*"
 
 <br>
 
