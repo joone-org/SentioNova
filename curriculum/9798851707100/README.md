@@ -84,9 +84,38 @@ To create the most expressive imagery, infuse your prompts with personality and 
 <br>
 
 #### [Specifications]
+
+<!--
+
+
 : Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters
 
   - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
+
+
+[Specifications]
+Add tags or jargon: These can be hashtags or any specific terms you'd like to associate with your image.
+Specify visual elements: Define any negative spaces or subthemes you want the AI to consider.
+Mention series: If your image is part of a series or a collection, indicate that here.
+State the purpose: What is the intended use or message of your image?
+Choose equipment: Name the specific camera, lens, or software you want the AI to emulate.
+Determine quality: Specify the resolution, for instance, UHD, 8K.
+
+Additional parameters include:
+
+:: - Allows for distinction of image components and their weighting. Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1". 'Elephants' are twice as emphasized as the 'sunset'.
+--no - Excludes defined elements.
+--s - Adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization.
+--niji 5 - Produces anime aesthetic, and illustrative styles can be added with "--niji 5 --style (cute, expressive, original, scenic)".
+--style raw - Creates photorealistic images in traditional mode.
+--ar - Dictates the width-to-height aspect ratio.
+--q - Regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images.
+--chaos and --weird - Create unpredictable, abstract, distorted results.
+
+Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"
+
+-->
+
 
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
 - "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
@@ -96,6 +125,8 @@ To create the most expressive imagery, infuse your prompts with personality and 
 - “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
 - "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
 > Example: "/imagine A herd of colossal African elephants::2 under a breathtaking sunset::1 in the Serengeti. Pointillist style, golden hour lighting, earth tone color scheme, low-angle shot composition. --s 700 --ar 16:9 --no people"*
+
+
 
 <br>
 
