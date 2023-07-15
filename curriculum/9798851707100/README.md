@@ -144,7 +144,7 @@ Example: "/imagine A herd of colossal African elephants::2 under a breathtaking 
 - “*--ar width:height" dictates the width-to-height aspect ratio
 - “*--q*" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
 - "*--chaos*" (0 – 100) and "*--weird*" (0 – 3000) create unpredictabile, abstract, distorted results. "*--chaos*" varies within Midjourney's standard style, while "*--weird*" creates distinctly unconventional images. 
-> Example: "/imagine A flock of macaws, bright feathers::2 flying over the rainforest::1. Impressionist style, watercolor medium, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious. --s 700 --ar 16:9 --no people"*
+> Example: *"/imagine A flock of macaws::2, bright feathers::1 flying over the rainforest. Impressionist style, watercolor medium, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious. --s 700 --ar 16:9 --no people"*
 
 
 
