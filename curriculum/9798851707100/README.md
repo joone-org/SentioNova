@@ -79,15 +79,15 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 #### [Specifications]
 * Include **Tags**:
-  * Use specific keywords, jargon, or hashtags to refine the vision: *#fantasy, #noir, #steampunk, #wildlife, #scifi, #retro, etc.*
+  * Use specific keywords, jargon, or hashtags to refine the vision: *#wildlife, #fantasy, #noir, #steampunk, #scifi, #retro, etc.*
 * Define **Visual Elements**:
-  * Detail visual characteristics to enhance the precision and relevance: *negative space, symmetry, depth of field, etc.*
+  * Detail visual characteristics to enhance the precision and relevance: *depth of field, negative space, symmetry, etc.*
 * Mention **Series**:
-  * Indicate if the image belongs to a collection like: '*seasons collection*', '*famous landmarks series*', '*abstract emotions project*', *etc*.
+  * Indicate if the image belongs to a collection like: '*bird series*', '*seasons collection*', '*abstract emotions project*', *etc*.
 * State **Purpose**:
-  * Specify the image's intent, such as: '*evoking relaxation*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', *etc*.
+  * Specify the image's intent, such as: '*beauty of nature*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', *etc*.
 * Chose **Equipment**:
-  * Specify equipment or software to emulate: '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', '*Photoshop*', *etc*.
+  * Specify equipment or software to emulate: '*Photoshop*', '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', *etc*.
 * Determine **Quality**:
   * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
 * Input **--Parameters**:
@@ -96,21 +96,12 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
   * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
   * “**--style raw**" in traditional mode creates photorealistic images
   * “**--ar width:height**" dictates the width-to-height aspect ratio
-  * “**--q**" (options are: .25, .5, and the default of 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
+  * “**--q**" (options are: .25, .5, 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
   * "**--chaos**" (0 – 100) and "**--weird**" (0 – 3000) create unpredictabile, abstract, distorted results. "**--chaos**" varies within Midjourney's standard style, while "**--weird**" creates distinctly unconventional images.
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: "*/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey, #wildlife, negative space, depth of field, bird series, depicting the beauty of nature, Adobe Photoshop Impressionist Brush Set, 8K --s 50 --ar 2:1"*
-
-<!--
-
-
-
-  - Include additional descriptors (shallow depth of field, vignette, splatter effect) to refine your scene
-
-
--->
+> Example: "*/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey, #wildlife, depth of field, bird series, beauty of nature, Adobe Photoshop Impressionist Brush Set, 8K --s 50 --ar 2:1"*
 
 <br>
 
