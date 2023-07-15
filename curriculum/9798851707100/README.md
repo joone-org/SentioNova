@@ -40,7 +40,7 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 Though none of the following are mandatory, elements should be ordered as follows: 
 > [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting*
 
-> [**Style**]:  *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Mood → Theme → Culture*
+> [**Style**]:  *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
 
 > [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
@@ -54,11 +54,11 @@ Start with a subject positioned within a setting, use collective nouns if needed
 <br>
 
 #### [Style]
-> #### *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Mood → Theme → Culture*
+> #### *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone
 
 To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities (all optional):
 * Note **influential artists or periods**:
-  * Monet, Picasso, Da Vinci, Banksy, Warhol, Dali, Rembrandt, Klimt, Renaissance, Baroque, Romanticism, Victorian, etc.
+  * Monet, Frida Kahlo, Banksy, Yayoi Kusama, Hokusai, Art Nouveau, Byzantine, Harlem Renaissance, Postmodernism, etc.
 * Define **genre**:
   * Impressionist, Surrealism, Anime, Cubism, Vaporwave, Gothic, Photorealism, Abstract, Steampunk, Futurism, etc.
 * Include **techniques**:
@@ -69,14 +69,10 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
   * Morning, Golden Hour, Nighttime, Candle-lit, Backlit, Silhouette, Neon lights, Harsh shadows, Soft diffused, Underwater, etc.
 * Specify **medium**:
   * Watercolor, Oil Paint, Digital, Pencil, Photography, Mosaic, Graffiti, CGI, Glassblowing, Etching, Sculpture, etc.
-* Add nuanced adjectives to depict **mood**:
-  * Tranquility, Joy, Melancholy, Mystery, Tension, Elation, Surreal, Dreamy, Majestic, Whimsical, Serene, Haunting, Vibrant, etc.
-* Incorporate **theme**:
-  * Harmonious, Love, Adventure, Discovery, Conflict, Transformation, Triumph, Journey, Nature, Urban, Dreams, Time, Change, etc.
-* Mention the **culture**:
-  * Romantic Period, Industrial Revolution, Middle Ages, Ancient Egypt, Edo Japan, Victorian, Cybernetic dystopia, Wild West, etc.
+* Set the **tone** (Mood/Theme):
+  * Tranquility, Joy, Melancholy, Mystery, Adventure, Discovery, Conflict, Transformation, Journey, Nature, Urban, Dreams, etc.
 
-> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious.*"
+> Example: "*/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey.*"
 
 <br>
 
