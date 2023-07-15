@@ -56,16 +56,26 @@ Start with a subject positioned within a setting, use collective nouns if needed
 
 #### [Style]
 To create the most expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities:
-* Define genre: Impressionist
-* Specify medium: Watercolor
-* Include techniques: Bird's eye view
-* Note influential artists or periods: Monet
-* Describe desired color: Hues of green and blue
-* Indicate lighting: Morning light
-* Mention the heritage: Romantic Period
-* Specify technology for high realism: EOS 5D
-* Add nuanced adjectives to depict mood: Tranquility
-* Incorporate theme: Harmonious
+* Define **genre**:
+  * Impressionist, Surrealism, Anime, Cubism, Vaporwave, Gothic, Photorealism, Abstract, Steampunk, Futurism, etc.
+* Specify **medium**:
+  * Watercolor, Oil Paint, Digital, Pencil, Photography, Mosaic, Graffiti, CGI, Glassblowing, Etching, Sculpture, etc.
+* Include **techniques**:
+  * Bird's eye view, Chiaroscuro, Pointillism, Double Exposure, Rule of Thirds, Forced Perspective, Long Exposure, Vignette, etc.
+* Note **influential artists or periods**:
+  * Monet, Picasso, Da Vinci, Banksy, Warhol, Dali, Rembrandt, Klimt, Renaissance, Baroque, Romanticism, Victorian, etc.
+* Describe **desired color**:
+  * Hues of green and blue, Monochromatic, Earth tones, Vibrant neon, Primary colors, Warm or Cool, Black and White, Sepia, etc.
+* Indicate **lighting**:
+  * Morning, Golden Hour, Nighttime, Candle-lit, Backlit, Silhouette, Neon lights, Harsh shadows, Soft diffused, Underwater, etc.
+* Mention the **heritage**:
+  * Romantic Period, Industrial Revolution, Middle Ages, Ancient Egypt, Edo Japan, Victorian, Cybernetic dystopia, Wild West, etc.
+* Specify **technology** for high realism:
+  * EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
+* Add **nuanced adjectives** to depict mood:
+  * Tranquility, Joy, Melancholy, Mystery, Tension, Elation, Surreal, Dreamy, Majestic, Whimsical, Serene, Haunting, Vibrant, etc.
+* Incorporate **theme**:
+  * Harmonious, Love, Adventure, Discovery, Conflict, Transformation, Triumph, Journey, Nature, Urban, Dreams, Time, Change, etc.
 
 > Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, EOS 5D, tranquil, harmonious.*"
 
