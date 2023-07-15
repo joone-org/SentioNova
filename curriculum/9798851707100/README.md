@@ -79,19 +79,17 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 #### [Specifications]
 * Include **Tags**:
-  * Use specific keywords, jargon, or hashtags to categorize and refine the vision: *#fantasy, #noir, #steampunk, #wildlife, #scifi, #retro*
+  * Use specific keywords, jargon, or hashtags to refine the vision: *#fantasy, #noir, #steampunk, #wildlife, #scifi, #retro, etc.*
 * Define **Visual Elements**:
-  * Detail specific visual characteristics or elements to enhance the precision and relevance.
+  * Detail visual characteristics to enhance the precision and relevance: *negative space, symmetry, depth of field, etc.*
 * Mention **Series**:
-  * Mention if the image forms part of a larger collection or series for context and consistent themes or styles.
+  * Indicate if the image belongs to a collection like: '*seasons collection*', '*famous landmarks series*, '*abstract emotions project*', etc.
 * State **Purpose**:
-  * Specify the intended purpose or message of the image.
+  * Specify the image's intent, such as: '*evoking relaxation*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', etc.
 * Chose **Equipment**:
-  * Specify desired equipment or software to emulate, to adjust the rendering technique for particular photographic styles or high realism.
+  * Specify equipment or software to emulate: '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', '*Photoshop*', etc.
 * Determine **Quality**:
   * Designate the desired resolution to influence the level of detail and clarity in your image.
-
-Options might include EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
 
 #### --Parameters
 * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
