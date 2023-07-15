@@ -38,11 +38,11 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 <br>
 
 Though none of the following are mandatory, elements should be ordered as follows: 
-> [**subject**]:  *Quantity of → Subject → Characteristics → Action → Setting → "in the style of" →*
+> [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting → "in the style of" →*
 
-> [**style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
+> [**Style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
 
-> [**specifications**]:  *Hashtags, Negative Spaces, Series, Purpose, Jargon, Subthemes, etc. → Resolution → --Parameters*
+> [**Specifications**]:  *Hashtags, Negative Spaces, Series, Purpose, Jargon, Subthemes, etc. → Resolution → --Parameters*
 
 <br>
 
@@ -50,6 +50,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 Start with a subject positioned within a specific environment, use collective nouns if needed ("herd" instead of "3"), and be specific ('sunset' differs from 'dusk'). 
 > *Example: "/imagine Elephant herd at sunset in the Serengeti"*
 
+<br>
 
 #### Style Keywords
 For the most expressive imagery infuse your prompts with personality and emotion. MidJourney's capabilities span infinite artistic possibilities, from 'pointillism' to 'brutalist architecture', 'vaporwave aesthetic' to 'Chiaroscuro', and even specific concepts like 'double exposure', 'neon lights', and 'steampunk elements': 
@@ -62,6 +63,8 @@ For the most expressive imagery infuse your prompts with personality and emotion
   - For high realism, specify camera effects, settings, setup (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
   - Leverage nuanced adjectives (tranquil, breathtaking, etc.) to add mood
 > *Example: "/imagine Elephant herd at sunset in the Serengeti, in the style of Impressionist art, grandiose landscapes, under a sky richly colored in hues of orange and gold."*
+
+<br>
 
 #### Parameters
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
