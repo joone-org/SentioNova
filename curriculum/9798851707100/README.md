@@ -42,7 +42,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 > [**Style**]:  *Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme →*
 
-> [**Specifications**]:  *Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters*
+> [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality  → --Parameters*
 
 <br>
 
@@ -67,6 +67,8 @@ For the most expressive imagery infuse your prompts with personality and emotion
 <br>
 
 #### Parameters
+[Specifications]: Tags (Hashtags, Jargon) → Visual Elements (Negative Spaces, Subthemes) → Series → Purpose → Equipment (Camera, Lens, Software) → Quality (Resolution, UHD, 8K) --Parameters
+
 - "*::*" allows for distinction of image components and their weighting. In the example *"/imagine A herd of colossal African elephants::2 under a breathtaking sunset in the Serengeti::1"*, *'elephants'* are twice as emphasized as the *'sunset'*. Using --no will exclude defined elements
 - "*--s*" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
 - "*--niji 5*" produces anime aesthetic, and illustrative styles can be added with "*--niji 5 --style (cute, expressive, original, scenic)*"
