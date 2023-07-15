@@ -68,24 +68,27 @@ To create the most expressive imagery, infuse your prompts with personality and 
   * Hues of green and blue, Monochromatic, Earth tones, Vibrant neon, Primary colors, Warm or Cool, Black and White, Sepia, etc.
 * Indicate **lighting**:
   * Morning, Golden Hour, Nighttime, Candle-lit, Backlit, Silhouette, Neon lights, Harsh shadows, Soft diffused, Underwater, etc.
-* Mention the **heritage**:
+* Mention the **culture**:
   * Romantic Period, Industrial Revolution, Middle Ages, Ancient Egypt, Edo Japan, Victorian, Cybernetic dystopia, Wild West, etc.
-* Specify **technology** for high realism:
-  * EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
 * Add **nuanced adjectives** to depict mood:
   * Tranquility, Joy, Melancholy, Mystery, Tension, Elation, Surreal, Dreamy, Majestic, Whimsical, Serene, Haunting, Vibrant, etc.
 * Incorporate **theme**:
   * Harmonious, Love, Adventure, Discovery, Conflict, Transformation, Triumph, Journey, Nature, Urban, Dreams, Time, Change, etc.
 
-> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, EOS 5D, tranquil, harmonious.*"
+> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, tranquil, harmonious.*"
 
-> "in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme
+> "in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Culture → Mood → Theme
 
 <br>
 
 #### [Specifications]
 
 <!--
+
+Does EOS 5D belong in specifications?
+* Specify **technology** for high realism:
+  * EOS 5D, Nikon D850, Hasselblad X1D II, Drone Camera, Wide-angle lens, Telephoto lens, Macro lens, Fish-eye lens, etc.
+
 
 You're correct in focusing on the examples to get the most accurate pattern. Looking at your examples and the pattern you've identified, it seems that the [Style] and [Specifications] categories are more flexible and the elements can interchange depending on the specific prompt.
 
