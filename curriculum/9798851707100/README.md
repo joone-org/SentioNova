@@ -48,26 +48,26 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 #### [Subject]
 Start with a subject positioned within a setting, use collective nouns if needed ("flock" instead of "3"), and be specific ('flying' differs from 'soaring') about characteristics and actions.
-> Example: "*/imagine a flock of macaws, with brightly colored feathers, flying over the rainforest*"
+> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest*"
 
 > Quantity of → Subject → Characteristics → Action → Setting
 
 <br>
 
 #### [Style]
-To create the most expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities using the following structure:
-* Define the genre (Impressionism, Brutalism, Vaporwave, Chiaroscuro) or specific concepts (Double exposure, Neon lights, Steampunk elements)
-* Specify the medium (Photo, Sand sculpture, Linocut)
-* Include artistic techniques (Low-angle shot, Bird's eye view, Rule of thirds composition)
-* Note influential artists or periods for added context (Cubism, Anime, Film Noir, Banksy graffiti)
-* Describe your desired hues (Monochromatic, Earth tones, Cyberpunk neon)
-* Indicate your desired lighting (Soft ambient, Neon, Candle-lit)
-* Mention the heritage (examples)
-* Specify technology for high realism (Canon EOS 5D Mark IV, 24-70mm lens, f/2.8)
-* Add nuanced adjectives to depict the mood (Tranquil, Breathtaking, etc.)
-* Incorporate the overall theme of the image
+To create the most expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities:
+* Define genre: Impressionist
+* Specify medium: Watercolor
+* Include techniques: Bird's eye view
+* Note influential artists or periods: Monet
+* Describe desired color: Hues of green and blue
+* Indicate lighting: Morning light
+* Mention the heritage: Romantic Period
+* Specify technology for high realism: EOS 5D
+* Add nuanced adjectives to depict mood: Tranquility
+* Incorporate theme: Harmonious
 
-> Example: "*/imagine a flock of macaws, with brightly colored feathers, flying over the rainforest, in the style of Impressionist art, with a watercolor medium, using bird's eye view composition, influenced by Monet, in hues of green and blue, under the soft morning light, reminiscent of the Romantic period, captured with Canon EOS 5D Mark IV, evoking a sense of freedom and tranquility, with a theme of harmony.*"
+> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest, in the style of Impressionist, watercolor, bird's eye view, influenced by Monet, hues of green and blue, morning light, Romantic Period, EOS 5D, tranquil, harmonious.*"
 
 > "in the style of" → Genre → Medium → Techniques → Influences → Hues → Lighting → Heritage → Technology → Mood → Theme
 
