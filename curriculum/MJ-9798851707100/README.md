@@ -1,6 +1,6 @@
 <div align="center">
 
-![image](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/9798851707100/Images/cover.jpg)
+![cover](https://github.com/joone-org/curriculum.joone.org/assets/137654670/ed652ec8-dde4-41cd-b528-148c19c783eb)
 
 This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated. Shared under an open license by [Joone](https://github.com/joone-org/curriculum.joone.org/wiki/Beginning-Midjourney), you're free to use and distribute.
 
