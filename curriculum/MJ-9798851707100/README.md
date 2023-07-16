@@ -207,7 +207,7 @@ Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As 
 
 **TIPS AND TRICKS**
 
-- [Midlibrary](https://www.midlibrary.io/) and this [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contain a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other details.
+- [Midlibrary](https://www.midlibrary.io/) and this [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contain a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other details.  We keep an extensive list of prompt examples for model training and review [here](https://github.com/joone-org/curriculum.joone.org/wiki/MidJourney-Prompt-Examples).
 
 - The Pan feature in Midjourney allows for extending the image canvas in a chosen direction without altering the original image content. It's useful for expanding the scene or adding content in a specific direction. However, once a pan direction is chosen (horizontal or
   vertical), subsequent panning must continue in the same direction. Panning is compatible with the Remix Mode, enabling modifications of the prompt when panning to influence the new content added to the image.
