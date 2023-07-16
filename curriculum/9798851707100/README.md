@@ -122,8 +122,6 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 * _"/imagine a tranquil zen garden, raked sand, rocks and bonsai, reflecting in a still pond, in the style of Japanese Ink Wash Painting, simplicity, earth tones, soft light, ink wash, peace and harmony, #zengarden #Japan, emphasis on balance and minimalism, Tranquil Spaces series, mindfulness and calm, traditional ink, 4K --s 300 --niji 5 --style scenic --ar 4:3"_
 * _"/imagine the complex structure of a neuron, intricate dendrites and axons, against a black background, in the style of Scientific Illustration, high level of detail, cool tones, stark contrast, charcoal drawing, mystery of the mind, #neuron #science, focus on texture and pattern, Science in Art series, intricacy and complexity of life, charcoal pencils, 4K --s 300 --ar 1:1"_
 
-<br>
-
 Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
 <br>
