@@ -141,6 +141,8 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 </tbody>
 </table>
 
+![png11](https://github.com/joone-org/curriculum.joone.org/assets/137515679/734bbd62-8e44-4758-aa00-f04fc8dc2ea1)
+
 ---
 
 <br>Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As a subscriber, you can directly interact with the bot through Discord messages or incorporate it into your own server to use these commands:
@@ -374,5 +376,4 @@ prompt<br>
 ![png14](https://github.com/joone-org/curriculum.joone.org/assets/137515679/54675b2e-e4e3-4b10-86bd-b2e0848f9f93)
 ![png13](https://github.com/joone-org/curriculum.joone.org/assets/137515679/dbcad470-d4fb-430c-b8dc-817e8bbee594)
 ![png12](https://github.com/joone-org/curriculum.joone.org/assets/137515679/2419ea3d-e9de-4599-a2cb-5c977f4f377e)
-![png11](https://github.com/joone-org/curriculum.joone.org/assets/137515679/734bbd62-8e44-4758-aa00-f04fc8dc2ea1)
 ![png10](https://github.com/joone-org/curriculum.joone.org/assets/137515679/d4f6b31f-c0db-41cc-9e6a-6fa5d92653e1)
