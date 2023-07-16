@@ -203,6 +203,10 @@ Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As 
 
 <br>
 
+![png28](https://github.com/joone-org/curriculum.joone.org/assets/137515679/d42c6732-4f3e-4c2b-a705-b8cd6bb6b154)
+
+<br>
+
 **TIPS AND TRICKS**
 
 - [Midlibrary](https://www.midlibrary.io/) and this [Reference Guide](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference/tree/main) contain a variety of styles and keywords for your use, in addition to pages showing resolution comparisons, image weights, and other details.
@@ -363,7 +367,6 @@ prompt<br>
 ![png31](https://github.com/joone-org/curriculum.joone.org/assets/137515679/91fc22be-bbdd-4884-9d89-49e6f447f528)
 ![png30](https://github.com/joone-org/curriculum.joone.org/assets/137515679/d0f7720f-9cdd-48be-a31a-4d11e2448daa)
 ![png29](https://github.com/joone-org/curriculum.joone.org/assets/137515679/35eb45e5-04e7-4c69-a249-83810c214bf8)
-![png28](https://github.com/joone-org/curriculum.joone.org/assets/137515679/d42c6732-4f3e-4c2b-a705-b8cd6bb6b154)
 ![png27](https://github.com/joone-org/curriculum.joone.org/assets/137515679/b5a574f2-acb4-44d8-b33a-76924d419edf)
 ![png26](https://github.com/joone-org/curriculum.joone.org/assets/137515679/95133444-e6c4-41e3-baa6-5706aaf9155e)
 ![png25](https://github.com/joone-org/curriculum.joone.org/assets/137515679/51140a29-ec8c-47a6-8868-67a6b922705d)
