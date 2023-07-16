@@ -145,7 +145,7 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 
 ---
 
-<br>Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As a subscriber, you can directly interact with the bot through Discord messages or incorporate it into your own server to use these commands:
+Join [MidJourney’s Discord](https://discord.gg/midjourney) to get started. As a subscriber, you can directly interact with the bot through Discord messages or incorporate it into your own server to use these commands:
 
 - */imagine* generates low-resolution image grids from your prompts, with options to create variations, upscale, or repeat actions. Use images as prompts by adding a direct image URL *(.png, .jpg, .jpeg, .gif, .webp*) at the beginning of your prompt. Adjust the impact of an image on the final output using the *--iw (image weight)* parameter. Values range from 0 to 2, with 1 as the default, and higher values increase the image's influence.
 
@@ -168,6 +168,10 @@ Remember MidJourney supports up to 60 words but as prompt length increases, each
 - */stealth* disables /public by hiding your generated images on midjourney.com
 
 - */subscribe* to the four subscription plans: Basic, Standard, Pro, Mega
+
+<br>
+
+![png23](https://github.com/joone-org/curriculum.joone.org/assets/137515679/4bd81a24-ba43-4543-a400-a2f92d2d6393)
 
 <br>
 
@@ -364,7 +368,6 @@ prompt<br>
 ![png26](https://github.com/joone-org/curriculum.joone.org/assets/137515679/95133444-e6c4-41e3-baa6-5706aaf9155e)
 ![png25](https://github.com/joone-org/curriculum.joone.org/assets/137515679/51140a29-ec8c-47a6-8868-67a6b922705d)
 ![png24](https://github.com/joone-org/curriculum.joone.org/assets/137515679/5d235bac-98ed-4167-9e45-49bc39519b70)
-![png23](https://github.com/joone-org/curriculum.joone.org/assets/137515679/4bd81a24-ba43-4543-a400-a2f92d2d6393)
 ![png22](https://github.com/joone-org/curriculum.joone.org/assets/137515679/a53e5f23-8fdf-4594-acb3-281122de81bf)
 ![png21](https://github.com/joone-org/curriculum.joone.org/assets/137515679/0022579e-f48c-4db5-8af5-978be13652f8)
 ![png20](https://github.com/joone-org/curriculum.joone.org/assets/137515679/b5a03b9b-95c7-4eff-a99a-acecd654e491)
