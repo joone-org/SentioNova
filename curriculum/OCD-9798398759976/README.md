@@ -1,11 +1,13 @@
-**Lyra\'s Journey with OCD**
+This is a work in progress, and we welcome your suggestions and contributions in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br><br>
+
+---
+
+
+# Lyra\'s Journey with OCD 
 
 Joone 501(c)(3)
-
 © CC BY-NC-ND
 
-**Book Cover Image via** [[JIJ : Art
-Styles]{.underline}](https://docs.google.com/document/d/1Je5vJ0EzTh8rpKNNfxygU08I-Kp321YFJrqnGoqdYC8/edit?usp=sharing)**:**
 
 The cover could feature Lyra standing bravely in the center, with Lumena
 and Aeden on one side, and Gale on the other. Lyra could be holding the
