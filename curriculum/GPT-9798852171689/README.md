@@ -1,6 +1,13 @@
-##### 
+This is a work in progress, and we welcome you suggestions and contributions in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
 
-**[\* INSERT IMAGE \*]{.mark}**
+---
+
+# Discourse with ChatGPT
+### Prompt Engineering and Large Language Models
+
+#### Written with ChatGPT-4, Illustrated with Midjourney, Curated by Joone
+
+---
 
 Text and Illustration Copyright © 2023 by Joone 501(c)(3)
 
