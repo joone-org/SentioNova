@@ -1,4 +1,4 @@
-We develop free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). Our content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system).  
+[Joone](https://joone.org/) develops free, open-source K-12 curricula that seamlessly combines [core academics](https://github.com/joone-org/curriculum.joone.org/wiki/California-Graduation-Requirements) with [career and technical education paths](https://github.com/joone-org/curriculum.joone.org/wiki/Career-Technical-Education-(CTE)-Pathways). Our content is hosted on [GitHub](https://github.com/joone-org/intro-to-github), written in [markdown](https://github.com/joone-org/intro-to-markdown), and designed for integration with your [Learning Management System](https://en.wikipedia.org/wiki/Learning_management_system).  
 
 * 🎨 [Beginning Midjourney](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/MJ-9798851707100)<br>
 * 💰 [CoinWar](https://github.com/joone-org/coinwar)<br>
@@ -7,7 +7,7 @@ We develop free, open-source K-12 curricula that seamlessly combines [core acade
 * ⚙️  [Prompt Engineering with ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/GPT-9798852171689)<br>
 * 🌟 [Unseen Heroes](https://chat.openai.com/share/b2b77b92-bee9-4062-8e53-8a3120781f81)<br>
 
-You're encouraged to review and contribute to our work in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br>
+You're encouraged to review and contribute to our work in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br><br>
 
 ![ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/df1e49ea-0202-43fd-9c33-a7534594b515)
 
