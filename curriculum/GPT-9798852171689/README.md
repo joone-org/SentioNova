@@ -1,4 +1,4 @@
-This is a work in progress, and we welcome you suggestions and contributions in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).
+This is a work in progress, and we welcome your suggestions and contributions in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br><br>
 
 ---
 
