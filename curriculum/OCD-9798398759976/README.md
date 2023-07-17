@@ -2,43 +2,7 @@ This is a work in progress, and we welcome your suggestions and contributions in
 
 ---
 
-
-# Lyra\'s Journey with OCD 
-
-Joone 501(c)(3)
-© CC BY-NC-ND
-
-
-The cover could feature Lyra standing bravely in the center, with Lumena
-and Aeden on one side, and Gale on the other. Lyra could be holding the
-magical glowing map. Lumena and Aeden could be shown supporting Lyra,
-while Gale is depicted as a bit smaller and less intimidating. The
-background could be a whimsical landscape with elements from the story,
-like the castle, the treehouse, and the mysterious forest. The colors
-could be bright and cheerful.
-
-Prompt ([refine]{.mark}):\
-cartoon, young girl, chestnut brown hair, large expressive blue eyes,
-Standing in a whimsical magical wonderland, panoramic golden ratio
-landscape, rolling hills, vibrant lush blooming meadow, flowing river,
-cascading waterfall, flourishing flora and fauna, serene haven,
-watercolor texture, mix of realism and impressionism, hand-drawn style,
-enchanting, dynamic color palette, gentle breeze, fluid motion, depth of
-field, sub-surface scattering, enhanced sharpness, magical illumination,
-ethereal ambiance, harmonious colors, inviting warmth, young girl in
-vibrant colorful dress, exploring nature, under tall, lush tree in a
-park, sunny day, ample shade, joy, curiosity, engaging with natural
-world, vivid hues, dynamic ambient lighting, imaginative, magical
-atmosphere, storybook illustration, enhanced colors, soft painterly
-touch, intricate details, enchanting environment, high contrast,
-captivating visual storytelling, depth and richness, immersive
-experience, ethereal glow, wisps of fantasy, otherworldly charm, flora
-and fauna harmony, captivating composition, rich textures, whimsical
-elements, tangible emotions, lush foliage, enchanting color palette,
-masterful techniques, ultra-high resolution, influenced by Leonid
-Afremov and Claude Monet \--ar 35:18 \--style cute
-
-![](media/image1.png){width="6.5in" height="3.0972222222222223in"}
+# Lyra's Journey with OCD 
 
 Text and Illustration Copyright © 2023 by Joone 501(c)(3)
 
@@ -83,6 +47,8 @@ succeed. Together, we can make a difference in the lives of millions of
 children. Thank you in advance for your support!
 
 For more information please visit https://joone.org.
+
+---
 
 **Introduction**
 
