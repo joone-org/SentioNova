@@ -109,7 +109,8 @@ These should only be added when necessary, and are individually optional:
 <br>
 
 #### [Examples]
-* _/imagine  an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --ar 16:9 --s 1000_
+* _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --s 1000_
+* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --ar 1:2_
 
 <!--
 
