@@ -50,7 +50,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 Start with a subject positioned within a setting, use collective nouns if needed ("*flock*" instead of "*3*"), and be specific ('*flying*' differs from '*soaring*') about (optional) characteristics and actions.
 > *Quantity of → Subject → Characteristics → Action → Setting*
  
-> Example: "*/imagine a flock of macaws, bright feathers, flying over rainforest*"
+> Example: "*/imagine a flock of macaws flying over a rainforest*"
 
 <br>
 
@@ -73,7 +73,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 > *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
 
-> Example: "*/imagine a flock of macaws, bright feathers, flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey*"
+> Example: "*/imagine a flock of macaws flying over a rainforest, in the style of Impressionism*"
 
 <br>
 
@@ -102,7 +102,7 @@ These should only be added when necessary, and are individually optional:
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: "*/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest, in the style of Monet's Impressionism, bird's eye view, hues of green and blue, morning light, watercolor, harmonious journey, #wildlife, depth of field, bird series, beauty of nature, Adobe Photoshop Impressionist Brush Set, 8K --s 50 --ar 2:1"*
+> Example: "*/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1"*
 
 <br>
 
