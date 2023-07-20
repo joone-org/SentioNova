@@ -88,29 +88,31 @@ These should only be added when necessary, and are individually optional:
 * State **Purpose**:
   * Specify the image's intent, such as: '*beauty of nature*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', *etc*.
 * Chose **Equipment**:
-  * Specify equipment or software to emulate: '*Photoshop*', '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', *etc*.
+  * Specify equipment or software to emulate: '*Illustrator*', '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', *etc*.
 * Determine **Quality**:
   * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
 * Input **--Parameters**:
   * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
-  * "**--s**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
+  * "**--stylize**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
   * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
   * “**--style raw**" in traditional mode creates photorealistic images
-  * “**--ar width:height**" dictates the width-to-height aspect ratio
+  * “**--aspect width:height**" dictates the width-to-height aspect ratio
   * “**--q**" (options are: .25, .5, 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
-  * "**--chaos**" (0 – 100) and "**--weird**" (0 – 3000) create unpredictabile, abstract, distorted results. "**--chaos**" varies within Midjourney's standard style, while "**--weird**" creates distinctly unconventional images.
+  * "**--chaos**" (0 – 100) creates unpredictabile, abstract, distorted results within Midjourney's standard style
+  * "**--weird**" (0 – 3000) creates distinctly unconventional images
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
 > Example: _**--ar 2:1**_
 
-> Completed Example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1_**
+> Completed Example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --aspect 2:1_**
 
 <br>
 
 #### [Examples]
-* _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --s 1000_
-* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --ar 1:2_
+* _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --stylize 1000_
+* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --aspect 1:2_
+* _/imagine a dense forest of bioluminescent plants, glowing in a myriad of neon colors against the inky black night, in the style of surrealism, radiating a sense of wonder and mystery --weird 1000*
 
 <!--
 
