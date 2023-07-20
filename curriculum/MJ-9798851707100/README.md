@@ -97,7 +97,7 @@ These should only be added when necessary, and are individually optional:
   * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
   * “**--style raw**" in traditional mode creates photorealistic images
   * “**--aspect width:height**" dictates the width-to-height aspect ratio
-  * “**--q**" (options are: .25, .5, 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
+  * “**--quality**" (options are: .25, .5, 1) regulates the level of detail in the rendering with lower values producing less detailed, painterly, abstract images
   * "**--chaos**" (0 – 100) creates unpredictabile, abstract, distorted results within Midjourney's standard style
   * "**--weird**" (0 – 3000) creates distinctly unconventional images
 
@@ -111,8 +111,11 @@ These should only be added when necessary, and are individually optional:
 
 #### [Examples]
 * _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --stylize 1000_
-* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --aspect 1:2_
-* _/imagine a dense forest of bioluminescent plants, glowing in a myriad of neon colors against the inky black night, in the style of surrealism, radiating a sense of wonder and mystery --weird 1000*
+* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --style raw --aspect 1:2_
+* _/imagine a dense forest of bioluminescent plants, glowing in a myriad of neon colors against the inky black night, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
+* _/imagine a small fluffy kitten playing with a ball of yarn in a sunny garden, filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
+* _/imagine an expansive, sunlit valley dotted with wildflowers, surrounded by majestic snow-capped mountains, as seen from a bird's-eye view, capturing the grandeur of nature in the style of a drone photograph --aspect 16:9_
+* _/imagine a group of dancers, their movements merging into a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
 
 <!--
 
