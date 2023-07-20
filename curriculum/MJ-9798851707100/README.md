@@ -120,7 +120,7 @@ These should only be added when necessary, and are individually optional:
 * _/imagine a sunken cityscape with walls adorned in vibrant graffiti, in the style of Photorealism infused with Graffiti art, soft and dappled sunlight filtering through the water_
 * _/imagine an expansive valley dotted with wildflowers, in the style of bird's-eye view, capturing the grandeur of nature, drone photograph --aspect 16:9_
 * _/imagine a group of dancers in a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
-* _/imagine a lone tree standing against a stark and snowy landscape under the icy blue winter sky, in the style of Minimalism, UHD --s 50_
+* _/imagine a lone tree standing against a stark and snowy landscape under the icy blue winter sky, in the style of Minimalism, UHD --stylize 50_
 
 <!--
 
