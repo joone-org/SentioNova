@@ -119,7 +119,6 @@ These should only be added when necessary, and are individually optional:
 * _/imagine a dense forest of bioluminescent plants, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
 * _/imagine a small fluffy kitten playing in a garden filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
 * _/imagine a sunken cityscape with walls adorned in vibrant graffiti, in the style of Photorealism infused with Graffiti art, soft and dappled sunlight filtering through the water_
-* _/imagine a pack of wolves::3 howling in a forest under a full moon::2, in the style of Cubism, #wildlife 'Wildlife Chronicles series'
 * _/imagine an expansive valley dotted with wildflowers, in the style of bird's-eye view, capturing the grandeur of nature, drone photograph --aspect 16:9_
 * _/imagine a group of dancers in a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, energy and rhythm of dance --quality .25_
 * _/imagine a lone tree standing against a stark and snowy landscape under the icy blue winter sky, in the style of Minimalism, UHD --stylize 50_
@@ -144,7 +143,7 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples?  If you are please reply with, "What image would you like to create?".
+Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples?  If you are please reply with, "What image would you like to create?"
 
 <br>
 
