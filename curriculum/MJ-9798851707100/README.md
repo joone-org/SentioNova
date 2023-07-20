@@ -110,14 +110,17 @@ These should only be added when necessary, and are individually optional:
 <br>
 
 #### [Examples]
-* _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --stylize 1000_
-* _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --style raw --aspect 1:2_
-* _/imagine an old, rusty robot being restored into a gleaming, futuristic android, in the middle of a mechanic's workshop, in the style of Steampunk with rich metallic hues, stark contrasts, and a tone of transformation_
-* _/imagine a dense forest of bioluminescent plants, glowing in a myriad of neon colors against the inky black night, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
-* _/imagine a small fluffy kitten playing with a ball of yarn in a sunny garden, filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
-* _/imagine an expansive, sunlit valley dotted with wildflowers, surrounded by majestic snow-capped mountains, as seen from a bird's-eye view, capturing the grandeur of nature in the style of a drone photograph --aspect 16:9_
-* _/imagine a group of dancers, their movements merging into a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
-* _/imagine a lone tree standing against a stark, snowy landscape, under the icy blue winter sky, in the style of Minimalism, UHD --s 50_
+> *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
+
+* _/imagine an ancient city, in the style of Baroque, dramatic contrasts of light and shadow, detailed oil textures, glow of twilight, melancholy --stylize 1000_
+* _/imagine an alien face, in the style of Chiaroscuro, half-illuminated and half-enshrouded in shadow, monochromatic palette, Sony A7R V --style raw --aspect 1:2_
+* _/imagine a rusty robot in a mechanic's workshop, in the style of Steampunk with rich metallic hues, stark contrasts, tone of transformation_
+* _/imagine a dense forest of bioluminescent plants, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
+* _/imagine a small fluffy kitten playing in a garden filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
+* _/imagine a sunken cityscape with walls adorned in vibrant graffiti, in the style of Photorealism infused with Graffiti art, soft and dappled sunlight filtering through the water_
+* _/imagine an expansive valley dotted with wildflowers, in the style of bird's-eye view, capturing the grandeur of nature, drone photograph --aspect 16:9_
+* _/imagine a group of dancers in a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
+* _/imagine a lone tree standing against a stark and snowy landscape under the icy blue winter sky, in the style of Minimalism, UHD --s 50_
 
 <!--
 
