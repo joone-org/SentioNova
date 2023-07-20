@@ -55,7 +55,7 @@ Start with a subject positioned within a setting, use collective nouns if needed
 <br>
 
 #### [Style]
-To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities.  These should only be added when necessary, and are optional:
+To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities.  These should only be added when necessary, and are individually optional:
 * Note **influential artists or periods**:
   * *Monet, Frida Kahlo, Banksy, Yayoi Kusama, Hokusai, Art Nouveau, Byzantine, Harlem Renaissance, Postmodernism, etc.*
 * Define **genre**:
@@ -78,7 +78,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 <br>
 
 #### [Specifications]
-These should only be added when necessary, and are optional:
+These should only be added when necessary, and are individually optional:
 * Include **Tags**:
   * Use specific keywords, jargon, or hashtags to refine the vision: *#wildlife, #fantasy, #noir, #steampunk, #scifi, #retro, etc.*
 * Define **Visual Elements**:
@@ -106,6 +106,8 @@ These should only be added when necessary, and are optional:
 
 <br>
 
+<!--
+
 #### [Examples]
 * _"/imagine an ancient city, stone-carved structures, nestled within a rocky gorge, in the style of Nabatean Art, soft lines, desert hues, late afternoon, pencil sketch, lost civilization, #Petra #Jordan, texture of stone, World Heritage Sites series, historic preservation, charcoal and graphite pencils, 2K --s 200 --ar 3:2"_
 * _"/imagine the Aurora Borealis, colorful lights, dancing across a star-studded polar sky, in the style of Expressionism, fluid lines, cool hues, night sky, digital painting, ethereal spectacle, #aurora #northernlights, emphasis on light movements, Natural Phenomena series, beauty of the universe, Adobe Photoshop, IMAX --s 400 --ar 16:9"_
@@ -123,7 +125,9 @@ These should only be added when necessary, and are optional:
 * _"/imagine a tranquil zen garden, raked sand, rocks and bonsai, reflecting in a still pond, in the style of Japanese Ink Wash Painting, simplicity, earth tones, soft light, ink wash, peace and harmony, #zengarden #Japan, emphasis on balance and minimalism, Tranquil Spaces series, mindfulness and calm, traditional ink, 4K --s 300 --niji 5 --style scenic --ar 4:3"_
 * _"/imagine the complex structure of a neuron, intricate dendrites and axons, against a black background, in the style of Scientific Illustration, high level of detail, cool tones, stark contrast, charcoal drawing, mystery of the mind, #neuron #science, focus on texture and pattern, Science in Art series, intricacy and complexity of life, charcoal pencils, 4K --s 300 --ar 1:1"_
 
-Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases, and short, clear, sequential prompts yield optimal results. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
+-->
+
+Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases. Concise, clear, sequential prompts yield optimal results and use of style, specifications, and parameters should be done sparingly.  If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
 <br>
 
