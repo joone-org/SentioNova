@@ -104,7 +104,7 @@ These should only be added when necessary, and are individually optional:
 
 > Example: _**--ar 2:1**_
 
-> Completed example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1_**
+> Completed Example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1_**
 
 <br>
 
@@ -131,7 +131,7 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-Remember MidJourney supports up to 60 words but as prompt length increases, each word's impact decreases. Concise, clear, sequential prompts yield optimal results and use of style, specifications, and parameters should be done sparingly.  If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
+Midjourney supports up to 60 words per prompt, but remember that each word's impact decreases as the length increases. While you don't need to include every style, specification, or parameter option, using them sparingly can better guide Midjourney in generating the image you're envisioning. For optimal results, aim to be concise, clear, and specific in your descriptions, crafting well-sequenced, focused prompts. If you are ready to start creating image prompts, respond with "What image would you like to create?" and nothing else.
 
 <br>
 
