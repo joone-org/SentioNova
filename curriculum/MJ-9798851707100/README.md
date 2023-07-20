@@ -55,7 +55,7 @@ Start with a subject positioned within a setting, use collective nouns if needed
 <br>
 
 #### [Style]
-To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities (all optional):
+To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities.  These should only be added when necessary, and are optional:
 * Note **influential artists or periods**:
   * *Monet, Frida Kahlo, Banksy, Yayoi Kusama, Hokusai, Art Nouveau, Byzantine, Harlem Renaissance, Postmodernism, etc.*
 * Define **genre**:
@@ -78,6 +78,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 <br>
 
 #### [Specifications]
+These should only be added when necessary, and are optional:
 * Include **Tags**:
   * Use specific keywords, jargon, or hashtags to refine the vision: *#wildlife, #fantasy, #noir, #steampunk, #scifi, #retro, etc.*
 * Define **Visual Elements**:
