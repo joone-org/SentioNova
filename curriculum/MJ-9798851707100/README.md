@@ -50,7 +50,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 Start with a subject positioned within a setting, use collective nouns if needed ("*flock*" instead of "*3*"), and be specific ('*flying*' differs from '*soaring*') about (optional) characteristics and actions.
 > *Quantity of → Subject → Characteristics → Action → Setting*
  
-> Example: "*/imagine a flock of macaws flying over a rainforest*"
+> Example: */imagine a flock of macaws flying over a rainforest*
 
 <br>
 
@@ -73,7 +73,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 > *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
 
-> Example: "*/imagine a flock of macaws flying over a rainforest, in the style of Impressionism*"
+> Example: */imagine a flock of macaws flying over a rainforest, in the style of Impressionism*
 
 <br>
 
@@ -102,14 +102,15 @@ These should only be added when necessary, and are individually optional:
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: "*/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1"*
+> Example: */imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1*
 
 <br>
 
+#### [Examples]
+* _/imagine  an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --ar 16:9 --s 1000_
+
 <!--
 
-#### [Examples]
-* _"/imagine an ancient city, stone-carved structures, nestled within a rocky gorge, in the style of Nabatean Art, soft lines, desert hues, late afternoon, pencil sketch, lost civilization, #Petra #Jordan, texture of stone, World Heritage Sites series, historic preservation, charcoal and graphite pencils, 2K --s 200 --ar 3:2"_
 * _"/imagine the Aurora Borealis, colorful lights, dancing across a star-studded polar sky, in the style of Expressionism, fluid lines, cool hues, night sky, digital painting, ethereal spectacle, #aurora #northernlights, emphasis on light movements, Natural Phenomena series, beauty of the universe, Adobe Photoshop, IMAX --s 400 --ar 16:9"_
 * _"/imagine Elton John, flamboyant glasses, playing a grand piano on a glittering stage, in the style of Glam Rock Art, fantastical elements, vibrant hues, spotlight, digital painting, extravagant showmanship, #EltonJohn #pop, emphasis on costume, modern music icons series, flamboyance and authenticity, Adobe Illustrator, IMAX --s 400 --ar 16:9"_
 * _"/imagine a bustling marketplace in Marrakech, filled with vibrant fabrics and exotic spices, in the style of Fauvism, exaggerated colors, bold patterns, afternoon, oil painting, vibrant diversity, #market #Marrakech, focus on color contrasts, World Cultures series, richness and variety, Fauvist oil paints, 4K --s 300 --ar 2:1"_
