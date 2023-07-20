@@ -42,9 +42,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 > [**Style**]:  *"in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone*
 
-> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality*
-
-> [**--Parameters**]
+> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality > [**Parameters**]
 
 <br>
 
