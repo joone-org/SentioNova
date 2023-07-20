@@ -33,7 +33,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> "*/imagine [**subject**] in the style of [**style**], [**specifications**]*"
+> */imagine [**subject**] in the style of [**style**], [**specifications**]*
 
 <br>
 
