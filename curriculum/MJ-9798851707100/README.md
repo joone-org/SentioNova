@@ -33,7 +33,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> */imagine [**subject**] in the style of [**style**], [**specifications**]*
+> */imagine [**subject**] in the style of [**style**], [**specifications**], [**--Parameters**]*
 
 <br>
 
@@ -42,7 +42,9 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 > [**Style**]:  *"in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone*
 
-> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
+> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality*
+
+> [**--Parameters**]
 
 <br>
 
@@ -91,7 +93,12 @@ These should only be added when necessary, and are individually optional:
   * Specify equipment or software to emulate: '*Illustrator*', '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', *etc*.
 * Determine **Quality**:
   * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
-* Input **--Parameters**:
+
+> *The order of this section should follow:  Tags > Visual Elements > Series > Purpose > Equipment > Quality*
+
+> Example: _**#wildlife**_
+
+#### [--Parameters]
   * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
   * "**--stylize**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
   * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
@@ -101,11 +108,11 @@ These should only be added when necessary, and are individually optional:
   * "**--chaos**" (0 – 100) creates unpredictable, abstract, distorted results within Midjourney's standard style
   * "**--weird**" (0 – 3000) creates distinctly unconventional images
 
-> *The order of this section should follow:  Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
-
 > Example: _**--ar 2:1**_
 
-> Completed Example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --aspect 2:1_**
+> _**Parameters always come at the end of the prompt**_
+
+> Completed Example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism, #wildlife --aspect 2:1_**
 
 <br>
 
