@@ -47,15 +47,15 @@ Though none of the following are mandatory, elements should be ordered as follow
 <br>
 
 #### [Subject]
-Start with a subject positioned within a setting, use collective nouns if needed ("*flock*" instead of "*3*"), and be specific ('*flying*' differs from '*soaring*') about (optional) characteristics and actions.
+Begin by describing the main focus of your image. Include specifics ('*flying*' differs from '*soaring*') about any actions or settings associated with your subject, and use collective nouns if needed ("*flock*" instead of "*3*").
 > *Quantity of → Subject → Characteristics → Action → Setting*
  
-> Example: */imagine a flock of macaws flying over a rainforest*
+> Example: _**a flock of macaws flying over a rainforest**_
 
 <br>
 
 #### [Style]
-To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities.  These should only be added when necessary, and are individually optional:
+Next, describe any specific artistic styles or influences you want the image to reflect.  To create expressive imagery, infuse your prompts with personality and emotion, leveraging infinite artistic possibilities.  These should only be added when necessary, and are individually optional:
 * Note **influential artists or periods**:
   * *Monet, Frida Kahlo, Banksy, Yayoi Kusama, Hokusai, Art Nouveau, Byzantine, Harlem Renaissance, Postmodernism, etc.*
 * Define **genre**:
@@ -73,7 +73,7 @@ To create expressive imagery, infuse your prompts with personality and emotion, 
 
 > *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
 
-> Example: */imagine a flock of macaws flying over a rainforest, in the style of Impressionism*
+> Example: _**in the style of Impressionism**_
 
 <br>
 
@@ -102,7 +102,9 @@ These should only be added when necessary, and are individually optional:
 
 > *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
 
-> Example: */imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1*
+> Example: _**--ar 2:1**_
+
+> Completed example:  **_/imagine a flock of macaws flying over a rainforest, in the style of Impressionism --ar 2:1_**
 
 <br>
 
