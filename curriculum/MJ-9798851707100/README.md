@@ -33,7 +33,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> */imagine [**subject**] in the style of [**style**], [**specifications**], [**--Parameters**]*
+> */imagine [**subject**] in the style of [**style**], [**specifications**], [**Parameters**]*
 
 <br>
 
@@ -98,7 +98,7 @@ These should only be added when necessary, and are individually optional:
 
 > Example: _**#wildlife**_
 
-#### [--Parameters]
+#### [Parameters]
   * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
   * "**--stylize**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
   * "**--niji 5**" produces anime aesthetics, with additional styles available using "**--niji 5 --style (cute, expressive, original, scenic)**"
@@ -117,7 +117,7 @@ These should only be added when necessary, and are individually optional:
 <br>
 
 #### [Examples]
-> *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
+> *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Quality > Parameters*
 
 * _/imagine an ancient city, in the style of Baroque, dramatic contrasts of light and shadow, detailed oil textures, glow of twilight, melancholy --stylize 1000_
 * _imagine Uncle Sam in a tug of war with citizens, in the style of Banksy's street art, vivid colors under harsh streetlights, tone of conflict_
@@ -150,7 +150,7 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples? Please ask me, "What image would you like to create?" and create four varied prompts based on my response, in a numbered list. 
+Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples? Please ask me, "What image would you like to create?" and create 3 widely varied prompts based on my response, in a numbered list, followed by questioning if I would like more examples or to start a new image.
 
 <br>
 
