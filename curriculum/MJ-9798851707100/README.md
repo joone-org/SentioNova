@@ -150,7 +150,7 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples? Please ask me, "What image would you like to create?" and create four varied prompts based on my response, in a numbered list. Following that please work with me to iterate on one of the numbers, by disecting elements of the prompt and providing alternate suggestions for each in a step-by-step way.
+Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. Can you guide me through creating an effective prompt with suitable examples? Please ask me, "What image would you like to create?" and create four varied prompts based on my response, in a numbered list. 
 
 <br>
 
