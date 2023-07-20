@@ -38,17 +38,17 @@ As prompt length increases, each word's impact decreases, so remain concise whil
 <br>
 
 Though none of the following are mandatory, elements should be ordered as follows: 
-> [**Subject**]:  *Quantity of → Subject → Characteristics → Action → Setting*
+> [**Subject**]:  *Quantity of > Subject > Characteristics > Action > Setting*
 
-> [**Style**]:  *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
+> [**Style**]:  *"in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone*
 
-> [**Specifications**]:  *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
+> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
 
 <br>
 
 #### [Subject]
 Begin by describing the main focus of your image. Include specifics ('*flying*' differs from '*soaring*') about any actions or settings associated with your subject, and use collective nouns if needed ("*flock*" instead of "*3*").
-> *Quantity of → Subject → Characteristics → Action → Setting*
+> *The order of this section should follow:  Quantity of > Subject > Characteristics > Action > Setting*
  
 > Example: _**a flock of macaws flying over a rainforest**_
 
@@ -71,7 +71,7 @@ Next, describe any specific artistic styles or influences you want the image to 
 * Set the **tone** (Mood/Theme):
   * *Tranquility, Joy, Melancholy, Mystery, Adventure, Discovery, Conflict, Transformation, Journey, Nature, Urban, Dreams, etc.*
 
-> *"in the style of" → Influences/Genre → Techniques → Color → Lighting → Medium → Tone*
+> *The order of this section should follow:  "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone*
 
 > Example: _**in the style of Impressionism**_
 
@@ -101,7 +101,7 @@ These should only be added when necessary, and are individually optional:
   * "**--chaos**" (0 – 100) creates unpredictabile, abstract, distorted results within Midjourney's standard style
   * "**--weird**" (0 – 3000) creates distinctly unconventional images
 
-> *Tags → Visual Elements → Series → Purpose → Equipment → Quality → --Parameters*
+> *The order of this section should follow:  Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
 
 > Example: _**--ar 2:1**_
 
@@ -112,10 +112,12 @@ These should only be added when necessary, and are individually optional:
 #### [Examples]
 * _/imagine an ancient city, bathed in twilight's glow, nestled between towering mountains and a vast, tranquil sea, in the style of Romanticism with soft watercolor textures, hues of purple and gold, and a hint of melancholy --stylize 1000_
 * _/imagine a woman's face half-illuminated and half-enshrouded in shadow, in the style of Chiaroscuro, stark contrasts, monochromatic palette, Sony A7R V --style raw --aspect 1:2_
+* _/imagine an old, rusty robot being restored into a gleaming, futuristic android, in the middle of a mechanic's workshop, in the style of Steampunk with rich metallic hues, stark contrasts, and a tone of transformation_
 * _/imagine a dense forest of bioluminescent plants, glowing in a myriad of neon colors against the inky black night, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
 * _/imagine a small fluffy kitten playing with a ball of yarn in a sunny garden, filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
 * _/imagine an expansive, sunlit valley dotted with wildflowers, surrounded by majestic snow-capped mountains, as seen from a bird's-eye view, capturing the grandeur of nature in the style of a drone photograph --aspect 16:9_
 * _/imagine a group of dancers, their movements merging into a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
+* _/imagine a lone tree standing against a stark, snowy landscape, under the icy blue winter sky, in the style of Minimalism, UHD --s 50_
 
 <!--
 
