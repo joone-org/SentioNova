@@ -113,14 +113,15 @@ These should only be added when necessary, and are individually optional:
 > *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Quality > --Parameters*
 
 * _/imagine an ancient city, in the style of Baroque, dramatic contrasts of light and shadow, detailed oil textures, glow of twilight, melancholy --stylize 1000_
+* _imagine Uncle Sam in a tug of war with citizens, in the style of Banksy's street art, vivid colors under harsh streetlights, tone of conflict_
 * _/imagine an alien face, in the style of Chiaroscuro, half-illuminated and half-enshrouded in shadow, monochromatic palette, Sony A7R V --style raw --aspect 1:2_
 * _/imagine a rusty robot in a mechanic's workshop, in the style of Steampunk with rich metallic hues, stark contrasts, tone of transformation_
 * _/imagine a dense forest of bioluminescent plants, in the style of surrealism, radiating a sense of wonder and mystery --chaos 50 --weird 1500_
 * _/imagine a small fluffy kitten playing in a garden filled with vibrant flowers, in the style of anime, embodying a sense of joy and playfulness --niji 5 --style cute_
 * _/imagine a sunken cityscape with walls adorned in vibrant graffiti, in the style of Photorealism infused with Graffiti art, soft and dappled sunlight filtering through the water_
-* _/imagine a pack of wolves::3 howling in a forest under a full moon::2, in the style of Cubism, #wildlife 'Wildlife Chronicles series', showcasing beauty and harshness of nature
+* _/imagine a pack of wolves::3 howling in a forest under a full moon::2, in the style of Cubism, #wildlife 'Wildlife Chronicles series'
 * _/imagine an expansive valley dotted with wildflowers, in the style of bird's-eye view, capturing the grandeur of nature, drone photograph --aspect 16:9_
-* _/imagine a group of dancers in a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, emphasizing the energy and rhythm of the dance --quality .25_
+* _/imagine a group of dancers in a whirl of vibrant colors and fluid forms, in the style of Abstract Expressionism, energy and rhythm of dance --quality .25_
 * _/imagine a lone tree standing against a stark and snowy landscape under the icy blue winter sky, in the style of Minimalism, UHD --stylize 50_
 
 <!--
