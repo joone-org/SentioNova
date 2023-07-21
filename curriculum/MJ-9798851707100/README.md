@@ -33,7 +33,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <br>
   
 As prompt length increases, each word's impact decreases, so remain concise while following this format: 
-> */imagine [**subject**] in the style of [**style**], [**specifications**], [**Parameters**]*
+> */imagine [**subject**] in the style of [**style**], [**specifications**], [**parameters**]*
 
 <br>
 
@@ -148,7 +148,7 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters for better results. Aim for clarity and specificity in your prompts for optimal image generation. In a numbered list, create 3 widely varied prompts based on my response after you ask me exactly and only this: "What image would you like to create?"
+ChatGPT, now that you understand Midjourney I need your help creating some prompts for it. Remember that Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters, and aim for clarity and specificity in your prompts. Always follow this pattern and order, above all else: _/imagine [subject] in the style of [style], [specifications], [parameters]_. 
 
 <br>
 
