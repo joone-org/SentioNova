@@ -19,7 +19,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/fba79383-110a-498c-b413-fa5facb87dab">this link</a>, or copy all of the following text and paste it into a new conversation.</p></th>
+<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/a9915366-6980-4b29-93d4-8159b0187081">this link</a> or copy all of the following text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -164,7 +164,7 @@ ChatGPT, now that you understand Midjourney I need your help creating some promp
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/fba79383-110a-498c-b413-fa5facb87dab">this link</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
+<th><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/a9915366-6980-4b29-93d4-8159b0187081">this link</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
