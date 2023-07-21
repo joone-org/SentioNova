@@ -19,7 +19,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/fba79383-110a-498c-b413-fa5facb87dab">this link</a>, or copy all of the following text and paste it into ChatGPT's input. When it responds with the question, provide emoji or a description of the image you want it to generate.</p></th>
+<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/fba79383-110a-498c-b413-fa5facb87dab">this link</a>, or copy all of the following text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -42,7 +42,7 @@ Though none of the following are mandatory, elements should be ordered as follow
 
 > [**Style**]:  *"in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone*
 
-> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Quality > [**Parameters**]
+> [**Specifications**]:  *Tags > Visual Elements > Series > Purpose > Equipment > Resolution > [**Parameters**]
 
 <br>
 
@@ -89,10 +89,10 @@ These should only be added when necessary, and are individually optional:
   * Specify the image's intent, such as: '*beauty of nature*', '*demonstrating innovation*', '*provoking a sense of nostalgia*', *etc*.
 * Chose **Equipment**:
   * Specify equipment or software to emulate: '*Illustrator*', '*Nikon D850*', '*Hasselblad X1D II*', '*Drone camera*', '*Macro lens*', *etc*.
-* Determine **Quality**:
+* Determine **Resolution**:
   * Designate the desired resolution to influence the level of detail and clarity: *QVGA, HD, 2K, UHD, 16K, IMAX, Cinemascope, etc*.
 
-> *The order of this section should follow:  Tags > Visual Elements > Series > Purpose > Equipment > Quality*
+> *The order of this section should follow:  Tags > Visual Elements > Series > Purpose > Equipment > Resolution*
 
 > Example: _**#wildlife**_
 
@@ -115,7 +115,7 @@ These should only be added when necessary, and are individually optional:
 <br>
 
 #### [Examples]
-> *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Quality > Parameters*
+> *Quantity of > Subject > Characteristics > Action > Setting > "in the style of" > Influences/Genre > Techniques > Color > Lighting > Medium > Tone > Tags > Visual Elements > Series > Purpose > Equipment > Resolution > Parameters*
 
 * _/imagine an ancient city, in the style of Baroque, dramatic contrasts of light and shadow, detailed oil textures, glow of twilight, melancholy --stylize 1000_
 * _imagine Uncle Sam in a tug of war with citizens, in the style of Banksy's street art, vivid colors under harsh streetlights, tone of conflict_
@@ -162,7 +162,7 @@ ChatGPT, now that you understand Midjourney I need your help creating some promp
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>To use ChatGPT as a prompt generator, copy all of the previous text and paste it into ChatGPT's input.<br>When it responds with the question, provide a description of the image you want it to generate, or simply insert some emoji.</p></th>
+<th><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/fba79383-110a-498c-b413-fa5facb87dab">this link</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
