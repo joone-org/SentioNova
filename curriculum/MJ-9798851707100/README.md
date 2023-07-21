@@ -148,7 +148,9 @@ These should only be added when necessary, and are individually optional:
 -->
 <br>
 
-ChatGPT, now that you understand Midjourney I need your help creating some prompts for it. Remember that Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters, and aim for clarity and specificity in your prompts. Always follow this pattern and order, above all else: _/imagine [subject] in the style of [style], [specifications], [parameters]_. 
+ChatGPT, now that you understand Midjourney I need your help creating some prompts for it. Remember that Midjourney allows up to 60 words per prompt, but effectiveness diminishes with length. Be selective with styles, specifications, and parameters, and aim for clarity and specificity in your prompts. Always follow this pattern and order, above all else: 
+
+> _/imagine [**subject**] in the style of [**style**], [**specifications**], [**parameters**]_
 
 <br>
 
