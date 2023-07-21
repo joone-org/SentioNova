@@ -96,6 +96,8 @@ These should only be added when necessary, and are individually optional:
 
 > Example: _**#wildlife**_
 
+<br>
+
 #### [Parameters]
   * "**::**" allows for the distinction of image components and their weighting. For instance, in the prompt *"/imagine a flock of macaws::2, bright feathers::1 flying over the rainforest"*, *'macaws'* are twice as emphasized as the *'bright feathers'*. The "**--no**" parameter can be used to exclude defined elements.
   * "**--stylize**" (values can range from 0 through 1000) adjusts Midjourney's artistic style, with lower values for more literal imagery and higher for stronger stylization
