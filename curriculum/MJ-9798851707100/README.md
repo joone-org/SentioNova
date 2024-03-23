@@ -2,14 +2,6 @@
 
 ![cover](https://github.com/joone-org/curriculum.joone.org/assets/137654670/ed652ec8-dde4-41cd-b528-148c19c783eb)
 
-This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience is the teacher of all things, we invite you to scroll down and explore the example prompts and the images generated. Shared under an open license by [Joone](https://joone.org), you're free to use and distribute.
-
-[Amazon Kindle](https://kdp.amazon.com/amazon-dp-action/us/dualbookshelf.marketplacelink/B0CBRK83LC)<br>
-[Amazon Paperback](https://www.amazon.com/dp/B0C9SC73JC?ref_=pe_3052080_397514860)<br>
-[Microsoft Word](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/MJ-9798851707100/Text/MidJourney.docx)<br>
-[Markdown](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/MJ-9798851707100/README.md)<br>
-[PDF](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/MJ-9798851707100/Text/MidJourney.pdf)<br>
-
 </div>
 
 <table>
@@ -19,7 +11,7 @@ This guide introduces MidJourney and doubles as a ChatGPT prompt. As experience 
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/2cddfc7a-9a31-4389-ab41-38c90a08972c">this link</a> or copy all of the following text and paste it into a new conversation.</p></th>
+<br><p>To use ChatGPT as a prompt generator use this GPT <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">Mid Journey Craftsman</a> or copy all of the following text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -164,7 +156,7 @@ ChatGPT, now that you understand Midjourney I need your help creating some promp
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>To use ChatGPT as a prompt generator, continue the conversation from <a href="https://chat.openai.com/share/2cddfc7a-9a31-4389-ab41-38c90a08972c">this link</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
+<th><p>To use ChatGPT as a prompt generator use this GPT <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">Mid Journey Craftsman</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
