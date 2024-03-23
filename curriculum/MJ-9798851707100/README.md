@@ -11,7 +11,7 @@
 <thead>
 <tr class="header">
 <th>
-<br><p>To use ChatGPT as a prompt generator use <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">Mid Journey Craftsman</a> or copy all of the following text and paste it into a new conversation.</p></th>
+<br><p>To use ChatGPT as a generator use <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">This GPT</a> or copy the following text into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
@@ -156,7 +156,7 @@ ChatGPT, now that you understand Midjourney I need your help creating some promp
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>To use ChatGPT as a prompt generator use <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">Mid Journey Craftsman</a>, or copy all of the previous text and paste it into a new conversation.</p></th>
+<th><p>To use ChatGPT as a prompt generator use <a href="https://chat.openai.com/g/g-hj3EroulQ-mid-journey-craftsman">This GPT</a>, or copy the previous text into a new conversation.</p></th>
 </tr>
 </thead>
 <tbody>
