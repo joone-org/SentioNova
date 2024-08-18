@@ -2,12 +2,7 @@
 
 * 🎨 [Beginning Midjourney](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/MJ-9798851707100/README.md)<br>
 * 💰 [CoinWar](https://github.com/joone-org/coinwar)<br>
-* 🏴‍☠️ [Interdisciplinary Piracy](https://github.com/joone-org/curriculum.joone.org/blob/main/curriculum/PirateStudies/Pirate%20Studies%20e7c9683be6504bb4b25a34910d2532eb.md)<br>
-* 💭 [Lyra's Journey with OCD](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/OCD-9798398759976)<br>
 * ⚙️  [Prompt Engineering with ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/GPT-9798852171689)<br>
-* 🌟 [Unseen Heroes](https://chat.openai.com/share/b2b77b92-bee9-4062-8e53-8a3120781f81)<br>
-
-You're encouraged to review and contribute to our work in the [wiki](https://github.com/joone-org/curriculum.joone.org/wiki).<br><br>
 
 ![ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/df1e49ea-0202-43fd-9c33-a7534594b515)
 
