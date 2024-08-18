@@ -4,7 +4,7 @@
 * 💰 [CoinWar](https://github.com/joone-org/coinwar)<br>
 * ⚙️  [Prompt Engineering with ChatGPT-4](https://github.com/joone-org/curriculum.joone.org/tree/main/curriculum/GPT-9798852171689)<br>
 
-
+<br><br>
 
 ![ship](https://github.com/joone-org/curriculum.joone.org/assets/137654670/df1e49ea-0202-43fd-9c33-a7534594b515)
 
